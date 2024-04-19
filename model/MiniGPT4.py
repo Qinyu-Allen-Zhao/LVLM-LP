@@ -1,9 +1,18 @@
-import sys
-sys.path.append("../MiniGPT-4")
 import argparse
+
+import sys
+###################################################
+####### Set the path to the repository here #######
+sys.path.append("../MiniGPT-4")
+
+######### Set the path to its config here #########
 class Args(argparse.Namespace):
     cfg_path = '../MiniGPT-4/eval_configs/minigpt4_llama2_eval.yaml'
     options = []
+###################################################
+####### Set the path to the repository here #######
+
+
     
 import torch
 from torch import nn

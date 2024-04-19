@@ -4,10 +4,10 @@ import json
 from dataset.base import BaseDataset
 
 class MADBench(BaseDataset):
-    def __init__(self, prompter, split="val"):
+    def __init__(self, prompter, split="val", data_root="/data/coco/"):
         super(MADBench, self).__init__()
-        self.ann_root = "../MAD-Generation/output/"
-        self.img_root = "/data/coco/"
+        self.ann_root = "./data/MADBench/"
+        self.img_root = data_root
         self.split = split
         self.prompter = prompter
          

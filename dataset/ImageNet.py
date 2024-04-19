@@ -7,10 +7,10 @@ from dataset.base import BaseDataset
 from utils.func import read_jsonl
 
 class ImageNetDataset(BaseDataset):
-    def __init__(self, split="val"):
+    def __init__(self, split="val", data_root="/data/ImageNet/"):
         super(ImageNetDataset, self).__init__()
         self.wnid_to_idx = json.load(open("./data/ImageNet2012_wnid_to_idx.json"))
-        self.img_root = f"/data/ImageNet2012/{split}"
+        self.img_root = os.path.join(data_root, "{split}")
         self.split = split
          
     def get_data(self):

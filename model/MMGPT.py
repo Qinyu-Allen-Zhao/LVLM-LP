@@ -1,5 +1,8 @@
 import sys
+###################################################
+####### Set the path to the repository here #######
 sys.path.append("../Multimodal-GPT/")
+###################################################
 
 import torch
 from torch import nn

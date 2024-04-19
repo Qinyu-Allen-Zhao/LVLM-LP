@@ -1,5 +1,8 @@
 import sys
+###################################################
+####### Set the path to the repository here #######
 sys.path.append("../LLaMA-Adapter/llama_adapter_v2_multimodal7b")
+###################################################
 
 import torch
 from PIL import Image

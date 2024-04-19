@@ -6,13 +6,13 @@ from datasets import load_dataset
 from dataset.base import BaseDataset
 
 class MathVista(BaseDataset):
-    def __init__(self, prompter, split="testmini"):
+    def __init__(self, prompter, split="testmini", data_root="/data/MathVista/"):
         super(MathVista, self).__init__()
         if split == "testmini":
             self.ann = load_dataset("AI4Math/MathVista")['testmini']
         else:
             self.ann = json.load(open(f"./output/{split}/MathV_output.json"))
-        self.img_root = f"/data/MathVista/"
+        self.img_root = data_root
         self.split = split
         self.prompter = prompter
          

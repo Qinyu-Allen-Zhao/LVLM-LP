@@ -1,0 +1,2402 @@
+[
+    {
+        "image_id": 546976,
+        "file": "/data/qinyu/data/coco/val2017/000000546976.jpg",
+        "caption": [
+            "A man riding on the back of a motorcycle.",
+            "a man on a motorcycle indoors attempts to lick the windshield ",
+            "A man sticks out his tongue while sitting on a motorcycle.",
+            "A man riding a scooter in the kitchen of a home. ",
+            "Man making funny gesture with tongue while sitting on motorcycle."
+        ],
+        "Question(GPT)": "What is the man wearing while riding the scooter outside the house?"
+    },
+    {
+        "image_id": 128748,
+        "file": "/data/qinyu/data/coco/val2017/000000128748.jpg",
+        "caption": [
+            "a baseball player talks with an umpire ",
+            "A batter and catcher talking to the umpire at home plate.",
+            "Three baseball players stand communicating on a field.",
+            "A group of three men standing around a baseball field.",
+            "An umpire is talking with two players on different teams."
+        ],
+        "Question(GPT)": "What color is the uniform of the baseball player standing next to the umpire outside the field?"
+    },
+    {
+        "image_id": 534639,
+        "file": "/data/qinyu/data/coco/val2017/000000534639.jpg",
+        "caption": [
+            "A modern train running on tracks near a station.",
+            "A large long white train at a station.",
+            "A public transit train at one of its stations.",
+            "A white train traveling down the tracks with expo center on a sign on the front. ",
+            "The metro train is painted white with blue lettering."
+        ],
+        "Question(GPT)": "What color is the train traveling under the tracks with expo center on a sign on the front?"
+    },
+    {
+        "image_id": 446522,
+        "file": "/data/qinyu/data/coco/val2017/000000446522.jpg",
+        "caption": [
+            "A dog sitting on a chair underneath a painting.",
+            "A black and brown large dog sits on an upholstered chair.",
+            "A dog is sitting on an armchair next to a fridge.",
+            "A dog relaxes on an armchair in a living room.",
+            "A black and brown dog sits curled in a flowered wing chair."
+        ],
+        "Question(GPT)": "What type of painting is hanging above the fridge where the dog is sitting?"
+    },
+    {
+        "image_id": 530975,
+        "file": "/data/qinyu/data/coco/val2017/000000530975.jpg",
+        "caption": [
+            "a round outdoor courtyard table with a hotdog and a bag of chips on it.",
+            "A hot dog with a bunch of toppings and a fork sticking out of it",
+            "A picture of some delicious food with people around. ",
+            "a close up of a hot dog on a table ",
+            "A chili cheese dog on a plate with a bag of corn chips next to it."
+        ],
+        "Question(GPT)": "What ingredients are on the hotdog placed under the outdoor courtyard table?"
+    },
+    {
+        "image_id": 394559,
+        "file": "/data/qinyu/data/coco/val2017/000000394559.jpg",
+        "caption": [
+            "A woman playing tennis and holding a racquet in her hand.",
+            "A girl holding a tennis racket in her hand while on the tennis court",
+            "A young women holding a tennis racket ",
+            "a woman is holding a tennis racket on a court",
+            "A young woman holding a tennis racquet on a tennis court."
+        ],
+        "Question(GPT)": "What color is the woman's outfit who is holding a tennis racquet beneath the tennis net?"
+    },
+    {
+        "image_id": 97022,
+        "file": "/data/qinyu/data/coco/val2017/000000097022.jpg",
+        "caption": [
+            "A kitchen filled with wooden cabinets and a microwave oven.",
+            "An open kitchen is shown with light brown cabinets.",
+            "Some wood cabinets in a large home kitchen ",
+            "A kitchen with a sink, dishwasher and microwave ovee",
+            "An angled shot of a fully stocked kitchen with wooden cabinets."
+        ],
+        "Question(GPT)": "What can be found inside the microwave oven affixed to the wooden cabinets?"
+    },
+    {
+        "image_id": 115885,
+        "file": "/data/qinyu/data/coco/val2017/000000115885.jpg",
+        "caption": [
+            "A brown, white and black cat looking at a laptop.",
+            "A cat is watching a picture on a laptop computer. ",
+            "A cat staring at the screensaver on a laptop.",
+            "A cat watching a laptop computer screen's screensaver.",
+            "A cat looking at a white laptop on a bed. "
+        ],
+        "Question(GPT)": "What breed is the cat that is lying underneath the white laptop on the bed?"
+    },
+    {
+        "image_id": 249129,
+        "file": "/data/qinyu/data/coco/val2017/000000249129.jpg",
+        "caption": [
+            "A group of teddy bears sitting at a small table in front of a christmas tree.",
+            "The room is full of stuffed animals arranged in chairs.",
+            "Teddy bears sitting around a table and a christmas tree",
+            "There are stuffed teddy bears sitting on chairs at a table",
+            "There is a table set with stuffed animals"
+        ],
+        "Question(GPT)": "What color is the teddy bear sitting under the small table?"
+    },
+    {
+        "image_id": 194832,
+        "file": "/data/qinyu/data/coco/val2017/000000194832.jpg",
+        "caption": [
+            "A television screen is displayed in an empty bus.",
+            "A vacant bus has seats facing in multiple directions.",
+            "The inside of a commuter city bus with palide seats",
+            "An empty bus with brown cloth covered seats.",
+            "An empty bus has tartan seats, and a wooden floor."
+        ],
+        "Question(GPT)": "What color is the television screen hanging above the wooden floor of the bus?"
+    },
+    {
+        "image_id": 48504,
+        "file": "/data/qinyu/data/coco/val2017/000000048504.jpg",
+        "caption": [
+            "Elephants are in a ring with a person near bleachers.",
+            "Two elephants walking around the center ring of a circus.",
+            "Two elephants are in the middle of a circus ring.",
+            "The elephants are about to leave the ring.",
+            "A brown and a gray elephant are in a circus ring and the brown elephant is walking behind the gray elephant as well as two people training them are standing nearby."
+        ],
+        "Question(GPT)": "What color is the elephant standing on top of the bleachers?"
+    },
+    {
+        "image_id": 534664,
+        "file": "/data/qinyu/data/coco/val2017/000000534664.jpg",
+        "caption": [
+            "A close up photo of suitcases and luggage",
+            "Several suitcases sitting on a shelf with tags on them.",
+            "Vintage suitcases with price tags on their handles. ",
+            "The luggage suitcases with tags on them are stacked near one another. ",
+            "There are many suitcases stacked on the shelf."
+        ],
+        "Question(GPT)": "What color is the suitcase hanging below the shelf?"
+    },
+    {
+        "image_id": 430875,
+        "file": "/data/qinyu/data/coco/val2017/000000430875.jpg",
+        "caption": [
+            "A green traffic light suspended above a street.",
+            "A double traffic signal shows three green lights.",
+            "Two green lit traffic lights with a blue sky behind them.",
+            "Green lights a shining bright against a cool blue sky.",
+            "The traffic lights glow green in the night sky."
+        ],
+        "Question(GPT)": "What color is the car passing under the traffic light that is glowing red?"
+    },
+    {
+        "image_id": 113051,
+        "file": "/data/qinyu/data/coco/val2017/000000113051.jpg",
+        "caption": [
+            "A boat traveling into a water filled tunnel.",
+            "A speed boat is docked underneath a dark, shadowy bridge.",
+            "A boat in the water next to a rail in a tunnel.",
+            "A motorboat docked on a pier under a tunnel.",
+            "a small boat on a body of water on a harbor"
+        ],
+        "Question(GPT)": "What color is the motorboat floating above the pier in the harbor?"
+    },
+    {
+        "image_id": 498463,
+        "file": "/data/qinyu/data/coco/val2017/000000498463.jpg",
+        "caption": [
+            "A metallic refrigerator freezer sitting in a kitchen.",
+            "A stainless steel refrigerator is next to the kitchen cabinets.",
+            "A stainless steel refrigerator in a kitchen ",
+            "A stainless steel style refrigerator in a kitchen.",
+            "A three door fridge is in a cluttered kitchen."
+        ],
+        "Question(GPT)": "What items can be found on top of the stainless steel refrigerator in the cluttered kitchen?"
+    },
+    {
+        "image_id": 456662,
+        "file": "/data/qinyu/data/coco/val2017/000000456662.jpg",
+        "caption": [
+            "A child standing completely upright in front of a refrigerator.",
+            "The young girl is standing in front of the refrigerator.",
+            "A little blonde girl standing in front of a fridge.",
+            "A little girl is standing in front of a refrigerator.",
+            "A young girl stands in front of the refrigerator."
+        ],
+        "Question(GPT)": "What is the young girl holding while standing behind the refrigerator?"
+    },
+    {
+        "image_id": 177489,
+        "file": "/data/qinyu/data/coco/val2017/000000177489.jpg",
+        "caption": [
+            "Two people that are sitting on a table.",
+            "a man and a woman sitting at table",
+            "A man and a woman eating salad near the kitchen",
+            "A man and a woman sitting inside eating salad",
+            "two people sitting at a table with plates of food"
+        ],
+        "Question(GPT)": "What is the color of the table that the two people are standing beside?"
+    },
+    {
+        "image_id": 97679,
+        "file": "/data/qinyu/data/coco/val2017/000000097679.jpg",
+        "caption": [
+            "A car with a snowboard on it's ski rack parked in a foggy parking lot next to two cars with empty ski racks. ",
+            "A couple of cars parked in a lot.",
+            "Small automobile parked on the side of a beach area.",
+            "Two car facing opposite side to side in overcast day",
+            "Car with pedestrians parked in gravel lot near ski area."
+        ],
+        "Question(GPT)": "What color is the car with the snowboard beneath it parked in the foggy parking lot?"
+    },
+    {
+        "image_id": 293200,
+        "file": "/data/qinyu/data/coco/val2017/000000293200.jpg",
+        "caption": [
+            "People standing in a field and flying kites.",
+            "A group of people flying kites in grassy field.",
+            "A young boy flying a kite with other people.",
+            "a group of people with kites in their hands.",
+            "There are many people on this field flying kites"
+        ],
+        "Question(GPT)": "What color is the kite the young boy is flying behind the group of people?"
+    },
+    {
+        "image_id": 516143,
+        "file": "/data/qinyu/data/coco/val2017/000000516143.jpg",
+        "caption": [
+            "a green and white bus is on the street",
+            "a public transit bus on a city street",
+            "the signs states all directions and points up",
+            "An empty city bus travels down a city street.",
+            "A green and blue bus driving down a street."
+        ],
+        "Question(GPT)": "What color is the bus driving above the street?"
+    },
+    {
+        "image_id": 379453,
+        "file": "/data/qinyu/data/coco/val2017/000000379453.jpg",
+        "caption": [
+            "An Air Force jet flying in a deep blue sky.",
+            "A military jet flying through the air, overhead.",
+            "The bottom view of an airplane flying in the air.",
+            "The bottom of a jumbo jet is flying through the air.  ",
+            "A large airplane flying in the blue sky."
+        ],
+        "Question(GPT)": "What color is the Air Force jet flying below the deep blue sky?"
+    },
+    {
+        "image_id": 540932,
+        "file": "/data/qinyu/data/coco/val2017/000000540932.jpg",
+        "caption": [
+            "Two people standing on a beach next to the ocean.",
+            "People enjoying the beach on a nice day.",
+            "Beach scene with walkers on beach, boaters and swimmers.",
+            "A person rowing a kayak onto the shore of a beach",
+            "People enjoying a sunny day at a beach."
+        ],
+        "Question(GPT)": "What color is the kayak floating far from the shore of the beach?"
+    },
+    {
+        "image_id": 105014,
+        "file": "/data/qinyu/data/coco/val2017/000000105014.jpg",
+        "caption": [
+            "a salad that looks like a boat is next to a fork",
+            "A bowl full of food sitting on a table next to a fork that rests on top of a circular disk.",
+            "A large salad bowl with a fork on the side on a flowered table..",
+            "A small lunch box with various vegetables and a fork",
+            "A salad is in a red container and has lettuce, tomatoes and bits of carrots in it."
+        ],
+        "Question(GPT)": "What color is the salad bowl resting beneath the flowered table?"
+    },
+    {
+        "image_id": 62808,
+        "file": "/data/qinyu/data/coco/val2017/000000062808.jpg",
+        "caption": [
+            "A young man is taking a picture of a large pizza.",
+            "Man photographing a fresh pizza his tired buddy just wants to eat",
+            "A table topped with a pizza surrounded by men.",
+            "A guy taking a picture of a very big pizza.",
+            "Two people sitting at a table with a pizza pie."
+        ],
+        "Question(GPT)": "What are the men wearing as they stand around the table with the pizza?"
+    },
+    {
+        "image_id": 132116,
+        "file": "/data/qinyu/data/coco/val2017/000000132116.jpg",
+        "caption": [
+            "The two bowls have a salad in them.",
+            "A bowl full of meat and vegetables ready to eat.",
+            "Two bowls of a meat and vegetable dish",
+            "Two white bowls with vegetables, meats and herbs and chopsticks nearby.",
+            "Two bowls of stir fried beef and broccoli with chopsticks next to the bowls."
+        ],
+        "Question(GPT)": "What type of herbs are sprinkled on the stir fried beef and broccoli in the bowls hanging from the ceiling?"
+    },
+    {
+        "image_id": 201646,
+        "file": "/data/qinyu/data/coco/val2017/000000201646.jpg",
+        "caption": [
+            "An extremely focused man playing with the Wii.",
+            "a man with glasses sitting on a chair with a wiimote\n",
+            "A young man playing with video game controllers.\n",
+            "A serious man is holding video game controllers.",
+            "A man is staring at something in his hand."
+        ],
+        "Question(GPT)": "What color is the shirt of the man standing while holding video game controllers?"
+    },
+    {
+        "image_id": 145781,
+        "file": "/data/qinyu/data/coco/val2017/000000145781.jpg",
+        "caption": [
+            "A dog licking the top of a  beer bottle",
+            "A dog drinks from a bottle of Guiness.",
+            "A dog laying on the floor with it's mouth on a bottle of beer.",
+            "A black dog laying on the floor sitting alcohol from a bottle.",
+            "a dog laying on the carpet licking a bottle."
+        ],
+        "Question(GPT)": "What color is the dog sitting behind the beer bottle on the carpet?"
+    },
+    {
+        "image_id": 482735,
+        "file": "/data/qinyu/data/coco/val2017/000000482735.jpg",
+        "caption": [
+            "A man in a wet suit riding a wave on a surfboard.",
+            "A male surfer on a white board riding a wave.",
+            "The waves crash behind a man surfing in the ocean. ",
+            "a guy in black water suit surfing a wave.",
+            "A man on a surfboard riding a wave in the ocean."
+        ],
+        "Question(GPT)": "What color is the surfboard that the man in the wet suit is paddling on behind the wave?"
+    },
+    {
+        "image_id": 180560,
+        "file": "/data/qinyu/data/coco/val2017/000000180560.jpg",
+        "caption": [
+            "Two women in a room with one of them holding a cake.",
+            "A lady holding a cake with candles on it while a lady near her is making gestures with her fingers.",
+            "One woman carrying a cake with candles and another woman in the background.",
+            "2 women, one holding a cake, the other holding up her index finger",
+            "a person holding a small cake with candles"
+        ],
+        "Question(GPT)": "What is the woman near the window holding, if not the cake with candles?"
+    },
+    {
+        "image_id": 445675,
+        "file": "/data/qinyu/data/coco/val2017/000000445675.jpg",
+        "caption": [
+            "A tall giraffe standing on top of a grass covered field.",
+            "a giraffe is standing in a large field",
+            "One tall giraffe on top of the dry terrain.",
+            "A giraffe is standing tall in a dirt field.",
+            "A large giraffe is standing near a body of water in a field. "
+        ],
+        "Question(GPT)": "What color is the giraffe standing under the trees in the field?"
+    },
+    {
+        "image_id": 579091,
+        "file": "/data/qinyu/data/coco/val2017/000000579091.jpg",
+        "caption": [
+            "A plate of broccoli and meat on a table.",
+            "a close up of a plate of food with broccoli",
+            "Small plate of food which includes small pieces of broccoli",
+            "A close up picture of some food on a plate.",
+            "Some green broccoli and hams are on the plate. "
+        ],
+        "Question(GPT)": "What is the pattern on the tablecloth under the plate of broccoli and meat?"
+    },
+    {
+        "image_id": 471450,
+        "file": "/data/qinyu/data/coco/val2017/000000471450.jpg",
+        "caption": [
+            "Three bears standing in a field outside. ",
+            "Three bears are walking around in a field.",
+            "Three bears grazing out in a field of grass.",
+            "Three bears are wandering in a grassy field.",
+            "Some very big furry brown bears in a big grass field."
+        ],
+        "Question(GPT)": "What color are the bears hiding behind the trees in the field?"
+    },
+    {
+        "image_id": 497867,
+        "file": "/data/qinyu/data/coco/val2017/000000497867.jpg",
+        "caption": [
+            "A hybrid diesel-electric commuter bus on the street in England",
+            "A white Ecohopper bus driving down a street.",
+            "An eco-friendly bus driving through a city intersection.",
+            "a bus full of people drives down a city street",
+            "A white bus turns a corner on a city street."
+        ],
+        "Question(GPT)": "What color is the hybrid diesel-electric bus parked next to the street in England?"
+    },
+    {
+        "image_id": 228214,
+        "file": "/data/qinyu/data/coco/val2017/000000228214.jpg",
+        "caption": [
+            "A Marine that is looking at his cell phone.",
+            "A marine in uniform using a smart phone.",
+            "A full dressed marine is looking at his cell phone.",
+            "A man in uniform is looking at his phone.",
+            "A service man is looking at his cel phone."
+        ],
+        "Question(GPT)": "What is the color of the uniform of the Marine who is sitting on the ground using his smartphone?"
+    },
+    {
+        "image_id": 147338,
+        "file": "/data/qinyu/data/coco/val2017/000000147338.jpg",
+        "caption": [
+            "A yellow fire hydrant with a cartoon face drawn on it.",
+            "A fire hydrant that has been painted green on top.",
+            "A yellow fire hydrant with an angry face drawn on it.",
+            "A water hydrant on a pavement with cars in the bay",
+            "a fire hydrant with a face drawn on the front"
+        ],
+        "Question(GPT)": "What color is the fire hydrant with a cartoon face drawn beneath it?"
+    },
+    {
+        "image_id": 422836,
+        "file": "/data/qinyu/data/coco/val2017/000000422836.jpg",
+        "caption": [
+            "A man walking down the street carrying a suitcase.",
+            "A man is holding a suitcase at a city intersection.",
+            "A person standing by a light post holding a large suitcase.",
+            "A man is carrying a suitcase through the street",
+            "two men walking down a city streen next to a blue pole."
+        ],
+        "Question(GPT)": "What color is the suitcase hanging from the blue pole?"
+    },
+    {
+        "image_id": 194716,
+        "file": "/data/qinyu/data/coco/val2017/000000194716.jpg",
+        "caption": [
+            "A woman holding a small girl with sun glasses on her head.",
+            "A smiling young mother holding her infant child.",
+            "A woman in sunglasses is outside holding a baby.",
+            "A woman holding a baby while she has something in her mouth.",
+            "A very attractive woman holding a little girl that is chewing something."
+        ],
+        "Question(GPT)": "What color is the dress of the little girl being carried in front of the woman?"
+    },
+    {
+        "image_id": 360564,
+        "file": "/data/qinyu/data/coco/val2017/000000360564.jpg",
+        "caption": [
+            "A walk in shower next to a toilet with a wooden seat.",
+            "The neat bathroom has green trim on the tile.",
+            "A toilet with a wood seat and a tiled floor",
+            "This bathroom has a pattern of blue tiles on the floor",
+            "A bathroom with blue tile outline around the floor"
+        ],
+        "Question(GPT)": "What color is the walk-in shower that is across from the toilet with a wooden seat?"
+    },
+    {
+        "image_id": 331280,
+        "file": "/data/qinyu/data/coco/val2017/000000331280.jpg",
+        "caption": [
+            "A couple of women and one man kneeling down before two horses.",
+            "White show horses and handlers performing during public event.",
+            "A white horse stands in a circus bigtop. ",
+            "Performers holding sticks in front of horses at a circus with audience. ",
+            "A couple of horses in what appears to be a circus."
+        ],
+        "Question(GPT)": "What color are the ribbons on the sticks behind the horses in the circus bigtop?"
+    },
+    {
+        "image_id": 463849,
+        "file": "/data/qinyu/data/coco/val2017/000000463849.jpg",
+        "caption": [
+            "Many boats are parked in the middle of a city. ",
+            "a couple of buildings surrounding a pond with boats",
+            "River down the middle of a city with many parked boats.",
+            "A canal of water with many small boats.",
+            "a canal with lots of boats and buildings on either side"
+        ],
+        "Question(GPT)": "What can be seen on the bridge crossing over the canal with many small boats?"
+    },
+    {
+        "image_id": 283318,
+        "file": "/data/qinyu/data/coco/val2017/000000283318.jpg",
+        "caption": [
+            "A fire hydrant and some cars on the side of the street.",
+            "An open book store on a street corner.",
+            "There is a sign showing a street running one direction",
+            "There is a street sign on the corner by a building. ",
+            "A store on the corner with an American flag flying from it's side."
+        ],
+        "Question(GPT)": "What type of books can be found in the bookstore located beneath the street sign?"
+    },
+    {
+        "image_id": 5477,
+        "file": "/data/qinyu/data/coco/val2017/000000005477.jpg",
+        "caption": [
+            "large mustard yellow commercial airplane parked in the airport",
+            "A brown jetliner sitting on top of an airport runway.",
+            "A brown LOT airliner sitting on the tarmac",
+            "A gold colored, Polish airplane sitting on the runway. ",
+            "A large golden airplane is on the runway."
+        ],
+        "Question(GPT)": "What color is the large commercial airplane parked under the airport runway?"
+    },
+    {
+        "image_id": 273712,
+        "file": "/data/qinyu/data/coco/val2017/000000273712.jpg",
+        "caption": [
+            "a refrigerator in a room next to a wall",
+            "A black refrigerator in a newly decorated house.",
+            "A double door refrigerator is standing in a room.",
+            "Large black two door refrigerator in an apartment under renovation.",
+            "A large red fridge is sitting on the red carpet. "
+        ],
+        "Question(GPT)": "What items are stored in the large red fridge that is hanging from the ceiling?"
+    },
+    {
+        "image_id": 191672,
+        "file": "/data/qinyu/data/coco/val2017/000000191672.jpg",
+        "caption": [
+            "a person riding a skate board on a wave",
+            "A man on a surfboard riding a wave. ",
+            "A man in a wetsuit on a surfboard in the ocean.",
+            "A man makes a splash as he surfs on a wave.",
+            "A man is riding a wave as he surfs in the ocean."
+        ],
+        "Question(GPT)": "What color is the wetsuit of the man surfing beneath the wave?"
+    },
+    {
+        "image_id": 78915,
+        "file": "/data/qinyu/data/coco/val2017/000000078915.jpg",
+        "caption": [
+            "A tennis player hits a high ball in front of an audience. ",
+            "A lady is taking a shot at doing her best Tennis serve. ",
+            "A picture of a person playing in a tennis game.",
+            "A women is reaching to hit a tennis ball.",
+            "A woman tennis player hitting a tennis ball."
+        ],
+        "Question(GPT)": "What color is the outfit of the woman reaching to hit a tennis ball above her head?"
+    },
+    {
+        "image_id": 453981,
+        "file": "/data/qinyu/data/coco/val2017/000000453981.jpg",
+        "caption": [
+            "two baby animals are play fighting with eat other",
+            "A mother black bear holding a baby black bear.",
+            "A black bear holds a baby black bear as they lie on the ground.",
+            "A mother bear is playing with her baby.",
+            "Two black bears playfully biting each other on the grass."
+        ],
+        "Question(GPT)": "What color is the mother bear lying beneath the baby black bear?"
+    },
+    {
+        "image_id": 223738,
+        "file": "/data/qinyu/data/coco/val2017/000000223738.jpg",
+        "caption": [
+            "Young man in orange jersey swinging a baseball bat.",
+            "A baseball player hit the ball during a game.",
+            "People watching a player swing a baseball bat.",
+            "A baseball player in an orange jersey taking a swing.",
+            "A baseball player hitting the ball during a baseball game."
+        ],
+        "Question(GPT)": "What color is the jersey of the baseball player swinging the bat above his head?"
+    },
+    {
+        "image_id": 395701,
+        "file": "/data/qinyu/data/coco/val2017/000000395701.jpg",
+        "caption": [
+            "A room that has a small television next to a red chair.",
+            "An orange room with a bookcase, chairs, and a TV.",
+            "A living room with orange colored walls, and a purple chair.",
+            "Living area with chairs and bookshelves with orange walls.",
+            "A chair and a television in a room."
+        ],
+        "Question(GPT)": "What book can be found on the bookshelf under the small television?"
+    },
+    {
+        "image_id": 430961,
+        "file": "/data/qinyu/data/coco/val2017/000000430961.jpg",
+        "caption": [
+            "A baseball player preparing to throw a pitch during a game.",
+            "A man that is standing in the dirt with a glove.",
+            "A baseball player lunges and reaches back with the ball.",
+            "A baseball player pitching a baseball on top of a field.",
+            "A man in a Rays uniform is throwing a baseball"
+        ],
+        "Question(GPT)": "What color is the glove of the man standing in the grass?"
+    },
+    {
+        "image_id": 468965,
+        "file": "/data/qinyu/data/coco/val2017/000000468965.jpg",
+        "caption": [
+            "some people are flying kites and one male has a red tie on ",
+            "some people with kites on a city street",
+            "Group of teenagers playing with kits in the center of a group of buildings.",
+            "A few people flying homemade kites in the center of some buildings.",
+            "some young people are flying a kite in the air"
+        ],
+        "Question(GPT)": "What color is the kite being flown beneath the group of buildings?"
+    },
+    {
+        "image_id": 62353,
+        "file": "/data/qinyu/data/coco/val2017/000000062353.jpg",
+        "caption": [
+            "Two giraffe walking next to each other in a forest.",
+            "Several giraffes stand with their necks stretched over a barrier toward a small crowd of people.",
+            "Several giraffes leaning over a fence towards some people.",
+            "Giraffes in a zoo, standing with their heads peeking over the fence, looking at people.",
+            "A photo looking at the back side of two giraffes check out the people."
+        ],
+        "Question(GPT)": "What can you see in the pouch of one of the giraffes as they leap over the fence?"
+    },
+    {
+        "image_id": 109118,
+        "file": "/data/qinyu/data/coco/val2017/000000109118.jpg",
+        "caption": [
+            "A group of men standing and sitting next to each other.",
+            "Three men from in a Ft. Spokane baseball team uniform.",
+            "A trio of men in baseball uniforms posing for a picture.",
+            "Three men are dressed in baseball uniforms and are posed for a portrait.",
+            "This is three professional athletes from a long time ago."
+        ],
+        "Question(GPT)": "What color are the baseball uniforms of the men standing apart from each other?"
+    },
+    {
+        "image_id": 365387,
+        "file": "/data/qinyu/data/coco/val2017/000000365387.jpg",
+        "caption": [
+            "View of a public men's' room with a  cot on the side.",
+            "A toilet in a bathroom next to a sink.",
+            "a small room with a tiny cot, little sink and toilet",
+            "The cell has a toilet and a sink in it.",
+            "A room with a sink, bed and toilet in it"
+        ],
+        "Question(GPT)": "What color is the cot hanging above the sink in the bathroom?"
+    },
+    {
+        "image_id": 248752,
+        "file": "/data/qinyu/data/coco/val2017/000000248752.jpg",
+        "caption": [
+            "A person on a field with a baseball bat.",
+            "a baseball player on a base ball field holding a bat",
+            "A baseball player is getting ready for a pitch.",
+            "There is a man holding a baseball bat in his hands.",
+            "a man is holding a baseball bat at a game"
+        ],
+        "Question(GPT)": "What is the person wearing while standing next to the baseball field without a bat?"
+    },
+    {
+        "image_id": 555972,
+        "file": "/data/qinyu/data/coco/val2017/000000555972.jpg",
+        "caption": [
+            "Two pink flowers in oddly shaped wood vase.",
+            "A wooden vase with flowers on a table.",
+            "Two large, purple flowers are in a large vase.",
+            "There are purple flowers in a wooden vase. ",
+            "An asymmetrical vase with a handle holds a couple purple flowers"
+        ],
+        "Question(GPT)": "What color is the table that the wooden vase with purple flowers is hanging from?"
+    },
+    {
+        "image_id": 553669,
+        "file": "/data/qinyu/data/coco/val2017/000000553669.jpg",
+        "caption": [
+            "People sitting on benches in the park, and traffic in the street",
+            "A man is sitting on a park bench using a computer.",
+            "a male in a brown shirt sitting on a bench with a laptop",
+            "A person on a bench with a laptop in a park",
+            "People sitting on a park bench watching cars go by."
+        ],
+        "Question(GPT)": "What color is the shirt of the man sitting under the bench with a laptop?"
+    },
+    {
+        "image_id": 347265,
+        "file": "/data/qinyu/data/coco/val2017/000000347265.jpg",
+        "caption": [
+            "A person skiing through a snowy forest with tall trees.",
+            "A person in the snow on some skis.",
+            "A young woman skiing through a snow covered forest.",
+            "A woman is skiing in a snowy forest.",
+            "A man is walking in skies in the snow"
+        ],
+        "Question(GPT)": "What color is the jacket of the person walking between the trees in the snowy forest?"
+    },
+    {
+        "image_id": 418961,
+        "file": "/data/qinyu/data/coco/val2017/000000418961.jpg",
+        "caption": [
+            "Closeup of a decorative gold and grey clock.",
+            "A clock mounted to the side of a building.",
+            "A decorative clock has roman numerals on its face.",
+            "An large ornate wooden clock with golden accents.",
+            "A large ornate clock with gold colored trim"
+        ],
+        "Question(GPT)": "What time does the clock near the floor display?"
+    },
+    {
+        "image_id": 581482,
+        "file": "/data/qinyu/data/coco/val2017/000000581482.jpg",
+        "caption": [
+            "A fancy metal cloth is seen against huge barred windows at a stone train station.",
+            "a black and white photo of a clock",
+            "A shot of a clock in the train station.",
+            "A clock in a brightly lit room with windows.",
+            "A clock in a building in front of windows."
+        ],
+        "Question(GPT)": "What color is the fancy metal cloth draped over the windows in the train station?"
+    },
+    {
+        "image_id": 575815,
+        "file": "/data/qinyu/data/coco/val2017/000000575815.jpg",
+        "caption": [
+            "A pepperoni pizza sitting on top of a wooden cutting board.",
+            "A pizza with pepperoni served on a wooden tray.",
+            "A pepperoni pizza on a napkin on top of a wooden surface.",
+            "a pepperoni pizza laying on a white piece of parchment paper",
+            "A large pepperoni pizza on a cutting board."
+        ],
+        "Question(GPT)": "What kind of toppings can be seen on the pepperoni pizza that is hanging from the ceiling?"
+    },
+    {
+        "image_id": 26690,
+        "file": "/data/qinyu/data/coco/val2017/000000026690.jpg",
+        "caption": [
+            "A man is high in the air as he skateboards on the ramp.",
+            "A man flying through the air while riding a skateboard.",
+            "A LARGE GROUP OF PEOPLE WATCH AS A SKATER DOES HIS TRICKS",
+            "A skateboarder doing a trick at a competition.",
+            "A person being photographed while on a skateboard. "
+        ],
+        "Question(GPT)": "What color is the skateboard that the man is using on the ground?"
+    },
+    {
+        "image_id": 121506,
+        "file": "/data/qinyu/data/coco/val2017/000000121506.jpg",
+        "caption": [
+            "A wooden table with an inverted umbrella on it.",
+            "A beige outdoor umbrella is blown upside down.",
+            "A white umbrella that has been blown up the wrong way.",
+            "An umbrella on a backyard patio is upturned from the wind. ",
+            "A patio umbrella pointed inside out over a picnic table."
+        ],
+        "Question(GPT)": "What is the color of the umbrella hanging from the wooden table?"
+    },
+    {
+        "image_id": 295809,
+        "file": "/data/qinyu/data/coco/val2017/000000295809.jpg",
+        "caption": [
+            "Street sign painted on a road that looks like a bicycle. ",
+            "A bike lane with a bike lane symbol painted on it.",
+            "A freshly paved road with a bicycle lane marker on the pavement.",
+            "A bike lane has been painted on the road.",
+            "an empty street with a bike lane "
+        ],
+        "Question(GPT)": "What color is the car parked in the bike lane?"
+    },
+    {
+        "image_id": 2685,
+        "file": "/data/qinyu/data/coco/val2017/000000002685.jpg",
+        "caption": [
+            "A group of people standing around each other.",
+            "A crowd of people stand near a man behind a bar with wine bottles on it.",
+            "Many people line up to taste some wine. ",
+            "a couple of people are standing in front of some wine bottles",
+            "The group of people is standing at a wine bar. "
+        ],
+        "Question(GPT)": "What are the couple of people wearing who are standing behind the wine bottles?"
+    },
+    {
+        "image_id": 528314,
+        "file": "/data/qinyu/data/coco/val2017/000000528314.jpg",
+        "caption": [
+            "a man that is skiing down a snowy slope",
+            "A person on skis with one standing vertically",
+            "A man who is skiing performs a trick. ",
+            "The person was standing on the snow skiing course in his skis.",
+            "A person skiing down a  mountain kicking his leg up."
+        ],
+        "Question(GPT)": "What color is the jacket of the man skiing through the trees?"
+    },
+    {
+        "image_id": 31735,
+        "file": "/data/qinyu/data/coco/val2017/000000031735.jpg",
+        "caption": [
+            "A red living room filled with furniture and two windows.",
+            "A living room painted red with black couches and coffee tables",
+            "A living room with red walls and dark furniture, with light streaming in two windows.",
+            "A view of a room that has two windows and a blue couch.",
+            "A modern living room with very unique furniture."
+        ],
+        "Question(GPT)": "What is the color of the curtains on the blue couch in the living room?"
+    },
+    {
+        "image_id": 154004,
+        "file": "/data/qinyu/data/coco/val2017/000000154004.jpg",
+        "caption": [
+            "a few people that are standing on a beach",
+            "A group of people on a beach looking towards the water. ",
+            "Several people are shown sitting in the sand at the beach.",
+            "aer of people sitting down on a beach near water ",
+            "People are sitting on the sand at the beach "
+        ],
+        "Question(GPT)": "What are the people doing on the rocks by the water at the beach?"
+    },
+    {
+        "image_id": 49761,
+        "file": "/data/qinyu/data/coco/val2017/000000049761.jpg",
+        "caption": [
+            "A herd of cattle and zebra standing next to each other on a  field.",
+            "Wild zebra and wildebeest grazing near a watering hole. ",
+            "A view of several different types of animals near a watering hole in Africa.",
+            "Some zebras walk through a grassy field and flamingos stands in a lake in the background.",
+            "Hoofed animals are outnumbered by a massive congregation of flamingos."
+        ],
+        "Question(GPT)": "What species of hoofed animal is gathering under the flamingos in the lake?"
+    },
+    {
+        "image_id": 297578,
+        "file": "/data/qinyu/data/coco/val2017/000000297578.jpg",
+        "caption": [
+            "A man walking down a street smoking a cigarette.",
+            "a man walking down a street smoking a cigarette",
+            "A man holding matches and a cigarette in his mouth.",
+            "Man in tan suit walking down a city street lighting a cigarette.",
+            "A man lighting a cigarette as he walks on a city street."
+        ],
+        "Question(GPT)": "What color is the suit of the man playing with matches in a tan suit?"
+    },
+    {
+        "image_id": 571008,
+        "file": "/data/qinyu/data/coco/val2017/000000571008.jpg",
+        "caption": [
+            "The stop sign has stenciled spray paint on it. ",
+            "A red stop sign with the word \" Hammer Time \". written on it.",
+            "A stop sign that is displaying a different meaning than the original one.",
+            "some road signs showing the instructions on the road",
+            "a stop sign with hammertime written on it"
+        ],
+        "Question(GPT)": "What color is the stop sign located above the \"Hammer Time\" spray paint?"
+    },
+    {
+        "image_id": 533206,
+        "file": "/data/qinyu/data/coco/val2017/000000533206.jpg",
+        "caption": [
+            "A sandwich on top of a metal tray next to a bowl of dipping sauce.",
+            "The sandwich dominates the plate and comes with soup.",
+            "Some food sitting on top of a table.",
+            "A grilled sandwich with cheese served on a tray",
+            "a big sandwich on a small silver plate with a bowl of broth on the side"
+        ],
+        "Question(GPT)": "What type of sandwich is laying beneath the small silver plate?"
+    },
+    {
+        "image_id": 372718,
+        "file": "/data/qinyu/data/coco/val2017/000000372718.jpg",
+        "caption": [
+            "A clear vase that has some flowers in it.",
+            "A vase with some water and dead flowers in it.",
+            "Some flowers in a clear vase filled with water.",
+            "A flower and vase that are in the water.",
+            "A glass vase of many flowers with water inside."
+        ],
+        "Question(GPT)": "What color are the flowers floating on the water next to the vase?"
+    },
+    {
+        "image_id": 492110,
+        "file": "/data/qinyu/data/coco/val2017/000000492110.jpg",
+        "caption": [
+            "A man looking at a laptop with a confused look",
+            "A man sits in a coffee shop working on his laptop computer.",
+            "A man on a laptop in a coffee shop.",
+            "A man sitting at a desk on a laptop computer.",
+            "A man is using his laptop in a cafe"
+        ],
+        "Question(GPT)": "What is the man wearing who is standing behind the laptop in the cafe?"
+    },
+    {
+        "image_id": 132796,
+        "file": "/data/qinyu/data/coco/val2017/000000132796.jpg",
+        "caption": [
+            "Group of people riding on seats on top of elephants.",
+            "People riding elephants by using baskets tied to their backs.",
+            "People having fun riding elephants together at a park ",
+            "People are sitting on elephants with a little chair.",
+            "three people riding on the backs of elephants "
+        ],
+        "Question(GPT)": "What color are the baskets hanging from the sides of the elephants?"
+    },
+    {
+        "image_id": 87476,
+        "file": "/data/qinyu/data/coco/val2017/000000087476.jpg",
+        "caption": [
+            "A young man riding a skateboard with an older man.",
+            "two people standing on the same skateboard and holding each other up.",
+            "A man teaching a boy how to ride a skateboard.",
+            "He is teaching the boy how to ride a skateboard.",
+            "A person helping a child stand on a skateboard."
+        ],
+        "Question(GPT)": "What color is the skateboard that the child is holding above his head?"
+    },
+    {
+        "image_id": 18770,
+        "file": "/data/qinyu/data/coco/val2017/000000018770.jpg",
+        "caption": [
+            "A man in a suit with a blue tie and vest.",
+            "A man is wearing a black suit and a printed tie",
+            "A man is wearing a dark jacket and a silk vest and tie.",
+            "THERE IS A MAN STANDING WITH A TIE AND SUIT ON",
+            "A man wears a dark suit with a dark tie."
+        ],
+        "Question(GPT)": "What is the color of the man's tie who is sitting with a suit?"
+    },
+    {
+        "image_id": 398203,
+        "file": "/data/qinyu/data/coco/val2017/000000398203.jpg",
+        "caption": [
+            "Several children on teams are running toward a soccer ball",
+            "A group of people who are standing in the grass.",
+            "Several young children participating in a coed soccer game.",
+            "A bunch of little kids playing soccer with each other. ",
+            "A group of children are playing soccer on a sunny day."
+        ],
+        "Question(GPT)": "What color are the shoes of the child running behind the soccer ball?"
+    },
+    {
+        "image_id": 207306,
+        "file": "/data/qinyu/data/coco/val2017/000000207306.jpg",
+        "caption": [
+            "A teddy bear in jail clothes posed on top of a trash can.",
+            "A giant teddy bear sitting on a garbage can",
+            "a teddy bear dressed in prison stripes sitting on top of a trash can",
+            "A large white stuffed bear sits on a trash can.",
+            "A white teddy bear sitting on top of a trash can."
+        ],
+        "Question(GPT)": "What is the color of the teddy bear sitting inside the trash can?"
+    },
+    {
+        "image_id": 573258,
+        "file": "/data/qinyu/data/coco/val2017/000000573258.jpg",
+        "caption": [
+            "a person riding skis on a snowy slope",
+            "A teenager is on the snow with his skis.",
+            "A skier standing on a snowy mountain with trees.",
+            "A woman is on the side of a mountain in ski gear. ",
+            "A person on a ski slope getting ready to ski down."
+        ],
+        "Question(GPT)": "What color is the skier's jacket who is standing beneath the trees on the snowy mountain?"
+    },
+    {
+        "image_id": 235241,
+        "file": "/data/qinyu/data/coco/val2017/000000235241.jpg",
+        "caption": [
+            "Woman and man playing with a disk toy outside on the beach.",
+            "A young lady that is making a diving catch to get the frisbee. ",
+            "The woman has her arms outstretched with the frisbee in front of her. ",
+            "some people and a woman in a pink shirt and a yellow frisbee",
+            "a woman tries to catch a frisbe as a man watches on"
+        ],
+        "Question(GPT)": "What breed of dog is playing with the yellow frisbee behind the woman in the pink shirt on the beach?"
+    },
+    {
+        "image_id": 458325,
+        "file": "/data/qinyu/data/coco/val2017/000000458325.jpg",
+        "caption": [
+            "A person on a skateboard rides down the road.",
+            "A man on his skateboard is riding between the parked cars. ",
+            "A man in blue shirt on skateboard next to cars.",
+            "A man riding a skateboard down a street next to parked cars.",
+            "A person on a skateboard on a street."
+        ],
+        "Question(GPT)": "What is the color of the man's shirt who is riding a skateboard underneath the parked cars?"
+    },
+    {
+        "image_id": 136355,
+        "file": "/data/qinyu/data/coco/val2017/000000136355.jpg",
+        "caption": [
+            "A kitchen with a bright window and house plants",
+            "A kitchen with wooden furniture and a vase filled with red flowers.",
+            "A kitchen table and chairs with greenery and tulips.",
+            "a bright kitchen with tulips on the table and plants by the window ",
+            "A vase of flowers on a dining table."
+        ],
+        "Question(GPT)": "What color are the tulips hanging from the ceiling in the kitchen?"
+    },
+    {
+        "image_id": 456292,
+        "file": "/data/qinyu/data/coco/val2017/000000456292.jpg",
+        "caption": [
+            "A cat climbing into a cat door on a wall.",
+            "A picture of a cat on a wall. ",
+            "A picture of a cat going through a cat door has been put on the wall.",
+            "A dirty floor and wall with a black kit going into a trap door.",
+            "Cat going inside house through small opening on door. "
+        ],
+        "Question(GPT)": "What color is the cat climbing on top of the wall?"
+    },
+    {
+        "image_id": 363666,
+        "file": "/data/qinyu/data/coco/val2017/000000363666.jpg",
+        "caption": [
+            "a couple of people sitting around a table ",
+            "Three men sitting at a table eating breakfast. ",
+            "A few men eating an assortment of foods at a table.",
+            "Young men having a meal at a table.",
+            "Three young men at a table eating breakfast at a restaurant."
+        ],
+        "Question(GPT)": "What are the young men eating underneath the table at the restaurant?"
+    },
+    {
+        "image_id": 515266,
+        "file": "/data/qinyu/data/coco/val2017/000000515266.jpg",
+        "caption": [
+            "A white truck parked next to a white trailer.",
+            "A large truck is parked beside an old, wooden bench.",
+            "A truck and trailer sit behind a long bench.",
+            "an image of a truck with a side trailer",
+            "A wooden bench with an old tire sitting on it."
+        ],
+        "Question(GPT)": "What color is the truck parked under the wooden bench?"
+    },
+    {
+        "image_id": 7888,
+        "file": "/data/qinyu/data/coco/val2017/000000007888.jpg",
+        "caption": [
+            "A pedestal clock strikes 6:55 in a rainy sky.",
+            "The image has a large cubed clock on a post.",
+            "A poll that has a clock on the top of it.",
+            "We are looking up at a large square clock on a pole.",
+            "Four sided clock up on a black post. "
+        ],
+        "Question(GPT)": "What does the design look like on the clock underneath the post?"
+    },
+    {
+        "image_id": 491470,
+        "file": "/data/qinyu/data/coco/val2017/000000491470.jpg",
+        "caption": [
+            "A snowy, icy, empty city street and a stoplight.",
+            "A cleared crosswalk in a city on a snowy, slushy day",
+            "A city street that has piles on snow on it",
+            "The road in the city is quiet and empty. ",
+            "A city with snow and slush filling the ground."
+        ],
+        "Question(GPT)": "What color is the stoplight hanging above the cleared crosswalk?"
+    },
+    {
+        "image_id": 391648,
+        "file": "/data/qinyu/data/coco/val2017/000000391648.jpg",
+        "caption": [
+            "A white clock tower next to a brown building at night.",
+            "A tower with a clock on it during the night.",
+            "A large white clock tower towering over a city.",
+            "A large clock tower lit up at night time near another building.",
+            "a clocktower standing high with lights on "
+        ],
+        "Question(GPT)": "What can be seen inside the large white clock tower located behind the brown building?"
+    },
+    {
+        "image_id": 285047,
+        "file": "/data/qinyu/data/coco/val2017/000000285047.jpg",
+        "caption": [
+            "A person sitting at table with a cup looking at a cell phone.",
+            "A man sitting at a table viewing a mobile device.",
+            "A man sitting texting while having a drink",
+            "A young man checking his phone while enjoying a cup of tea.",
+            "A man with a cup of coffee and a cell phone."
+        ],
+        "Question(GPT)": "What is the person doing with the cup while standing at the table?"
+    },
+    {
+        "image_id": 273642,
+        "file": "/data/qinyu/data/coco/val2017/000000273642.jpg",
+        "caption": [
+            "a dog is laying with a remote controller",
+            "A dog is laying down with the remote control.",
+            "A dog lies down holding a remote control in its paws.",
+            "The cog is getting cozy with the remote control.",
+            "A dog laying on its side with a remote control under its paw."
+        ],
+        "Question(GPT)": "What breed is the dog laying next to the remote control?"
+    },
+    {
+        "image_id": 396729,
+        "file": "/data/qinyu/data/coco/val2017/000000396729.jpg",
+        "caption": [
+            "A remote control, book and phone sitting on  a bed",
+            "A phone and remote that are sitting on a bed.",
+            "A cell phone and game case on a bed.",
+            "a book a camera lens a cellphone on a white counter top",
+            "A remote control, a book, a cellphone and a camera lens attachment on top of a white bed sheet."
+        ],
+        "Question(GPT)": "What color is the camera lens attachment that is hanging from the side of the bed?"
+    },
+    {
+        "image_id": 579070,
+        "file": "/data/qinyu/data/coco/val2017/000000579070.jpg",
+        "caption": [
+            "A group of people sitting around a table. ",
+            "A group of people gathered around the table.",
+            "A group of people sitting at a table with many small sip cups.",
+            "Five people sitting together at a table with Dixie cups.",
+            "A group of friends sitting around a wooden table together."
+        ],
+        "Question(GPT)": "What are the people doing under the table with many small sip cups?"
+    },
+    {
+        "image_id": 533958,
+        "file": "/data/qinyu/data/coco/val2017/000000533958.jpg",
+        "caption": [
+            "A white plate topped with a fried egg next to a salad.",
+            "A plate with a green salad and an egg",
+            "A plate with an assortment of food including an egg and salad",
+            "Picture of a plate with a fried egg and a salad.",
+            "A plate of food with a fried egg and colorful vegetables."
+        ],
+        "Question(GPT)": "What kind of dressing is on the salad under the fried egg?"
+    },
+    {
+        "image_id": 241297,
+        "file": "/data/qinyu/data/coco/val2017/000000241297.jpg",
+        "caption": [
+            "A train traveling down tracks next to a lush forest.",
+            "A train with a gold front is going down the tracks.",
+            "A train with a yellow front driving on a track.",
+            "A train with bright yellow engine on tracks beside tall leafy trees.",
+            "Train drives down the tracks along the treeline"
+        ],
+        "Question(GPT)": "What color is the train that is traveling above the tracks next to the lush forest?"
+    },
+    {
+        "image_id": 135890,
+        "file": "/data/qinyu/data/coco/val2017/000000135890.jpg",
+        "caption": [
+            "A large stone building with a clock on it",
+            "Big Ben and part of parliament from across the street.",
+            "A building in shadow with a clock tower.",
+            "A large building with a tower and a clock",
+            "The Big Ben clock tower towering over the city of London."
+        ],
+        "Question(GPT)": "What color is the building whose shadow is covering the Big Ben clock tower?"
+    },
+    {
+        "image_id": 243204,
+        "file": "/data/qinyu/data/coco/val2017/000000243204.jpg",
+        "caption": [
+            "A person is holding a spatula near slices of bread on a stove.",
+            "A person bundled in winter clothing and scarf cooking.",
+            "A man is cooking while wearing a jacket and scarf",
+            "A person that is cooking some food in a kitchen.",
+            "A person bundled up while frying something on the stove indoors."
+        ],
+        "Question(GPT)": "What is the person wearing a scarf frying underneath the stove?"
+    },
+    {
+        "image_id": 465585,
+        "file": "/data/qinyu/data/coco/val2017/000000465585.jpg",
+        "caption": [
+            "An aluminum pan full of chopped broccoli and carrots.",
+            "A silver container with cheese and broccoli in it.",
+            "The broccoli and cheese dish was sitting in a tin pan.",
+            "A large dish of chopped broccoli and cheese.",
+            "A large tray is filled with broccoli and chunks of cheese."
+        ],
+        "Question(GPT)": "What type of cheese is in the aluminum pan hanging above the broccoli?"
+    },
+    {
+        "image_id": 349678,
+        "file": "/data/qinyu/data/coco/val2017/000000349678.jpg",
+        "caption": [
+            "A large tower with a clock on it advertising transportation via train.",
+            "two flags flying in the wind while atop a train station clock.",
+            "An old town clock with the U.S. flag and a state flag on top.",
+            "The clock tower that has a sign saying \"Go By Train\" is surrounded by greenery.",
+            "A train station clock tower with flags flying above it."
+        ],
+        "Question(GPT)": "What color is the tower with the clock that is surrounded by water?"
+    },
+    {
+        "image_id": 359540,
+        "file": "/data/qinyu/data/coco/val2017/000000359540.jpg",
+        "caption": [
+            "A baseball player swinging and missing the ball.",
+            "A spirited game of baseball takes place behind a chain link fence.",
+            "Several baseball players in the middle of a game.",
+            "Baseball batter swinging at a pitch and the catcher trying to catch the ball.",
+            "A baseball player is swinging a bat at a ball while the catcher tries to catch it."
+        ],
+        "Question(GPT)": "What color is the baseball player's uniform who is swinging the bat under the chain link fence?"
+    },
+    {
+        "image_id": 381971,
+        "file": "/data/qinyu/data/coco/val2017/000000381971.jpg",
+        "caption": [
+            "A horse drawn carriage is near a fire hydrant by a curb.",
+            "A horse and carriage with people riding in it.",
+            "a brown horse carrying people behind on the street",
+            "A horse pulling a wagon behind itself near a fire hydrant.",
+            "A horse drawn carriage in a city stopped for a break."
+        ],
+        "Question(GPT)": "What color is the horse drawn carriage parked on top of the fire hydrant?"
+    },
+    {
+        "image_id": 416451,
+        "file": "/data/qinyu/data/coco/val2017/000000416451.jpg",
+        "caption": [
+            "Two men in living room playing a game with a Nintendo Wii controller.",
+            "Two people in a living room playing a wii video game.",
+            "A man standing on a stair stepper holding a Wii controller.",
+            "People using video game controllers in a living room.",
+            "Two guys playing a game on the WII."
+        ],
+        "Question(GPT)": "What are the colors of the shirts worn by the two men sitting on the stair stepper while playing the Wii game?"
+    },
+    {
+        "image_id": 99039,
+        "file": "/data/qinyu/data/coco/val2017/000000099039.jpg",
+        "caption": [
+            "Plates  of food and glasses of wine sitting on a table",
+            "a table thath as some pizza and wine on it",
+            "A couple glasses of wine sitting on a table of food.",
+            "Plates of food and two glasses of red wine are on a table.",
+            "there are two pizzaa and two glasses of wine on the table"
+        ],
+        "Question(GPT)": "What is the color of the plates that are hanging above the table?"
+    },
+    {
+        "image_id": 59635,
+        "file": "/data/qinyu/data/coco/val2017/000000059635.jpg",
+        "caption": [
+            "Woman in wet suit considers waves near forested coastline.",
+            "a black and white photo of people with surf boards",
+            "A movie scene where actors are pretending to surf.",
+            "The dual image shows people carrying their surfboards under their arms.",
+            "A group of people with surf boards near a big wave."
+        ],
+        "Question(GPT)": "What color is the surfboard of the person standing behind the big wave?"
+    },
+    {
+        "image_id": 513283,
+        "file": "/data/qinyu/data/coco/val2017/000000513283.jpg",
+        "caption": [
+            "A small toy sits on a plate with pizza and crusts.",
+            "A small bunny character is on a plate of pizza.",
+            "this is an image of a plate of pizza with a toy bunny.",
+            "A little funny rabbit figure is sitting in the middle of half eaten pizza.",
+            "A small toy is sitting on a plate of pizza."
+        ],
+        "Question(GPT)": "What color is the small toy that is hanging from the edge of the pizza plate?"
+    },
+    {
+        "image_id": 80153,
+        "file": "/data/qinyu/data/coco/val2017/000000080153.jpg",
+        "caption": [
+            "A person riding skis on top of a snow covered slope near a dog.",
+            "A man on snow skis with his dog.",
+            "A person on some skis and a dog in the snow.",
+            "A man on skis with a dog next to him",
+            "A husky stands by as a skier stands there."
+        ],
+        "Question(GPT)": "What color is the jacket of the man riding skis beneath the snow-covered slope?"
+    },
+    {
+        "image_id": 237316,
+        "file": "/data/qinyu/data/coco/val2017/000000237316.jpg",
+        "caption": [
+            "The tiny white bathroom has a toilet and pedestal sink.",
+            "A small bathroom still has all of the necessary amenities.",
+            "The lid is up on a toilet viewed through the open door of a bathroom.",
+            "A bathroom that has a window by the toilet and sink.",
+            "A white small bathroom showing the toilet bowl and sink with beige tiles."
+        ],
+        "Question(GPT)": "What color are the tiles around the window behind the toilet and sink?"
+    },
+    {
+        "image_id": 306582,
+        "file": "/data/qinyu/data/coco/val2017/000000306582.jpg",
+        "caption": [
+            "A group of cows standing next to a  line of laundry drying.",
+            "A clothes line with clothes hanging from it and cattle in the background ",
+            "A view of some cows through a cloths line.",
+            "Clothes hanging on rope in third world country.",
+            "Washed clothing is hung out on a clothesline in a cattle enclosure. "
+        ],
+        "Question(GPT)": "What pattern is on the clothing hanging above the cows in the cattle enclosure?"
+    },
+    {
+        "image_id": 245576,
+        "file": "/data/qinyu/data/coco/val2017/000000245576.jpg",
+        "caption": [
+            "An orange cat sitting on top of a computer desk.",
+            "A yellow cat is on the desk sniffing a computer keyboard.",
+            "a keyboard an orange and white cat a desk and a monitor",
+            "A yellow tabby cat is shown smelling a keyboard.",
+            "A cat sniffs the keyboard of a computer."
+        ],
+        "Question(GPT)": "What color is the cat that is lying underneath the computer desk?"
+    },
+    {
+        "image_id": 356968,
+        "file": "/data/qinyu/data/coco/val2017/000000356968.jpg",
+        "caption": [
+            "A brown horse with blonde hair standing in an open field.",
+            "A brown horse walking outside in the grass",
+            "A lone horse walking through a grassy field.",
+            "A brown horse with a white mane is on the grass.",
+            "A single horse trotting around in a field."
+        ],
+        "Question(GPT)": "What color is the brown horse with a white mane that is hiding under the grass?"
+    },
+    {
+        "image_id": 165039,
+        "file": "/data/qinyu/data/coco/val2017/000000165039.jpg",
+        "caption": [
+            "A bus driving in a city area with traffic signs.",
+            "The bus is pulling off to the side of the road.",
+            "Bus coming down the street from the intersection",
+            "a public transit bus on a city street",
+            "A bus pulls over to the curb close to an intersection."
+        ],
+        "Question(GPT)": "What color is the bus driving away from the traffic signs?"
+    },
+    {
+        "image_id": 61960,
+        "file": "/data/qinyu/data/coco/val2017/000000061960.jpg",
+        "caption": [
+            "A PERSON LAYING ON A BED WITH THIGH HIGHS AND HEELS",
+            "A man, wearing high heels, stockings, panties and shirt, lies belly-down on a bed.",
+            "A man lays on a bed wearing women's clothing complete with stockings and high heels.",
+            "A man that is laying down on a bed.",
+            "A woman is laying on the bed in stockings with her skirt pulled up."
+        ],
+        "Question(GPT)": "What color is the shirt of the man laying beneath the bed?"
+    },
+    {
+        "image_id": 235399,
+        "file": "/data/qinyu/data/coco/val2017/000000235399.jpg",
+        "caption": [
+            "a white dog is sitting in the back of a truck and a mattress",
+            "a moving truck with a dog sitting in the back",
+            "A dog sits on the back of a truck.",
+            "A dog laying in the back of a moving truck.",
+            "Bull dog sitting on a furniture pad in a truck."
+        ],
+        "Question(GPT)": "What color is the dog lying underneath the mattress in the back of the truck?"
+    },
+    {
+        "image_id": 117492,
+        "file": "/data/qinyu/data/coco/val2017/000000117492.jpg",
+        "caption": [
+            "A group of families with lots of children in a park.",
+            "a group of moms and kids sitting out in a field",
+            "Parents and children, some with toys, in a park walking in line. ",
+            "A group of people, mostly children, are gathering around a tent.",
+            "A crowd of adults and children are at a park."
+        ],
+        "Question(GPT)": "What types of toys are the children playing with under the tent?"
+    },
+    {
+        "image_id": 27186,
+        "file": "/data/qinyu/data/coco/val2017/000000027186.jpg",
+        "caption": [
+            "A little girl playing with an interactive gaming unit.",
+            "The little girl is intently playing the video game.",
+            "a small girl plays a game of wii ",
+            "A little girl standing in front of a couch holding a remote.",
+            "A little, young girl playing the wii in the living room."
+        ],
+        "Question(GPT)": "What color is the couch that the little girl is standing behind while holding a remote?"
+    },
+    {
+        "image_id": 272136,
+        "file": "/data/qinyu/data/coco/val2017/000000272136.jpg",
+        "caption": [
+            "A large propeller plane mounted to the ceiling of a building.",
+            "The airplane is store in the hangar for people to take a look at it. ",
+            "A military plane parked in a hanger with a person sitting nearby.",
+            "Some type of vehicle with a number on its side is pared inside a garage.",
+            "An air hanger with an old fighter plane inside."
+        ],
+        "Question(GPT)": "What can be seen on the wings of the military plane that is suspended above the floor of the hangar?"
+    },
+    {
+        "image_id": 408120,
+        "file": "/data/qinyu/data/coco/val2017/000000408120.jpg",
+        "caption": [
+            "A little girl that is standing with an umbrella.",
+            "A little girl walking down a driveway carrying a pink umbrella.",
+            "A LITTLE GIRL DRESSED IN PINK ALSO HAS A PINK UMBRELLA",
+            "A small girl is holding an umbrella over her head",
+            "A young girl carries and open unbrella while walking down an alley."
+        ],
+        "Question(GPT)": "What pattern is on the pink umbrella beneath the little girl's feet?"
+    },
+    {
+        "image_id": 357816,
+        "file": "/data/qinyu/data/coco/val2017/000000357816.jpg",
+        "caption": [
+            "A man standing near home plate swinging a bat.",
+            "Boy swinging a bat and about to hit a pitched ball.",
+            "Cole Ballew at the bat for his baseball team",
+            "A boy swinging a baseball bat at a ball.",
+            "a little boy holding a baseball bat by a fence"
+        ],
+        "Question(GPT)": "What color is the uniform of the little boy swinging a baseball bat behind the fence?"
+    },
+    {
+        "image_id": 340697,
+        "file": "/data/qinyu/data/coco/val2017/000000340697.jpg",
+        "caption": [
+            "a close up of many drinks in a fridge ",
+            "A display in a store filled with lots of bottles of soda.",
+            "Several rows of Crush soda in bottles in a refrigerator",
+            "A cooler with many different kinds of beverages in it.",
+            "Several bottles are displayed in a commercial refrigerator."
+        ],
+        "Question(GPT)": "What is the flavor of the Crush soda on top of the refrigerator?"
+    },
+    {
+        "image_id": 399764,
+        "file": "/data/qinyu/data/coco/val2017/000000399764.jpg",
+        "caption": [
+            "A man is leading a cow with a ribbon on its neck.",
+            "man with grey hair leading a cow with red ribbon",
+            "An old man walking a big brown cow around.",
+            "A man that is standing with a cow.",
+            "A man is walking with a cow who's sporting a red ribbon. "
+        ],
+        "Question(GPT)": "What is the color of the ribbon on the cow standing next to the man with grey hair?"
+    },
+    {
+        "image_id": 214205,
+        "file": "/data/qinyu/data/coco/val2017/000000214205.jpg",
+        "caption": [
+            "a large air plane flying thru the air",
+            "An airplane flying high with a full moon in the background. ",
+            "An airplane is flying in the sky below the moon.",
+            "A airplane coming in for a landing with a full moon above it.",
+            "A large jet liner flying under the moon."
+        ],
+        "Question(GPT)": "What color is the airplane flying above the moon?"
+    },
+    {
+        "image_id": 269316,
+        "file": "/data/qinyu/data/coco/val2017/000000269316.jpg",
+        "caption": [
+            "four men playing frisbee in a fenced park",
+            "A group of men on two teams are playing Frisbee.",
+            "A group of men playing a game of frisbee.",
+            "Four men playing Ultimate Frisbee in a park.",
+            "A bunch of men are running to catch the frisbee that is thrown."
+        ],
+        "Question(GPT)": "How many men are playing Frisbee outside of the fenced park?"
+    },
+    {
+        "image_id": 534605,
+        "file": "/data/qinyu/data/coco/val2017/000000534605.jpg",
+        "caption": [
+            "Man in motorcycle leathers standing in front of a group of bikes",
+            "Bikers, dressed in their gear, standing near their motorcycles.",
+            "A group of men stand next to their bicycles.",
+            "Three men standing around their motorcycles in a parking lot.",
+            "Group of three motorcyclists standing in front of their motorcycles."
+        ],
+        "Question(GPT)": "What color is the helmet of the man standing behind the motorcycles?"
+    },
+    {
+        "image_id": 400922,
+        "file": "/data/qinyu/data/coco/val2017/000000400922.jpg",
+        "caption": [
+            "A sign hanging of the side of a building on top of a clock.",
+            "A key bank sign with a clock on a building",
+            "A bank sign that also has a clock attached to it.",
+            "Clock showing 11:05 as time under Bank logo sign",
+            "A photograph of Key Bank with a clock under the sign."
+        ],
+        "Question(GPT)": "What color is the sign hanging above the clock on the building?"
+    },
+    {
+        "image_id": 212072,
+        "file": "/data/qinyu/data/coco/val2017/000000212072.jpg",
+        "caption": [
+            "A stop sign in front of some buildings.",
+            "A stop sign in front of two buildings on a street.",
+            "a street sign on metal pole next to a street on a sidewalk.",
+            "A stop sign leans beside street signs and a light post across from buildings.",
+            "A stop sign leans to the right at a small town intersection"
+        ],
+        "Question(GPT)": "What color is the stop sign hanging above the intersection?"
+    },
+    {
+        "image_id": 27696,
+        "file": "/data/qinyu/data/coco/val2017/000000027696.jpg",
+        "caption": [
+            "A person is eating pizza with a knife and fork.",
+            "there is a small pizza that is on a white plate",
+            "A pizza sitting on top of a white plate with lots of toppings.",
+            "a close up of a plate of food ",
+            "A vegetable pizza on a plate on a table."
+        ],
+        "Question(GPT)": "What type of toppings can be seen on the pizza that is underneath the white plate?"
+    },
+    {
+        "image_id": 276921,
+        "file": "/data/qinyu/data/coco/val2017/000000276921.jpg",
+        "caption": [
+            "Two teddy ears are hanging in a window.",
+            "a couple of stuffed animals hang from a car mirror ",
+            "Two teddy bears hang from the inside of a car.",
+            "A close up of two teddy bears hanging from two strings on a hook.",
+            "Two stuffed teddy bears hanging from a rear view mirror."
+        ],
+        "Question(GPT)": "What is the color of the teddy bears hanging beneath the car mirror?"
+    },
+    {
+        "image_id": 437514,
+        "file": "/data/qinyu/data/coco/val2017/000000437514.jpg",
+        "caption": [
+            "a wood bench is next to a tree",
+            "The empty bench is sitting next to the potted tree.",
+            "There is a park bench outside a store with a potted tree next to it.",
+            "a close up of a bench near a potted flower",
+            "A wooden bench sitting in front of a store."
+        ],
+        "Question(GPT)": "What color is the wooden bench sitting behind the potted tree?"
+    },
+    {
+        "image_id": 192871,
+        "file": "/data/qinyu/data/coco/val2017/000000192871.jpg",
+        "caption": [
+            "A glass bowl filled with oranges on a table.",
+            "A close up of oranges and apples in a bowl.",
+            "A glass bowl has oranges and apples in it.",
+            "A glass bowl full of oranges and apples.",
+            "One apple and several oranges sit in a bowl."
+        ],
+        "Question(GPT)": "What color is the apple lying next to the glass bowl?"
+    },
+    {
+        "image_id": 229221,
+        "file": "/data/qinyu/data/coco/val2017/000000229221.jpg",
+        "caption": [
+            "A cow stands in a field where other cows are lying down.",
+            "A cow standing in a field with lots of tall grass.",
+            "a close up of a cow in front of a camera",
+            "The calf is in the pasture staring at the camera ",
+            "a black and white cow is standing in a field"
+        ],
+        "Question(GPT)": "What color is the cow hiding behind the tall grass in the field?"
+    },
+    {
+        "image_id": 576566,
+        "file": "/data/qinyu/data/coco/val2017/000000576566.jpg",
+        "caption": [
+            "A person on a skateboard does an air trick.",
+            "A somewhat blurry image of a young man in the air on his skateboard. ",
+            "A man in red shirt doing a trick on skateboard.",
+            "A man flying through the air on top of a skateboard.",
+            "A person jumping up in the air on a skateboard."
+        ],
+        "Question(GPT)": "What color is the shirt of the man doing a trick beneath his skateboard?"
+    },
+    {
+        "image_id": 147740,
+        "file": "/data/qinyu/data/coco/val2017/000000147740.jpg",
+        "caption": [
+            "A woman walking while carrying bananas on her hat.",
+            "A woman carrying a bunch of bananas on her head walking down a street.",
+            "Woman carrying a bunch of bananas on top of her hat. ",
+            "A woman walks down the street with bananas on her hat",
+            "A lady walks down the street with bananas on her head"
+        ],
+        "Question(GPT)": "What color is the hat that the woman is carrying beneath the bananas?"
+    },
+    {
+        "image_id": 49060,
+        "file": "/data/qinyu/data/coco/val2017/000000049060.jpg",
+        "caption": [
+            "A train sitting next to a loading platform with people standing on it.",
+            "A train that has people standing outside of it.",
+            "a old train that is on a track with people next to it",
+            "Some people are standing next to an old steam locomotive.",
+            "Four people standing outside of a steam train. "
+        ],
+        "Question(GPT)": "What color is the train that the people are standing underneath?"
+    },
+    {
+        "image_id": 385029,
+        "file": "/data/qinyu/data/coco/val2017/000000385029.jpg",
+        "caption": [
+            "A person cutting a pizza next to a salad and bottles of wine on wooden table.",
+            "A hand is slicing a pizza on a table.",
+            "A man cuts a pizza to serve with salad and wine. ",
+            "A homemade pizza, salad and two glasses of wine on a table.",
+            "A slice of pizza, greens, two wine glasses with two bottles on the table "
+        ],
+        "Question(GPT)": "What is the color of the table where the salad is placed under the pizza?"
+    },
+    {
+        "image_id": 237928,
+        "file": "/data/qinyu/data/coco/val2017/000000237928.jpg",
+        "caption": [
+            "This kitchen has a black stove, stainless steel refrigerator and white cupboards.",
+            "A kitchen that has a red pot and a red towel",
+            "Small kitchen with cabinets and a microwave on the counter.",
+            "A small kitchen with stainless steel appliances and white cupboards.",
+            "A small kitchen is shown it has many appliances."
+        ],
+        "Question(GPT)": "What kind of food is in the red pot inside the refrigerator?"
+    },
+    {
+        "image_id": 193429,
+        "file": "/data/qinyu/data/coco/val2017/000000193429.jpg",
+        "caption": [
+            "Man sitting in snow with snowboard attached to shoes. ",
+            "A man sitting down with a snowboard strapped on",
+            "A snow boarder sits in the snow looking at the camera. ",
+            "A male snowboarder sits with his board on a snowy hill.",
+            "A man sits in the snow with a snowboard still on his feet."
+        ],
+        "Question(GPT)": "What color is the man's jacket as he stands with a snowboard attached to his feet?"
+    },
+    {
+        "image_id": 274272,
+        "file": "/data/qinyu/data/coco/val2017/000000274272.jpg",
+        "caption": [
+            "A large bus driving down a city street.",
+            "A bus traveling on a road next to cars with building in background.",
+            "A bus driving in the middle of traffic.",
+            "a public transit bus with traffic lights ",
+            "A large red bus driving in heavy traffic."
+        ],
+        "Question(GPT)": "What color is the bus driving under the traffic lights?"
+    },
+    {
+        "image_id": 15751,
+        "file": "/data/qinyu/data/coco/val2017/000000015751.jpg",
+        "caption": [
+            "A few birds are on the roof of a house.",
+            "A bird flies away from three others that are sitting.",
+            "A bird taking flight from a rooftop away from the other birds",
+            "three birds perched and one flying towards the viewer",
+            "An insect sitting on top of a wooden deck."
+        ],
+        "Question(GPT)": "What color is the bird flying beneath the roof of the house?"
+    },
+    {
+        "image_id": 375278,
+        "file": "/data/qinyu/data/coco/val2017/000000375278.jpg",
+        "caption": [
+            "An hand pets a cat in a suitcase.  ",
+            "a black puppy playing with a hand as it stands in a black suitcase",
+            "The person has a bag and some magazines laying on the table.",
+            "a man pets a cat over a bag ",
+            "A person's hand is wrapped around the head of a puppy."
+        ],
+        "Question(GPT)": "What color is the bag that the puppy is standing beneath on the table?"
+    },
+    {
+        "image_id": 520707,
+        "file": "/data/qinyu/data/coco/val2017/000000520707.jpg",
+        "caption": [
+            "Several people are seen walking through the airport while waiting for their bags.",
+            "A cop standing next to a crowd of people.",
+            "People are walking around with their luggage at an airport.",
+            "there are many people walking thru the airport with luggage",
+            "Several people in the airport walking with their luggage. "
+        ],
+        "Question(GPT)": "What color is the cop's uniform who is standing behind the crowd of people?"
+    },
+    {
+        "image_id": 20571,
+        "file": "/data/qinyu/data/coco/val2017/000000020571.jpg",
+        "caption": [
+            "a group of boats parked next to a dock in the water",
+            "A few fishing boats tied to a dock.",
+            "Two tug boats tied up to the dock.",
+            "some boats that are by a dock in some water",
+            "A tugboat sits beside a ferry on placid water with a mountain in the distance."
+        ],
+        "Question(GPT)": "What color is the tugboat that is floating above the ferry on the water?"
+    },
+    {
+        "image_id": 570834,
+        "file": "/data/qinyu/data/coco/val2017/000000570834.jpg",
+        "caption": [
+            "Bikes are being transported in a subway car.",
+            "An officer watching over bicycles in a subway cart.",
+            "Several bikes are being stored in a narrow passageway. ",
+            "a white and silver subway train filled with several bicycles",
+            "A train conductor standing next to a group of bikes."
+        ],
+        "Question(GPT)": "What color is the officer's uniform who is standing next to the bicycles on the roof of the subway car?"
+    },
+    {
+        "image_id": 271728,
+        "file": "/data/qinyu/data/coco/val2017/000000271728.jpg",
+        "caption": [
+            "A fat orange cat on a couch beside a TV remote",
+            "A cat sits on a couch beside a notebook computer.",
+            "A orange cat is laying on a grey sofa.",
+            "a cat on a couch in front of a laptop",
+            "A cat lying on a sofa in front of a computer."
+        ],
+        "Question(GPT)": "What color is the cat sitting beneath the laptop?"
+    },
+    {
+        "image_id": 109916,
+        "file": "/data/qinyu/data/coco/val2017/000000109916.jpg",
+        "caption": [
+            "Twp cake pans sitting and cooling on the stove",
+            "A couple of dishes are sitting on a stove.",
+            "an image of two cakes on the stove",
+            "a close up of two pots of food on a stove",
+            "Two cake pans with cake on top of a stove.  "
+        ],
+        "Question(GPT)": "What color are the two cake pans that are hanging above the stove?"
+    },
+    {
+        "image_id": 413395,
+        "file": "/data/qinyu/data/coco/val2017/000000413395.jpg",
+        "caption": [
+            "A man sits on the couch with two cats on his lap.",
+            "A man resting on a couch with two different colored cats.",
+            "A man sitting on a couch has two cats on his lap.",
+            "A man and his two cats sitting on the couch.",
+            "a man sits on a couch with a couple of cats "
+        ],
+        "Question(GPT)": "What color is the man's shirt who is sitting behind the couch with two cats?"
+    },
+    {
+        "image_id": 58029,
+        "file": "/data/qinyu/data/coco/val2017/000000058029.jpg",
+        "caption": [
+            "a bathroom with a big mirror above the sink",
+            "A small clean bathroom that is well lit. ",
+            "the bathroom has a mirror and a tiled sink",
+            "Interior bathroom shot of a glass shower and white sink fixtures.",
+            "An undecorated bath room with shower, toilet and sink"
+        ],
+        "Question(GPT)": "What color is the towel hanging on the shower door in the bathroom?"
+    },
+    {
+        "image_id": 167240,
+        "file": "/data/qinyu/data/coco/val2017/000000167240.jpg",
+        "caption": [
+            "A vase siting on top of a wooden shelf near a map.",
+            "A blue vase with an orange floral patters sits in front of a map.",
+            "An inlaid vase sitting in front of a map.",
+            "A brightly colored flower vase sits in front of a wall map.",
+            "A vase with red flowers on it next to a map."
+        ],
+        "Question(GPT)": "What type of flowers are in the vase hanging below the shelf?"
+    },
+    {
+        "image_id": 373705,
+        "file": "/data/qinyu/data/coco/val2017/000000373705.jpg",
+        "caption": [
+            "A number of young people are enjoying themselves around a fountain, not far from a fire hydrant.",
+            "A red and yellow fire hydrant near the water fountain. ",
+            "a skinny red fire hydrogen  by some people",
+            "A red and yellow fire hydrant sitting on the side of a road.",
+            "A red fire hydrant is next to a public water fountain."
+        ],
+        "Question(GPT)": "What color is the umbrella over the fire hydrant near the water fountain?"
+    },
+    {
+        "image_id": 221502,
+        "file": "/data/qinyu/data/coco/val2017/000000221502.jpg",
+        "caption": [
+            "A park bench surrounded by floral arrangements on either side.",
+            "bouquets of flower sit on either side of a memorial bench.",
+            "an image of a park bench with flowers next to it",
+            "A memorial park bench with two pots of cut flowers.",
+            "A bench with a memorial plaque and flowers on each side."
+        ],
+        "Question(GPT)": "What type of flowers are hanging above the memorial park bench?"
+    },
+    {
+        "image_id": 13597,
+        "file": "/data/qinyu/data/coco/val2017/000000013597.jpg",
+        "caption": [
+            "A piece of chocolate cake on a plate.",
+            "a yellow and white plate with a piece of chocolate cake",
+            "a piece of a chocolate cake on a plate ",
+            "A piece of chocolate pie sitting on top of a plate.",
+            "A slice of chocolate cake is on a small plate."
+        ],
+        "Question(GPT)": "What flavor is the icing on the piece of chocolate cake hanging above the plate?"
+    },
+    {
+        "image_id": 377588,
+        "file": "/data/qinyu/data/coco/val2017/000000377588.jpg",
+        "caption": [
+            "Professional baseball players in the middle of a game.",
+            "A guy sliding to a base in baseball.",
+            "A baseball game as seen through the safety netting behind the batter.",
+            "Pitcher in a baseball game tries to out a player attempting to steal base.",
+            "A group of men during a baseball game with wall in the background."
+        ],
+        "Question(GPT)": "What color is the uniform of the pitcher standing behind the safety netting?"
+    },
+    {
+        "image_id": 42889,
+        "file": "/data/qinyu/data/coco/val2017/000000042889.jpg",
+        "caption": [
+            "A teddy bear sits by a keyboards and microphone.",
+            "Stuffed bear wearing glasses with electronic audio equipment.",
+            "A very cute teddy bear with glasses and some items.",
+            "A teddy bear that is dress in glasses and is listening to an iPod.",
+            "A stuffed bear, a keyboard, an iPod and microphone."
+        ],
+        "Question(GPT)": "What color is the teddy bear that is hanging from the microphone?"
+    },
+    {
+        "image_id": 350388,
+        "file": "/data/qinyu/data/coco/val2017/000000350388.jpg",
+        "caption": [
+            "A cream based soup in a while bowl with a chopped green vegetable on top.",
+            "A bowl of soup with green vegetables floating on top of it.",
+            "A white bowl of broccoli cheese soup looks delicious.",
+            "There is a white bowl which has soup an broccoli in it.",
+            "a close up of food on a plate on a table"
+        ],
+        "Question(GPT)": "What is the color of the bowl with soup and broccoli beneath it on the table?"
+    },
+    {
+        "image_id": 500211,
+        "file": "/data/qinyu/data/coco/val2017/000000500211.jpg",
+        "caption": [
+            "a spooky looking hotel resort in the hills",
+            "A row of closed brown umbrellas next to a building.",
+            "several beach umbrellas folded in front of a large house with lots of windows",
+            "All of the umbrellas are folded up. ",
+            "all umbrellas are closed at he tables outside the hotel "
+        ],
+        "Question(GPT)": "What color are the umbrellas that are open beside the pool at the hotel resort?"
+    },
+    {
+        "image_id": 239274,
+        "file": "/data/qinyu/data/coco/val2017/000000239274.jpg",
+        "caption": [
+            "A yacht with people is near a pier on clear water.",
+            "A group of people mingle on a yacht beside the coast.",
+            "People are getting off a boat on a rocky island.",
+            "People aboard and boarding a party boat in the water.",
+            "A pontoon boat ferry full of passengers pushes off from shore. "
+        ],
+        "Question(GPT)": "What are the people wearing as they gather under the pier near the yacht?"
+    },
+    {
+        "image_id": 204871,
+        "file": "/data/qinyu/data/coco/val2017/000000204871.jpg",
+        "caption": [
+            "A red fire hydrant with a sticker of several animals on it",
+            "A fire hydrant with a sticker of different animals on it.",
+            "A fire hydrant is sitting on a street corner.",
+            "A red fire hydrant with graphic art decal.",
+            "A sticker has been placed onto a fire hydrant on a sidewalk."
+        ],
+        "Question(GPT)": "What types of animals are featured on the sticker located behind the fire hydrant?"
+    },
+    {
+        "image_id": 493864,
+        "file": "/data/qinyu/data/coco/val2017/000000493864.jpg",
+        "caption": [
+            "A man standing on a wet beach holding a blue board.",
+            "A smiling surfer standing on the beach with his board",
+            "A man in a wet suit holding a surf board with another person in the back ground near the ocean holding a surf board also.",
+            "a man holding onto a surfboard while standing on the beach ",
+            "A man in a wetsuit carries a surfboard on the beach."
+        ],
+        "Question(GPT)": "What color is the board of the person standing behind the man on the beach?"
+    },
+    {
+        "image_id": 357430,
+        "file": "/data/qinyu/data/coco/val2017/000000357430.jpg",
+        "caption": [
+            "A large pizza sitting on a pizza pan with a slice missing.",
+            "A supreme pizza with two slices taken out.",
+            "Mushroom pizza has two slices taken out of it.",
+            "A pizza cut in half on a plate. ",
+            "A large combination pizza with two pieces gone."
+        ],
+        "Question(GPT)": "What toppings are on the pizza that is hanging from the ceiling?"
+    },
+    {
+        "image_id": 512929,
+        "file": "/data/qinyu/data/coco/val2017/000000512929.jpg",
+        "caption": [
+            "A pair of girls are cooking in one pan together.",
+            "Two young girls cooking some fresh asparagus on a stove.",
+            "Two young girls are cooking green beans on the stove.",
+            "Two girls at stove cooking food in a skillet.",
+            "Two preteens standing at the stove cooking green beans."
+        ],
+        "Question(GPT)": "What are the two preteens doing behind the stove while cooking green beans?"
+    },
+    {
+        "image_id": 333237,
+        "file": "/data/qinyu/data/coco/val2017/000000333237.jpg",
+        "caption": [
+            "There is a room with rose wallpaper and a large bed.",
+            "A bedroom with dresser, desk, and bed in it.",
+            "A scanned photograph from a newspaper in Iowa. ",
+            "A black and white photo of a bedroom.",
+            "A bedroom with a bed, a dresser, a desk, a mirror, and decorated walls."
+        ],
+        "Question(GPT)": "What is the color of the dresser that is hanging above the desk?"
+    },
+    {
+        "image_id": 188439,
+        "file": "/data/qinyu/data/coco/val2017/000000188439.jpg",
+        "caption": [
+            "A colorful truck is driving with a full load of sticks and twigs.",
+            "A truck loaded with cargo slowly creeps down the street.",
+            "a truck on a street with hay in the back",
+            "A small white truck on the road next to trees.",
+            "a big truck with some branches in the back of it "
+        ],
+        "Question(GPT)": "What color is the truck with sticks and twigs hanging beneath it?"
+    },
+    {
+        "image_id": 55950,
+        "file": "/data/qinyu/data/coco/val2017/000000055950.jpg",
+        "caption": [
+            "a man is playing tennis and is going to return the ball",
+            "a man playing tennis on a tennis court",
+            "A man at the net makes a forehand volley in a tennis match.",
+            "A young man playing tennis and preparing to hit the ball.",
+            "a man is on a court with a tennis racket"
+        ],
+        "Question(GPT)": "What color is the shirt of the man playing tennis outside the court?"
+    },
+    {
+        "image_id": 17905,
+        "file": "/data/qinyu/data/coco/val2017/000000017905.jpg",
+        "caption": [
+            "A man standing next to a light and a sign.",
+            "A man standing next to a traffic light in Australia ",
+            "a man that is standing next to a traffic light",
+            "A man standing in front of a sign under a street light.",
+            "A man in shorts is taking a picture next to a red light. "
+        ],
+        "Question(GPT)": "What is the man wearing while standing behind the traffic sign?"
+    },
+    {
+        "image_id": 212226,
+        "file": "/data/qinyu/data/coco/val2017/000000212226.jpg",
+        "caption": [
+            "A person in a the reflection of a truck mirror.",
+            "A reflection of a woman driving a truck.",
+            "The reflection of a women in a mirror.",
+            "A girl sitting in a truck is reflected in a mirror. ",
+            "Women worker looking at rear view mirror smiling"
+        ],
+        "Question(GPT)": "What color is the truck that the woman is sitting on top of in the reflection?"
+    },
+    {
+        "image_id": 166259,
+        "file": "/data/qinyu/data/coco/val2017/000000166259.jpg",
+        "caption": [
+            "A group of fur ducks walks along a wooden walkway.",
+            "A group of ducks making their way down several sets of steps",
+            "The young ducks are following their mother down the sunny sidewalk..",
+            "The group of ducks is walking down the stairs.",
+            "A group of ducks walking down the stairs"
+        ],
+        "Question(GPT)": "What color are the ducks walking up the stairs?"
+    },
+    {
+        "image_id": 415990,
+        "file": "/data/qinyu/data/coco/val2017/000000415990.jpg",
+        "caption": [
+            "A bunch of cows that are standing in the grass.",
+            "a number of cows behind a fence near one another ",
+            "a bunch of cows are in a grassy field",
+            "The men are checking in on the herd of cows.",
+            "Two men are standing near the pasture of cows."
+        ],
+        "Question(GPT)": "What are the men wearing while standing under the tree near the pasture of cows?"
+    },
+    {
+        "image_id": 304545,
+        "file": "/data/qinyu/data/coco/val2017/000000304545.jpg",
+        "caption": [
+            "A black suitcase with a handle and white background.",
+            "A rolling suitcase with smaller case attached to the handle of it.",
+            "a close up of a smaller luggage bag ",
+            "A small carry-on bag, strapped to the handle of a larger suitcase from the same set of luggage.",
+            "A black bag attached to the long handle of a piece of luggage."
+        ],
+        "Question(GPT)": "What items are inside the small carry-on bag placed inside the larger suitcase?"
+    },
+    {
+        "image_id": 334309,
+        "file": "/data/qinyu/data/coco/val2017/000000334309.jpg",
+        "caption": [
+            "A man takes a picture of himself eating food.",
+            "A man taking a selfie while eating pizza.",
+            "A man taking a photo with his right hand and eating food with his left hand.",
+            "Man taking a photograph of himself eating a pizza slice",
+            "A picture of a person eating some food."
+        ],
+        "Question(GPT)": "What is the man wearing while holding a pizza slice above his head?"
+    },
+    {
+        "image_id": 571857,
+        "file": "/data/qinyu/data/coco/val2017/000000571857.jpg",
+        "caption": [
+            "In the desert, two people are sitting next to a small propeller plane next to a tent with other planes in the background.",
+            "A couple of people sitting in chairs behind an airplane.",
+            "A man and woman who have set up camp on a sandy beach",
+            "two people outside sitting on chairs with planes around them.",
+            "two people are camping out in the desert"
+        ],
+        "Question(GPT)": "What color is the tent positioned in front of the small propeller plane?"
+    },
+    {
+        "image_id": 411530,
+        "file": "/data/qinyu/data/coco/val2017/000000411530.jpg",
+        "caption": [
+            "A crowd of people standing on snow covered ground.",
+            "some skiers are in a line for the chair lift",
+            "Skiers wait to take a lift up a snowy hill. ",
+            "Many skiers are waiting to ride a chair lift.",
+            "A LOT OF PEOPLE ARE SKIING ON THE MOUNTAIN "
+        ],
+        "Question(GPT)": "What color are the jackets of the skiers waiting beneath the chair lift?"
+    },
+    {
+        "image_id": 101787,
+        "file": "/data/qinyu/data/coco/val2017/000000101787.jpg",
+        "caption": [
+            "An airplane flies high above in the sky with telephone lines in the picture as well. ",
+            "A large jetliner flying through a cloudy blue sky.",
+            "A plane is flying in a blue cloudy sky.",
+            "An airplane high in the sky over some electrical wires ",
+            "A big commercial plane flying in the sky over a wire."
+        ],
+        "Question(GPT)": "What color is the airplane flying below the telephone lines?"
+    },
+    {
+        "image_id": 281414,
+        "file": "/data/qinyu/data/coco/val2017/000000281414.jpg",
+        "caption": [
+            "A woman with a book bag sits on a ledge with her cell phone.",
+            "A beautiful woman sitting on a brick wall.",
+            "A girl is sitting on a wall and looking down at her cell phone.",
+            "A woman sits on a ledge and looks at her phone.",
+            "A girl is sitting on a brick wall using her cell phone."
+        ],
+        "Question(GPT)": "What color is the book bag of the woman sitting beneath the ledge?"
+    },
+    {
+        "image_id": 162035,
+        "file": "/data/qinyu/data/coco/val2017/000000162035.jpg",
+        "caption": [
+            "A sign with teddy bears on it is advertising a tea room.",
+            "A fold out sign sitting on a rainy sidewalk.",
+            "A sign on a sidewalk has a teddy bear on it.",
+            "a sign with teddy bears and some people walking on a wet street",
+            "A person walking down a street past a teddy bear sign."
+        ],
+        "Question(GPT)": "What is the color of the teddy bears hanging from the ceiling above the sign?"
+    },
+    {
+        "image_id": 485071,
+        "file": "/data/qinyu/data/coco/val2017/000000485071.jpg",
+        "caption": [
+            "Guy falling off his surfboard after losing battle with the wave",
+            "A man on a surfboard riding a wave.",
+            "A man in shorts falling off of his surfboard",
+            "A man is falling off a wave in the ocean.",
+            "A man in blue shorts on surfboard riding a wave."
+        ],
+        "Question(GPT)": "What color are the shorts of the man who is hanging from his surfboard after losing balance?"
+    },
+    {
+        "image_id": 294831,
+        "file": "/data/qinyu/data/coco/val2017/000000294831.jpg",
+        "caption": [
+            "Two pieces of pizza are served on a plate.",
+            "Someone is holding a black plate with two slices of pizza. ",
+            "A plate with two slices of pizza on it.",
+            "Two slices of pizza on a black plate",
+            "Two slices of chicken pizza on a plate."
+        ],
+        "Question(GPT)": "What type of cheese is on the pizza slices behind the black plate?"
+    },
+    {
+        "image_id": 163117,
+        "file": "/data/qinyu/data/coco/val2017/000000163117.jpg",
+        "caption": [
+            "A large group of people in a field with kites.",
+            "Large crowd gathered to watch decorative a fleet of decorative kites.",
+            "A group of people are flying kites on a crowded field.",
+            "The people are flying the kites in the sky.",
+            "A crowd of people standing on a field flying kites."
+        ],
+        "Question(GPT)": "What are the colors of the kites being flown beneath the field?"
+    },
+    {
+        "image_id": 199977,
+        "file": "/data/qinyu/data/coco/val2017/000000199977.jpg",
+        "caption": [
+            "The airplane in the sky is doing tricks while spitting out smoke. ",
+            "An airplane is letting off white smoke against a blue sky.",
+            "A biplane leaves a smoke trail while doing a trick.",
+            "A biplane flying upside down leaving a large vapor trail.",
+            "a plane flies through the air with fumes coming out the back "
+        ],
+        "Question(GPT)": "What color is the smoke coming out from the biplane flying beneath the clouds?"
+    },
+    {
+        "image_id": 153568,
+        "file": "/data/qinyu/data/coco/val2017/000000153568.jpg",
+        "caption": [
+            "A close up of a stop sign with two hand written notes taped to it.",
+            "A stop sign that has some papers on it.",
+            "A red stop sign with paper with writing on top of it.",
+            "A stop sign with additional warnings taped to it.",
+            "a stop sign with alot of  writing on it"
+        ],
+        "Question(GPT)": "What is the content of the notes hanging beneath the stop sign?"
+    },
+    {
+        "image_id": 574297,
+        "file": "/data/qinyu/data/coco/val2017/000000574297.jpg",
+        "caption": [
+            "A man in a helmet is riding a horse across a dirt road",
+            "a man sits on top of a horse ",
+            "The jockey is riding a horse on the beaten path.",
+            "A man that is riding a horse on a dirt road. ",
+            "A man dressed as a jockey riding a horse along a path."
+        ],
+        "Question(GPT)": "What color is the helmet of the man riding beneath the horse?"
+    },
+    {
+        "image_id": 188465,
+        "file": "/data/qinyu/data/coco/val2017/000000188465.jpg",
+        "caption": [
+            "A baseball player swings their bat at a ball.",
+            "a baseball game with a batter swinging the bat and fielder awaiting the ball",
+            " Mn swinging a baseball bat on a field.",
+            "Baseball game taking place with a huge crowd in the stands watching. ",
+            "A man swinging a baseball bat on a field."
+        ],
+        "Question(GPT)": "What color is the uniform of the fielder standing behind the batter?"
+    },
+    {
+        "image_id": 205401,
+        "file": "/data/qinyu/data/coco/val2017/000000205401.jpg",
+        "caption": [
+            "A plane floating on top of a lake surrounded by mountains.",
+            "Lake or river beach with plane in shallow water. ",
+            "A seaplane parked on the shallow end of the sea as a man approaches. ",
+            "A BIPLANE AND A SMALL BOAT OUT ON THE WATER",
+            "A small boat in water beside a sea airplane."
+        ],
+        "Question(GPT)": "How many people can be seen in the small boat behind the seaplane?"
+    },
+    {
+        "image_id": 227491,
+        "file": "/data/qinyu/data/coco/val2017/000000227491.jpg",
+        "caption": [
+            "Woman skier taking a break and enjoying a snack",
+            "A skier sitting on a picnic table and eating a doughnut. ",
+            "A woman is sitting on a bench and is eating something.",
+            "A female skier sits down on a bench eating a bagel.",
+            "A woman that is sitting outside on a bench in the snow."
+        ],
+        "Question(GPT)": "What is the woman eating while sitting underneath the bench in the snow?"
+    },
+    {
+        "image_id": 326462,
+        "file": "/data/qinyu/data/coco/val2017/000000326462.jpg",
+        "caption": [
+            "Pink donut with white sprinkles on the top of it. ",
+            "a person holds a doughnut with sprinkles on it ",
+            "A red icing doughnut with sprinkles on top.",
+            "A person holding a donut with a napkin.",
+            "A person is holding a doughnut with sprinkles."
+        ],
+        "Question(GPT)": "What flavor is the donut with white sprinkles floating above the person's hand?"
+    },
+    {
+        "image_id": 302107,
+        "file": "/data/qinyu/data/coco/val2017/000000302107.jpg",
+        "caption": [
+            "A man swinging a baseball bat during a baseball game.",
+            "A baseball player taking a swing at a ball",
+            "Two athletes actively playing a game of baseball.",
+            "A baseball player in mid swing hitting a ball.",
+            "A baseball player in a black jersey swinging a bat."
+        ],
+        "Question(GPT)": "What is the color of the jersey worn by the baseball player standing on the pitcher's mound?"
+    },
+    {
+        "image_id": 378673,
+        "file": "/data/qinyu/data/coco/val2017/000000378673.jpg",
+        "caption": [
+            "A man riding a skateboard down the side of a ramp.",
+            "A skateboarder is separated from his board as he performs a jump in front of a crowd.",
+            "A person at a skateboard park, jumping his skateboard.",
+            "a skateboarder in brown pants is doing a trick",
+            "A skateboard enthusiast performing a stunt in mid air."
+        ],
+        "Question(GPT)": "What color are the brown pants of the skateboarder jumping over his skateboard?"
+    },
+    {
+        "image_id": 484978,
+        "file": "/data/qinyu/data/coco/val2017/000000484978.jpg",
+        "caption": [
+            "A woman sitting at a table while eating food.",
+            "A woman sitting down holding a spoon and in her hand and eating.",
+            "A woman eating at her kitchen table ",
+            "A woman has her picture taken while eating",
+            "A woman eating food at a table in a kitchen."
+        ],
+        "Question(GPT)": "What is the woman wearing while standing and eating at the kitchen counter?"
+    },
+    {
+        "image_id": 427655,
+        "file": "/data/qinyu/data/coco/val2017/000000427655.jpg",
+        "caption": [
+            "a horse is pulling a carriage with people down a street",
+            "A horse and carriage that has some people sitting in it.",
+            "Two ladies are riding in a wagon being pulled by a horse. ",
+            "A horse drawn carriage with two women riding on it.",
+            "A horse pulling some people in a carriage in the street."
+        ],
+        "Question(GPT)": "What are the two ladies doing inside the carriage under the horse?"
+    },
+    {
+        "image_id": 359855,
+        "file": "/data/qinyu/data/coco/val2017/000000359855.jpg",
+        "caption": [
+            "A broken suitcase is on the side of the road.",
+            "A blue piece of luggage sitting on the side of  a road.",
+            "Beat up blue suitcase lying on side of road.",
+            "Closed suit case laying on the ground next to a plant.",
+            "A discarded piece of blue luggage on an asphalt walk."
+        ],
+        "Question(GPT)": "What items can be found inside the suitcase lying beneath the plant?"
+    },
+    {
+        "image_id": 463522,
+        "file": "/data/qinyu/data/coco/val2017/000000463522.jpg",
+        "caption": [
+            "A horse pulling  carriage travels through a busy area in a city",
+            "A horse is pulling something down a residential street.",
+            "A large set of horses carrying a carriage down a street.",
+            "A couple of brown horses walking down a street next to buildings.",
+            "A horse stands on the side of the road with a harness on."
+        ],
+        "Question(GPT)": "What breed of horse is standing in the middle of the road with a harness on?"
+    },
+    {
+        "image_id": 398438,
+        "file": "/data/qinyu/data/coco/val2017/000000398438.jpg",
+        "caption": [
+            "A person cutting a multi layer cake with a knife.",
+            "A man and woman making a cut unto a cake",
+            "A person reaching out and cutting a cake.",
+            "The hands of a couple that is cutting a wedding cake.",
+            "A couple at a wedding cutting their wedding cake together."
+        ],
+        "Question(GPT)": "What flavor is the cake being cut by the couple behind the wedding cake?"
+    },
+    {
+        "image_id": 95707,
+        "file": "/data/qinyu/data/coco/val2017/000000095707.jpg",
+        "caption": [
+            "A table topped with a train styled cake.",
+            "Small cakes are on a piece of tinfoil.",
+            "Several pastries sitting on aluminum foil next to a bowl with a knife and spatula in it. ",
+            "Baked dessert items being prepared in kitchen area.",
+            "A piece of cake that is sitting on foil."
+        ],
+        "Question(GPT)": "What type of pastries are sitting beneath the aluminum foil?"
+    },
+    {
+        "image_id": 389684,
+        "file": "/data/qinyu/data/coco/val2017/000000389684.jpg",
+        "caption": [
+            "The pedestrian is walking down the side of the highway by the bus.",
+            "A transit bus passing a man on a sidewalk.",
+            "Guy walking pass a bus sitting at the curb ",
+            "a man is walking down the sidewalk next to a bus on the street",
+            "a man walks down a sidewalk as a vehicle passes "
+        ],
+        "Question(GPT)": "What color is the pedestrian's shirt who is walking behind the bus?"
+    },
+    {
+        "image_id": 415727,
+        "file": "/data/qinyu/data/coco/val2017/000000415727.jpg",
+        "caption": [
+            "A couple of men standing next to each other.",
+            "A baseball player grabbing a bat, in a game.",
+            "a boy reaching for a baseball bat in a dugout.",
+            "Baseball players taking baseball bats from a wall.",
+            "A boy with catchers gear on looking at some baseball bats."
+        ],
+        "Question(GPT)": "What color is the baseball bat above the boy with the catcher's gear?"
+    },
+    {
+        "image_id": 493334,
+        "file": "/data/qinyu/data/coco/val2017/000000493334.jpg",
+        "caption": [
+            "A sheet cake with a frosting cell phone on it.",
+            "Intricate cake with a saying and cell phone stuck in it.",
+            "A cake has a pond and a cell phone on it and green icing for trimming.",
+            "A large sheet cake with a frosted mobile phone.",
+            "A sheet cake with a lake scene displays the words, \"What is the Pickup Line Today?\""
+        ],
+        "Question(GPT)": "What color is the frosting on the cell phone that is submerged in the pond on the cake?"
+    },
+    {
+        "image_id": 139099,
+        "file": "/data/qinyu/data/coco/val2017/000000139099.jpg",
+        "caption": [
+            "A street scene with a person on a motorcycle.",
+            "a person on a motorcycle along a farmers market",
+            "A woman is showing a watermelon slice to a woman on a scooter.",
+            "A person on a motorcycle talking to a person with a watermelon.",
+            "People at a veggie and fruit market looking at the merchandise."
+        ],
+        "Question(GPT)": "What type of fruit is the person on the motorcycle handing to the person with a watermelon?"
+    },
+    {
+        "image_id": 561223,
+        "file": "/data/qinyu/data/coco/val2017/000000561223.jpg",
+        "caption": [
+            "A young man riding a surfboard on a wave.",
+            "A surfer wearing red and black shorts rides a white surf board.",
+            "A man dodges waves on a surf board",
+            "A young man surfing on a small patch of rough water in the ocean",
+            "Man in shorts and a t-shirt surfing in the ocean"
+        ],
+        "Question(GPT)": "What color is the surfboard floating above the young man?"
+    },
+    {
+        "image_id": 110884,
+        "file": "/data/qinyu/data/coco/val2017/000000110884.jpg",
+        "caption": [
+            "A white sink sitting next to a toilet.",
+            "a room with a sink and a toilet in it",
+            "a bathroom with a sink and a bath tub",
+            "A small cramped bathroom slightly cluttered with dingy walls.",
+            "A green tinted bathroom consisting of a toilet and sink"
+        ],
+        "Question(GPT)": "What color is the towel hanging next to the bathtub in the green-tinted bathroom?"
+    },
+    {
+        "image_id": 476514,
+        "file": "/data/qinyu/data/coco/val2017/000000476514.jpg",
+        "caption": [
+            "two people in a field wearing a dress and a suit and tie",
+            "A man with red hair standing next to his bride.",
+            "The woman in the white dress is standing next to a man.",
+            "TWO WOMEN BRIDES GETTING MARRIED STANDING UNDER AND UMBRELLA",
+            "Man and woman in fancy dress, with a parasol, posed on a lawn."
+        ],
+        "Question(GPT)": "What is the color of the parasol hanging from the tree above the two women brides?"
+    },
+    {
+        "image_id": 6954,
+        "file": "/data/qinyu/data/coco/val2017/000000006954.jpg",
+        "caption": [
+            "A group of young children sitting in the grass.",
+            "A group of children sitting on the grass with frisbees in their hands. ",
+            "A group of children sitting in the grass with two of them holding a Frisbee .",
+            "Five small boys sitting on the grass holding two frisbees",
+            "a bunch of kids sitting on grass holding a frisbe"
+        ],
+        "Question(GPT)": "What color is the frisbee that the children are holding above their heads?"
+    },
+    {
+        "image_id": 534827,
+        "file": "/data/qinyu/data/coco/val2017/000000534827.jpg",
+        "caption": [
+            "a group of young men are riding their motocycles down the street",
+            "five men riding their motor cycles on the street",
+            "Motorcyclists are riding down the street with each other.",
+            "Five people riding some motorbikes on the road",
+            "People are riding on motorcycles together down a street."
+        ],
+        "Question(GPT)": "What color are the helmets of the people walking beside their motorcycles on the street?"
+    },
+    {
+        "image_id": 274460,
+        "file": "/data/qinyu/data/coco/val2017/000000274460.jpg",
+        "caption": [
+            "A group of people on a beach with surf boards.",
+            "a bunch of people sitting on a beach ",
+            "Groups of competitive surfers sitting with their surfboards on the beach.",
+            "a group of people on a beach with buildings in the background and surfboards in the  foreground",
+            "A group of young people gather with surfboards on a tropical beach."
+        ],
+        "Question(GPT)": "What color are the buildings floating above the beach?"
+    }
+]

@@ -1,7 +1,10 @@
 import sys
 import os
 import json
+###################################################
+####### Set the path to the repository here #######
 sys.path.append("../LLaVA/")
+###################################################
 
 import torch
 from torch import nn

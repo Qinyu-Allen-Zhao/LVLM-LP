@@ -1,5 +1,8 @@
 import sys
+###################################################
+####### Set the path to the repository here #######
 sys.path.append("../mPLUG-Owl/mPLUG-Owl2")
+###################################################
 
 import torch
 from torch import nn

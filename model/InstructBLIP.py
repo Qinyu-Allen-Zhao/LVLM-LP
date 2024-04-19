@@ -1,5 +1,8 @@
 import sys
+###################################################
+####### Set the path to the repository here #######
 sys.path.append("../LAVIS")
+###################################################
 
 import numpy as np
 from PIL import Image

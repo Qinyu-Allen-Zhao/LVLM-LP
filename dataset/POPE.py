@@ -7,11 +7,10 @@ from dataset.base import BaseDataset
 from utils.func import read_jsonl
 
 class POPEDataset(BaseDataset):
-    def __init__(self, split="val"):
+    def __init__(self, split="val", data_root="/data/coco/"):
         super(POPEDataset, self).__init__()
         self.ann_path = f"./data/pope/coco_{split}"
-        self.img_root = f"/data/coco/{split}2014"        
-#         self.prompter = prompter
+        self.img_root = os.path.join(data_root, f"{split}2014")
         self.split = split
          
     def get_data(self):

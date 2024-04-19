@@ -1,0 +1,2402 @@
+[
+    {
+        "image_id": 163257,
+        "file": "/data/qinyu/data/coco/val2017/000000163257.jpg",
+        "caption": [
+            "A man in a neon green shirt and black pants holding a pink umbrella.",
+            "A man in a florescent green hoodie holding a fuchsia umbrella.  ",
+            "A man holding an umbrella on a sidewalk.",
+            "A man holding and dancing with an umbrella.",
+            "A man holding a pink umbrella standing on his tip toes."
+        ],
+        "Question(GPT)": "What is the man doing with his umbrella on a windy day with no rain?"
+    },
+    {
+        "image_id": 7977,
+        "file": "/data/qinyu/data/coco/val2017/000000007977.jpg",
+        "caption": [
+            "A young man performing tricks on a skateboard.",
+            "A young man skateboarding at a public park.",
+            "A teenager is doing a wheelie on a skateboard.",
+            "a boy on a skateboard at a skatepark",
+            "A boy is doing a trick on his skateboard. "
+        ],
+        "Question(GPT)": "What is the young man wearing to stay dry while skateboarding on a rainy day?"
+    },
+    {
+        "image_id": 95899,
+        "file": "/data/qinyu/data/coco/val2017/000000095899.jpg",
+        "caption": [
+            "A red stop sign next to a blue street sign.",
+            "A stop sign sits below a construction site.",
+            "a construction site sits in front of a stop sign ",
+            "The Fort York Blvd. sign is very close to the stop sign.",
+            "Two cranes behind a stop sign and a street sign indicating Fort York Blvd."
+        ],
+        "Question(GPT)": "What do the two cranes look like on a foggy evening?"
+    },
+    {
+        "image_id": 144984,
+        "file": "/data/qinyu/data/coco/val2017/000000144984.jpg",
+        "caption": [
+            "A child in a room with a remote in hand.",
+            "A young boy is playing Wii on the couch.",
+            "A small child sitting on the couch holding a Wii remote.",
+            "A boy wearing an orange t-shirt playing a video game while sitting on a couch.",
+            "A boy in an orange t-shirt plays a video game."
+        ],
+        "Question(GPT)": "What is the child doing with the remote on a busy playground?"
+    },
+    {
+        "image_id": 52412,
+        "file": "/data/qinyu/data/coco/val2017/000000052412.jpg",
+        "caption": [
+            "A jetliner wing flying over the top of a parking.",
+            "an air plane wing with a parking lot with cars",
+            "View from an airplane looking looking out over large parking lot.",
+            "A view of several parking lots from an airplane. ",
+            "a big parking with a bunch of cars parked in it"
+        ],
+        "Question(GPT)": "What is the view of the parking lot like on a foggy day from the ground?"
+    },
+    {
+        "image_id": 356248,
+        "file": "/data/qinyu/data/coco/val2017/000000356248.jpg",
+        "caption": [
+            " a man holding onto a little blond girl ",
+            "A baby looking over a fathers shoulder watching other people eat.",
+            "A man with glasses holds a small child at a restaurant.",
+            "A man holding a baby girl while seated in a cafe.",
+            "He was holding the baby in his chair at the dining table."
+        ],
+        "Question(GPT)": "What is the man doing with the baby girl at the park?"
+    },
+    {
+        "image_id": 71226,
+        "file": "/data/qinyu/data/coco/val2017/000000071226.jpg",
+        "caption": [
+            "Two dogs and a cat sleeping on their human's bed",
+            "two dogs and a cat sleeping on a bed together",
+            "A bed with two dogs and a cat lying on it.",
+            "Two dogs and a cat sleeping on a bed.",
+            "Two dogs and a cat lying on a bed"
+        ],
+        "Question(GPT)": "What are the two dogs and the cat doing in the middle of a busy park?"
+    },
+    {
+        "image_id": 73946,
+        "file": "/data/qinyu/data/coco/val2017/000000073946.jpg",
+        "caption": [
+            "A couple of men standing on either side of a surfboard.",
+            "some men are looking at a design of a shark",
+            "Two men fake biting a surfboard for a picture.",
+            "Two men biting a surfboard with a shark on it. ",
+            "TWO MEN IMITATING A SHARK PICTURE ON A SURFBOARD"
+        ],
+        "Question(GPT)": "What are the couple of men wearing for a snowboarding trip?"
+    },
+    {
+        "image_id": 233567,
+        "file": "/data/qinyu/data/coco/val2017/000000233567.jpg",
+        "caption": [
+            "A goat is standing in a barn by some hay.",
+            "The goats are standing together on the straw.",
+            "a black goat standing next to two white goats ",
+            "Several sheep standing in a barn, one is black",
+            "Black and white sheep in hay next to wooden fence."
+        ],
+        "Question(GPT)": "What are the goat and sheep doing during a snowstorm outside the barn?"
+    },
+    {
+        "image_id": 310980,
+        "file": "/data/qinyu/data/coco/val2017/000000310980.jpg",
+        "caption": [
+            "A person looks at a very big computer monitor. ",
+            "A stuffed animal is in front of a notebook computer.",
+            "A bear is sitting in front of a computer.",
+            "A teddy bear sitting in front of an open laptop computer.",
+            "A person who is sitting and looking up at a computer monitor. "
+        ],
+        "Question(GPT)": "What is the person doing with the teddy bear at the beach?"
+    },
+    {
+        "image_id": 196009,
+        "file": "/data/qinyu/data/coco/val2017/000000196009.jpg",
+        "caption": [
+            "A spoon, a large carrot, a medium carrot and a small carrot, on blue-green speckled surface",
+            "a couple of carrots sit next to a spoon",
+            "A couple of very large carrots compared to the size of a spoon.",
+            "A spoon laying beside a few big carrots",
+            "Fresh carrots from a garden lie on a counter next to a teaspoon."
+        ],
+        "Question(GPT)": "What is the spoon doing laying on a picnic blanket beside the carrots on a breezy autumn day?"
+    },
+    {
+        "image_id": 563349,
+        "file": "/data/qinyu/data/coco/val2017/000000563349.jpg",
+        "caption": [
+            "A person on a board holding a para sail rope over a snow field.",
+            "a person using a parachute with a wake board",
+            "A person up in the air on a snowboard.",
+            "A person that is jumping in the sky on a snowboard.",
+            "A snowboarder is flying in the air over snow."
+        ],
+        "Question(GPT)": "What is the person doing with the parasail rope on a sandy beach?"
+    },
+    {
+        "image_id": 166391,
+        "file": "/data/qinyu/data/coco/val2017/000000166391.jpg",
+        "caption": [
+            "A large and wide street covered in lots of traffic lights.",
+            "cars are stopped at a traffic light on a highway",
+            "Traffic is stopped at a red stop light.",
+            "A traffic light and intersection with cars traveling in both directions on the street.",
+            "A number of red and green traffic lights on a wide highway."
+        ],
+        "Question(GPT)": "What are the cars doing on the wide street during a heavy snowstorm?"
+    },
+    {
+        "image_id": 500211,
+        "file": "/data/qinyu/data/coco/val2017/000000500211.jpg",
+        "caption": [
+            "a spooky looking hotel resort in the hills",
+            "A row of closed brown umbrellas next to a building.",
+            "several beach umbrellas folded in front of a large house with lots of windows",
+            "All of the umbrellas are folded up. ",
+            "all umbrellas are closed at he tables outside the hotel "
+        ],
+        "Question(GPT)": "What activities are people enjoying under the open beach umbrellas on a busy day outside the hotel?"
+    },
+    {
+        "image_id": 493019,
+        "file": "/data/qinyu/data/coco/val2017/000000493019.jpg",
+        "caption": [
+            "A herd of giraffe standing next to each other eating.",
+            "A group of zebras are bending down and eating a box full of grass. ",
+            "A group of zebras grazing from crates with trees around.",
+            "Zebras gather to drink from a water trough in their compound.",
+            "A group of zebras eating together at a trough "
+        ],
+        "Question(GPT)": "What are the giraffes and zebras wearing to stay warm during a snowy day?"
+    },
+    {
+        "image_id": 546475,
+        "file": "/data/qinyu/data/coco/val2017/000000546475.jpg",
+        "caption": [
+            "A man holding a baby while standing in front of a mirror.",
+            "A father and child taking a selfie of themselves. ",
+            "a man that is holding a small baby",
+            "A man holding a baby taking a picture.",
+            "A man and his baby girl taking a selfie."
+        ],
+        "Question(GPT)": "What is the man wearing to keep the baby warm while they take a walk outside in the chilly weather?"
+    },
+    {
+        "image_id": 218362,
+        "file": "/data/qinyu/data/coco/val2017/000000218362.jpg",
+        "caption": [
+            "A large digital clock mounted to a wall.",
+            "A wall displaying an assorted collection of different clocks.",
+            "A wall with several different clocks hanging from it with a mirror next to them.",
+            "Multiple time pieces displayed on the wall and on a flat surface.",
+            "A wall with several different clocks on it, in both traditional and modern styles"
+        ],
+        "Question(GPT)": "What do the clocks show during a power outage?"
+    },
+    {
+        "image_id": 71451,
+        "file": "/data/qinyu/data/coco/val2017/000000071451.jpg",
+        "caption": [
+            "A clean bed in a hotel room with towels and soap laid out",
+            "Bed made with folded towels and walls with window",
+            "A hotel room bed with folded towels on the corner.",
+            "folded towels sitting on a bed in a hotel room",
+            "A white bed topped with lots of pillows and a wooden headboard."
+        ],
+        "Question(GPT)": "What items would the guests find on the bed if the hotel room was set up for a camping experience?"
+    },
+    {
+        "image_id": 333069,
+        "file": "/data/qinyu/data/coco/val2017/000000333069.jpg",
+        "caption": [
+            "Two giraffes in the trees, one standing up.",
+            "A giraffe is half way between sitting and standing, while another giraffe looks on from behind some shrubs.",
+            "Giraffe trying to stand up after sitting in the grass",
+            "A photo of a giraffe getting up off the ground.",
+            "One giraffe is crouched down while another peers out of the shrubbery."
+        ],
+        "Question(GPT)": "What are the two giraffes doing to stay warm in the snowy weather?"
+    },
+    {
+        "image_id": 44590,
+        "file": "/data/qinyu/data/coco/val2017/000000044590.jpg",
+        "caption": [
+            "A group of motorcycles parked on the side of a road.",
+            "A large group of motorcyclists have parked on the side of a road.",
+            "A group of motorcyclists are stopped at the side of the road. ",
+            "A motorcycle club stopping along the highway to take a break and talk.",
+            "Many motorcyclists gather and socialize at the side of the road"
+        ],
+        "Question(GPT)": "What activities are the group of motorcyclists doing while taking shelter from the rain?"
+    },
+    {
+        "image_id": 372466,
+        "file": "/data/qinyu/data/coco/val2017/000000372466.jpg",
+        "caption": [
+            "A computer mouse is beside a notebook computer.",
+            " A laptop with a mouse and a keyboard connected. ",
+            "A notebook computer is set on a table.",
+            "A computer mouse sitting on top of a computer desk.",
+            "a laptop with a mouse connected to it "
+        ],
+        "Question(GPT)": "What is the computer mouse doing on a cluttered workbench?"
+    },
+    {
+        "image_id": 369037,
+        "file": "/data/qinyu/data/coco/val2017/000000369037.jpg",
+        "caption": [
+            "A man standing next to an elephant with a long trunk.",
+            "a man standing next to a big elephant ",
+            "A man standing with an elephant that has painted markings on it.",
+            "A person pets an elephant with markings on it. ",
+            "A man standing next to an elephant, with his hand touching the trunk."
+        ],
+        "Question(GPT)": "What is the man doing to stay warm near the elephant on a chilly snow-covered day?"
+    },
+    {
+        "image_id": 443969,
+        "file": "/data/qinyu/data/coco/val2017/000000443969.jpg",
+        "caption": [
+            "A baby girl standing in a shopping cart holding an umbrella.",
+            "A GIRL IS IN A GROCERY CART ",
+            "A little girl is riding in a shopping cart while holding her umbrella.",
+            "A little girl inside of a shopping cart.",
+            "A small child stands in a shopping cart with an umbrella."
+        ],
+        "Question(GPT)": "What is the baby girl doing with an umbrella on a sunny day at the playground?"
+    },
+    {
+        "image_id": 286182,
+        "file": "/data/qinyu/data/coco/val2017/000000286182.jpg",
+        "caption": [
+            "there is a man that is sitting at a table with lots of food",
+            "A man sitting in a chair across from a table topped with food.",
+            "A man sitting by a table with food in bowls and pans ",
+            "A man sitting near a table with a bunch of food on it",
+            "a man sitting in a room with a food on a table"
+        ],
+        "Question(GPT)": "What is the man doing outside without any food around?"
+    },
+    {
+        "image_id": 134856,
+        "file": "/data/qinyu/data/coco/val2017/000000134856.jpg",
+        "caption": [
+            "Three people on horseback ride along the beach while waves come in.",
+            "A group of horses and riders galloping along a beach.",
+            "Three people in the distance riding horses along the beach.",
+            "Three people on horses riding on the beach.",
+            "Three people riding horses on the shore. "
+        ],
+        "Question(GPT)": "What are the three people wearing for their snowy mountain trek on horseback?"
+    },
+    {
+        "image_id": 163314,
+        "file": "/data/qinyu/data/coco/val2017/000000163314.jpg",
+        "caption": [
+            "People are walking in front of some shops.",
+            "Multiple people are walking on a street with shopping.",
+            "A group of people walking down a street next to tall buildings.",
+            "A group of people walking on a sidewalk next to buildings.",
+            "A street is lined with people and buildings."
+        ],
+        "Question(GPT)": "What are the people doing on the street as the snow starts to fall?"
+    },
+    {
+        "image_id": 211120,
+        "file": "/data/qinyu/data/coco/val2017/000000211120.jpg",
+        "caption": [
+            "Several teddy bears appear to have a picnic on the grass.",
+            "Three stuffed teddy bears are set on a toy picnic scene. ",
+            "Small teddy bears clothing on blankets with small bowls.",
+            "three teddy bears sitting on a picnic blankets ",
+            "Three stuffed animals are dressed and sitting on a blanket in front of empty plates."
+        ],
+        "Question(GPT)": "What are the teddy bears doing inside the house on such a snowy day?"
+    },
+    {
+        "image_id": 308587,
+        "file": "/data/qinyu/data/coco/val2017/000000308587.jpg",
+        "caption": [
+            "People are in the water with kites flying over them.",
+            "The photo shows the many ways to enjoy the beach--kite flying, bathing, lying in the sun, walking along the sand.",
+            "Several para sailors on choppy water under a cloudy sky.",
+            "A few para-surfers on the water near a beach.",
+            "People are windsurfing near a beach on a cloudy day."
+        ],
+        "Question(GPT)": "What are the people doing on the beach during a snowstorm?"
+    },
+    {
+        "image_id": 551794,
+        "file": "/data/qinyu/data/coco/val2017/000000551794.jpg",
+        "caption": [
+            "A man riding a motorcycle on the side of a road.",
+            "A man sitting on his motorcycle on dirt just of a paved road.",
+            "A motorcyclist is pulled to the side of the road.",
+            "A man on a motorcycle resting on the side of a country road",
+            "A man parked his motorcycle on the side of the road."
+        ],
+        "Question(GPT)": "What is the man doing with his motorcycle during a heavy snowfall?"
+    },
+    {
+        "image_id": 346638,
+        "file": "/data/qinyu/data/coco/val2017/000000346638.jpg",
+        "caption": [
+            "A bottle of beer sits next to the keyboard and mouse at the computer table.",
+            "A bottle of beer sits next to a computer at a desk",
+            "A computer on a desk with a bottle of beer next to it",
+            "A blue moon beer is sitting on a desk along with a computer monitor, keyboard, mouse, computer, and speaker.",
+            "A beer is sitting next to a computer."
+        ],
+        "Question(GPT)": "What is the bottle of beer chilling in next to the computer on a hot beach day?"
+    },
+    {
+        "image_id": 570456,
+        "file": "/data/qinyu/data/coco/val2017/000000570456.jpg",
+        "caption": [
+            "A living room filled with furniture and a table.",
+            "a large room that has both a kitchen and living room",
+            "A view down into a living room and kitchen.",
+            "A living room with seating areas, tables, and windows.",
+            "This is what your ceiling fan thinks your house looks like."
+        ],
+        "Question(GPT)": "What do you see outside the windows on a stormy day?"
+    },
+    {
+        "image_id": 555050,
+        "file": "/data/qinyu/data/coco/val2017/000000555050.jpg",
+        "caption": [
+            "A car driving in an intersection, past a furniture shop. ",
+            "A car in front of a furniture shop with a cow.",
+            "A small compact car driving past a furniture store.",
+            "A street scene with a car passing by.",
+            "a shop a car traffic lights and buildings\n"
+        ],
+        "Question(GPT)": "What is the car doing driving through a snowy intersection in front of the furniture shop?"
+    },
+    {
+        "image_id": 172935,
+        "file": "/data/qinyu/data/coco/val2017/000000172935.jpg",
+        "caption": [
+            "A person flying through the air whale riding skis.",
+            "A water skier performing a trick while flying through the air.",
+            "a person flying backwards on skis over water",
+            "A person doing a trick on water ski's while another passes underneath them.",
+            "The person is doing tricks on the water skiing. "
+        ],
+        "Question(GPT)": "What is the person wearing to keep warm while skiing on a snowy mountain?"
+    },
+    {
+        "image_id": 41872,
+        "file": "/data/qinyu/data/coco/val2017/000000041872.jpg",
+        "caption": [
+            "A bedroom with built in television and open fireplace",
+            "a large bedroom with a fireplace and tv",
+            "A room with a bed, a clock, a lamp, a fireplace and a television.",
+            "A bedroom with  a large bed facing a fireplace that has a television over the top of it, in a shelf space.",
+            "a room with a fire place and television inside of it "
+        ],
+        "Question(GPT)": "What items are the individuals in the bedroom using to keep warm on a cold camping night without a fireplace or television?"
+    },
+    {
+        "image_id": 40083,
+        "file": "/data/qinyu/data/coco/val2017/000000040083.jpg",
+        "caption": [
+            "A couple of people sitting under an umbrella.",
+            "Two men sitting underneath an umbrella on a sidewalk.",
+            "a vintage photo of some people sitting under an umbrella ",
+            "two men sitting under an umbrella on the sidewalk ",
+            "A couple of people under a large umbrella."
+        ],
+        "Question(GPT)": "What are the couple of people doing under the large umbrella on a windy day with no rain?"
+    },
+    {
+        "image_id": 511453,
+        "file": "/data/qinyu/data/coco/val2017/000000511453.jpg",
+        "caption": [
+            "A pizza with french fries on it on a table.",
+            "French fries on a pizza with a bottle of beer.",
+            "A prepared plate of food has pizza and french fries.",
+            "A pizza covered in french fries on top of a wooden table.",
+            "A plate with a pizza covered in french fries sits next to a beer. "
+        ],
+        "Question(GPT)": "What does the person do with the pizza and french fries during a formal dinner party?"
+    },
+    {
+        "image_id": 576955,
+        "file": "/data/qinyu/data/coco/val2017/000000576955.jpg",
+        "caption": [
+            "A rider takes their horse through some water at speed.",
+            "A man is guiding a horse through a body of water.",
+            "A boy on a horse jumps across th water hoe",
+            "A person and a horse splash through shallow water.",
+            "A person who is on a horse in the water."
+        ],
+        "Question(GPT)": "What is the rider wearing to protect themselves from the snow while guiding the horse through the water?"
+    },
+    {
+        "image_id": 97337,
+        "file": "/data/qinyu/data/coco/val2017/000000097337.jpg",
+        "caption": [
+            "A TV sitting in a living room on top of a TV stand.",
+            "A TV is on in this unique and eclectic living room.",
+            "This is a nice living room set up with two couches and a television.",
+            "A living room with a chair, couch, coffee table and television.",
+            "empty room with the lights on and tv on"
+        ],
+        "Question(GPT)": "What do the two couches look like in the dimly lit room with the TV off?"
+    },
+    {
+        "image_id": 579091,
+        "file": "/data/qinyu/data/coco/val2017/000000579091.jpg",
+        "caption": [
+            "A plate of broccoli and meat on a table.",
+            "a close up of a plate of food with broccoli",
+            "Small plate of food which includes small pieces of broccoli",
+            "A close up picture of some food on a plate.",
+            "Some green broccoli and hams are on the plate. "
+        ],
+        "Question(GPT)": "What is someone eating from the plate of broccoli and meat during a family picnic in the park?"
+    },
+    {
+        "image_id": 171050,
+        "file": "/data/qinyu/data/coco/val2017/000000171050.jpg",
+        "caption": [
+            "A brown and gold fire hydrant in front of a brick building.",
+            "A fire hydrant sits in front of a brick building\n",
+            "The subject of this photo is a fire plug on a city street.",
+            "A fire hydrant on a side walk in front of a building.",
+            "A fire hydrant across from a red bricked building. "
+        ],
+        "Question(GPT)": "What is the color of the fire hydrant standing in the snow in front of the brick building?"
+    },
+    {
+        "image_id": 18491,
+        "file": "/data/qinyu/data/coco/val2017/000000018491.jpg",
+        "caption": [
+            "A boy catches a ball as a player slides to the base.",
+            "A boy baseball player running to steal a base while another boy stops him.",
+            "A third baseman tries to tag a runner.",
+            "An outdoor baseball game with a runner being tagged at base.",
+            "A baseball player pushing another player on to the field"
+        ],
+        "Question(GPT)": "What is the boy trying to catch as the snow falls heavily on the baseball field?"
+    },
+    {
+        "image_id": 6012,
+        "file": "/data/qinyu/data/coco/val2017/000000006012.jpg",
+        "caption": [
+            "There are bananas around another piece of fruit. ",
+            "a yellow and red apple and some bananas",
+            "An apple sits in between a bunch of bananas",
+            "A bunch of bananas with an apple sitting in the middle.",
+            "Six bananas and a red fruit make an artistic sight paired with a blue background."
+        ],
+        "Question(GPT)": "What color is the basket holding the bananas and apple on a windy autumn day?"
+    },
+    {
+        "image_id": 481582,
+        "file": "/data/qinyu/data/coco/val2017/000000481582.jpg",
+        "caption": [
+            "a group of people are with a horse in a stable",
+            "A very big pretty horse and some people.",
+            "Three people are talking and laughing while in the stable with a horse.",
+            "There are people standing next to a horse.",
+            "Group of people in horse stall petting the horse"
+        ],
+        "Question(GPT)": "What are the group of people doing with the horse on a busy city street?"
+    },
+    {
+        "image_id": 451714,
+        "file": "/data/qinyu/data/coco/val2017/000000451714.jpg",
+        "caption": [
+            "A man standing in snow gear on skis while on a snowy hill.",
+            "A man riding skis on top of  a snow covered hill.",
+            "A skier is standing and posing for a photo",
+            "a person riding skis on a snowy surface",
+            "A man poses while skiing on a mountain at a snow resort. "
+        ],
+        "Question(GPT)": "What is the man wearing for his beach day, while he is standing on the sandy shore without his skis?"
+    },
+    {
+        "image_id": 451571,
+        "file": "/data/qinyu/data/coco/val2017/000000451571.jpg",
+        "caption": [
+            "A HALD EATEN CORN AND A SANDWICH ON THE PLAE",
+            "Meal with corn on the cob placed on a plate.",
+            "a piece of eaten corn next to a bunch of mixed veggies\n",
+            "A close up of a corn on the cob that has been eating.",
+            "A plate topped with a half eaten corn cob and meat."
+        ],
+        "Question(GPT)": "What does the sandwich on the plate look like on a windy beach day?"
+    },
+    {
+        "image_id": 309655,
+        "file": "/data/qinyu/data/coco/val2017/000000309655.jpg",
+        "caption": [
+            "A woman is posing for a picture on the snowy mountain.",
+            "A woman smiling with glasses on standing in the snow with two poles.",
+            "A woman on skis in front of people on a slope.",
+            "A woman in a black jacket with skis on a slope.",
+            "A woman stands on skis on a snowy hill."
+        ],
+        "Question(GPT)": "What is the woman doing on the beach with her skis?"
+    },
+    {
+        "image_id": 148719,
+        "file": "/data/qinyu/data/coco/val2017/000000148719.jpg",
+        "caption": [
+            "An older Dodge pickup sits parked next to another older pickup.",
+            "A red Dodge truck is parked near another Dodge. ",
+            "A red truck parked in grass next to other trucks.",
+            "A very old red truck that is parked on some grass.",
+            "A red truck sitting on a grassy field next to other trucks."
+        ],
+        "Question(GPT)": "What is the older Dodge pickup doing parked on a snowy street?"
+    },
+    {
+        "image_id": 465806,
+        "file": "/data/qinyu/data/coco/val2017/000000465806.jpg",
+        "caption": [
+            "A woman touching a plastic container sitting on a table.",
+            "There are a bunch of bananas left out in the open. ",
+            "some people a table some bananas and plastic cups",
+            "A table with bananas close to the road.",
+            "A person reaches for a container on a counter. "
+        ],
+        "Question(GPT)": "What is the woman wearing to stay dry while she touches the plastic container in the pouring rain?"
+    },
+    {
+        "image_id": 66926,
+        "file": "/data/qinyu/data/coco/val2017/000000066926.jpg",
+        "caption": [
+            "Several rows of donuts sitting on a table.",
+            "some glazed donuts are sitting on a white counter",
+            "Several glazed doughnuts lined up on a bakery tray. ",
+            "A box filled with lots of glazed donuts.",
+            "A bunch of glazed donuts sitting on a table."
+        ],
+        "Question(GPT)": "What are the donuts doing in the display window of the bakery on a snowy day?"
+    },
+    {
+        "image_id": 48555,
+        "file": "/data/qinyu/data/coco/val2017/000000048555.jpg",
+        "caption": [
+            "A group of people on horses racing together.",
+            "The horses are racing each other along the beach.",
+            "Three people race their horses down a beach.",
+            "A black and white photo of jockeys riding their horses",
+            "Horses with jockeys racing across the coast of some beach."
+        ],
+        "Question(GPT)": "What are the group of people on horses wearing to protect themselves from the heavy snowfall?"
+    },
+    {
+        "image_id": 179265,
+        "file": "/data/qinyu/data/coco/val2017/000000179265.jpg",
+        "caption": [
+            "A yellow bus with tinted windows driving uphill down a street.",
+            "A yellow bus picking up riders on a city street.",
+            "A yellow bus waiting at bus stop near some benches.",
+            "A bright yellow bus stops to take on passengers.",
+            "A yellow bus parks near the median of a street."
+        ],
+        "Question(GPT)": "What is the yellow bus doing during a heavy snowstorm?"
+    },
+    {
+        "image_id": 572555,
+        "file": "/data/qinyu/data/coco/val2017/000000572555.jpg",
+        "caption": [
+            "A red, yellow and silver train traveling down train tracks.",
+            "A yellow and red train stopped at a station.",
+            "A long train is going down the train tracks.",
+            "A modern, electric commuter train coming in to the station",
+            "A contemporary light-rail train seen from the front is stopped in a station."
+        ],
+        "Question(GPT)": "What are people doing inside the train during a heavy snowstorm?"
+    },
+    {
+        "image_id": 541123,
+        "file": "/data/qinyu/data/coco/val2017/000000541123.jpg",
+        "caption": [
+            "four tennis players with rackets on a court",
+            "A mens doubles tennis tournament on a grass court.",
+            "Four men on a tennis court playing a doubles tennis match.",
+            "Four people in red shirts playing tennis with onlookers in the background.",
+            "People playing a game of tennis with a large audience. "
+        ],
+        "Question(GPT)": "What do the four tennis players do indoors while it's snowing outside?"
+    },
+    {
+        "image_id": 34205,
+        "file": "/data/qinyu/data/coco/val2017/000000034205.jpg",
+        "caption": [
+            "Closeup of a plate of food that includes chicken, mushrooms and broccoli.",
+            "Extreme close up of a cooked chicken, mushroom, and broccoli dish.",
+            "Chicken and mushrooms served with broccoli garnished with parsley.",
+            "The meal is prepared and ready to be eaten. ",
+            "Some sort of chicken dish with broccoli spears on side of plate"
+        ],
+        "Question(GPT)": "What does the plate of chicken, mushrooms, and broccoli look like after being left out in the snow?"
+    },
+    {
+        "image_id": 484760,
+        "file": "/data/qinyu/data/coco/val2017/000000484760.jpg",
+        "caption": [
+            "A statue of the virgin Mary holding an orb of light.",
+            "A statue that is in front of a building.",
+            "Statue and old buildings shot at an angle.",
+            "A statue of a woman holding a ball stands in front of the old church.",
+            "That looks like a statue of the Virgin Mary beside the church."
+        ],
+        "Question(GPT)": "What is the statue of the Virgin Mary doing in the midst of a bustling city square?"
+    },
+    {
+        "image_id": 182202,
+        "file": "/data/qinyu/data/coco/val2017/000000182202.jpg",
+        "caption": [
+            "An open laptop computer sitting next to a  phone.",
+            "A cellphone next to a laptop computer. ",
+            "A vodafone sitting on a table next to a Mac laptop.",
+            "A Vodafone cell phone sitting next to a laptop.",
+            "A flip phone sitting next to a laptop computer."
+        ],
+        "Question(GPT)": "What is the open laptop computer used for during a power outage?"
+    },
+    {
+        "image_id": 449579,
+        "file": "/data/qinyu/data/coco/val2017/000000449579.jpg",
+        "caption": [
+            "Woman in red shirt holding up a tennis racket on a court. ",
+            "A strong woman is playing tennis on a court.",
+            "Woman in red shirt getting ready to hit tennis ball.",
+            "A women who is about to swing at the ball while playing tennis.",
+            "A woman holding a tennis racquet on a tennis court."
+        ],
+        "Question(GPT)": "What is the woman in the red shirt doing with her tennis racket on a windy day?"
+    },
+    {
+        "image_id": 239717,
+        "file": "/data/qinyu/data/coco/val2017/000000239717.jpg",
+        "caption": [
+            "a man is holding a plate and smiling happily",
+            "A man holding two plates of food while smiling.",
+            "a smiling man holding a little plate of food ",
+            "A guy is posing with a plate of food. ",
+            "Server smiling while carrying food inside a busy restaurant."
+        ],
+        "Question(GPT)": "What is the man doing with the plates of food on a windy day at the beach?"
+    },
+    {
+        "image_id": 2261,
+        "file": "/data/qinyu/data/coco/val2017/000000002261.jpg",
+        "caption": [
+            "A man on a blue raft attempting to catch a ride on a large wave.",
+            "The boy is looking back at a wave in the ocean. ",
+            "A young man is body surfing and paddling in the water.",
+            "A man in a black shirt plays on an ocean wave.",
+            "A boy riding a boogie board in the ocean waves."
+        ],
+        "Question(GPT)": "What is the man on the blue raft doing during a calm and still day on the lake?"
+    },
+    {
+        "image_id": 530146,
+        "file": "/data/qinyu/data/coco/val2017/000000530146.jpg",
+        "caption": [
+            "A white plate topped with a sandwich and sliced veggies.",
+            "A white plate contains various exotic food items.",
+            "A crowded table has a plate containing a burger with sauce and side of vegetables. ",
+            "A smothered beef sandwich is sided with pickles and slaw.",
+            "A plate filled with various kinds of food."
+        ],
+        "Question(GPT)": "What does the plate with the sandwich and sliced veggies look like in a dimly lit, empty room?"
+    },
+    {
+        "image_id": 311394,
+        "file": "/data/qinyu/data/coco/val2017/000000311394.jpg",
+        "caption": [
+            "A infant holding a baby toothbrush in his hand looking at it.",
+            "A small baby is holding a white and blue toothbrush.",
+            "A child holds a toothbrush in their hand.",
+            "The baby is holding and looking at his tooth brush.",
+            "A baby holds a toothbrush in its hand."
+        ],
+        "Question(GPT)": "What is the baby doing with the toothbrush on a windy day at the park?"
+    },
+    {
+        "image_id": 418696,
+        "file": "/data/qinyu/data/coco/val2017/000000418696.jpg",
+        "caption": [
+            "A street corner with a brown and white building on it.",
+            "a traffic light hanging from a wire above a street ",
+            "an empty street with a building with a tower at the corner.",
+            "The bright lights are shining on the street.",
+            "A tall church tower sitting on the corner of a street."
+        ],
+        "Question(GPT)": "What is the color of the traffic light during a thick fog that obscures the building with the tower?"
+    },
+    {
+        "image_id": 223090,
+        "file": "/data/qinyu/data/coco/val2017/000000223090.jpg",
+        "caption": [
+            "A white plate topped with dicked up lettuce next to carrots.",
+            "some vegetables on a white plate ready to be cut",
+            "A cutting board with carrots and some other leafy green vegetables along side a knife.",
+            "A knife, carrots, and cabbage on a white cutting board.",
+            "Salad ingredients,  carrots, onions and some leafy green"
+        ],
+        "Question(GPT)": "What is the chef preparing with the vegetables on a barbecue grill?"
+    },
+    {
+        "image_id": 286553,
+        "file": "/data/qinyu/data/coco/val2017/000000286553.jpg",
+        "caption": [
+            "A copse of men sitting next to each other at a table.",
+            "two people sitting at a table posing for a photo",
+            "Two people sitting at a table with two pizzas.",
+            "A man and woman posing for a photo with pizza on the table they are sitting at.",
+            "a couple sitting at a table with a couple of pizzas "
+        ],
+        "Question(GPT)": "What are the couple doing with the pizzas during a picnic in the park?"
+    },
+    {
+        "image_id": 459954,
+        "file": "/data/qinyu/data/coco/val2017/000000459954.jpg",
+        "caption": [
+            "A woman peaking around a pile of old refrigerators.",
+            "A person standing next to some old junk appliances.",
+            "A woman peering around stacks of old mini-fridges. ",
+            "Many old appliances in trash head with woman in center.",
+            "A woman is standing in a room filled with used appliances."
+        ],
+        "Question(GPT)": "What is the woman doing at the beach surrounded by new sun loungers?"
+    },
+    {
+        "image_id": 458790,
+        "file": "/data/qinyu/data/coco/val2017/000000458790.jpg",
+        "caption": [
+            "A view from the inside of a train from a side window.",
+            "View of landscape and a building from a train window.",
+            "A building seen through a rain and fog covered window.",
+            "A view of a wet day from indoors.",
+            "A wet window blurs the image of an apartment building beyond."
+        ],
+        "Question(GPT)": "What does the building look like through the train window on a clear and sunny day?"
+    },
+    {
+        "image_id": 462643,
+        "file": "/data/qinyu/data/coco/val2017/000000462643.jpg",
+        "caption": [
+            "A person holding a broken up cell phone.",
+            "A person holding a broken cell phone while looking at the screen.",
+            "A small electronic device sits in the palm of someone's hand.",
+            "A broken piece of equipment is sitting in the persons hand.",
+            "A person is holding a small electronic device."
+        ],
+        "Question(GPT)": "What is the person doing with the fully functioning cell phone on such a windy day?"
+    },
+    {
+        "image_id": 472623,
+        "file": "/data/qinyu/data/coco/val2017/000000472623.jpg",
+        "caption": [
+            "A young man riding a bike on top of a beach.",
+            "A bicyclist performs a wheelie near a rocky shore",
+            "A man balances his bicycle on one wheel",
+            "guy  with helmet on bicycle at beach",
+            "A man riding his bike of rock cliffs."
+        ],
+        "Question(GPT)": "What is the young man wearing to stay warm while riding his bike in the snowy mountains?"
+    },
+    {
+        "image_id": 12667,
+        "file": "/data/qinyu/data/coco/val2017/000000012667.jpg",
+        "caption": [
+            "The telephone has a banana where the receiver should be.",
+            "A banana replacing the phone on an answering machine",
+            "A phone with a banana where the receiver should be.",
+            "A telephone has it receiver replaced with a banana.",
+            "A banana placed on a phone on a table."
+        ],
+        "Question(GPT)": "What is the telephone doing with a pear instead of a banana receiver on such a windy day?"
+    },
+    {
+        "image_id": 260470,
+        "file": "/data/qinyu/data/coco/val2017/000000260470.jpg",
+        "caption": [
+            "A counter topped with a large white frosted cake sitting next to small pastry.",
+            "A row of assorted baked goods is behind glass at a store.",
+            "There is a window with a cake and other baked goods showing.",
+            "People looking into the front window display of a bakery",
+            "A row of several types of pastries on display."
+        ],
+        "Question(GPT)": "What are the people wearing to stay dry while looking into the front window display of the bakery on a rainy day?"
+    },
+    {
+        "image_id": 466125,
+        "file": "/data/qinyu/data/coco/val2017/000000466125.jpg",
+        "caption": [
+            "The child smiles brightly while being handed a pink umbrella. ",
+            "A little girl that is standing under an umbrella.",
+            "A little girl smiling for the camera with an umbrella behind her.",
+            "A smiling child stands under a pink and red umbrella.",
+            "A child with a backpack underneath an umbrella."
+        ],
+        "Question(GPT)": "What is the child doing with the pink umbrella on a windy day with no rain?"
+    },
+    {
+        "image_id": 389532,
+        "file": "/data/qinyu/data/coco/val2017/000000389532.jpg",
+        "caption": [
+            "silohette of a man against  the whiteness of the sky surrounding him",
+            "A man is standing up, taking a shot of the water, while a pigeon looks on. ",
+            "A man and a bird standing on top of a roof. ",
+            "A man standing on top of a structure under a cloudy sky.",
+            "The man is on the edge to take a picture."
+        ],
+        "Question(GPT)": "What is the man wearing for his walk in heavy rain, while the pigeon takes shelter?"
+    },
+    {
+        "image_id": 114884,
+        "file": "/data/qinyu/data/coco/val2017/000000114884.jpg",
+        "caption": [
+            "A woman with a cigarette standing, while a group of people with luggage walk towards a bus.",
+            "A crowd of people outside a terminal boarding buses.",
+            "A woman is having a smoke while waiting for the bus.",
+            "A group of people standing in a large building.",
+            "Buses lined up letting people aboard them. "
+        ],
+        "Question(GPT)": "What kind of coats do the group of people with luggage wear to protect themselves from the snowfall while boarding the bus?"
+    },
+    {
+        "image_id": 466416,
+        "file": "/data/qinyu/data/coco/val2017/000000466416.jpg",
+        "caption": [
+            "A building that is heavily lit up and in front of a river.",
+            "The view of a clock tower near a body of water at night.",
+            " A downtown city view from a high vantage point at night.",
+            "Large white buildings are lit up in the night.",
+            "A building with two clock towers next to water at night."
+        ],
+        "Question(GPT)": "What do the large white buildings look like during a busy afternoon?"
+    },
+    {
+        "image_id": 431727,
+        "file": "/data/qinyu/data/coco/val2017/000000431727.jpg",
+        "caption": [
+            "A pair of bears climb up in a tree.",
+            "Two bears are perched on trees out in the fog. ",
+            "Two bears in the trees with snow falling.",
+            "Two monkeys are sitting on some tree branches.",
+            "Two bears up in a tree during a snow storm"
+        ],
+        "Question(GPT)": "What are the two bears doing on the beach on such a sunny day?"
+    },
+    {
+        "image_id": 167898,
+        "file": "/data/qinyu/data/coco/val2017/000000167898.jpg",
+        "caption": [
+            "A kitchen with a toilet, sink and a bathtub.",
+            "A bathroom sink, toilet and shower with the curtain half open.",
+            "A white porcelain pedestal sink in a bathroom.",
+            "A shower stall, a sink and a toilet in a bathroom.",
+            "a bath room with a sink a toilet and a mirror"
+        ],
+        "Question(GPT)": "What is someone cooking in the kitchen on this chilly winter evening?"
+    },
+    {
+        "image_id": 341094,
+        "file": "/data/qinyu/data/coco/val2017/000000341094.jpg",
+        "caption": [
+            "A statue of a large brown bear tearing off a cars door.",
+            "A statue of a bear on a car used as a warning about the bears.",
+            "A statue depicting a bear breaking into a car.",
+            "Yes, bears can rip open cars and hurt the occupants.",
+            "A man poses with a picture of a bear and a car."
+        ],
+        "Question(GPT)": "What is the man wearing while standing next to a snow-covered car with a bear statue on top?"
+    },
+    {
+        "image_id": 417285,
+        "file": "/data/qinyu/data/coco/val2017/000000417285.jpg",
+        "caption": [
+            "A series of photos of two plates with different desserts and another plate with a cup of coffee.",
+            "A three frame photo combination showcases two types of pie on the right and left side with a coffee in the middle.  ",
+            "A partially-eaten pastry, a glass Arizona tea and another piece of pastry.",
+            "Three images of a pie and a cup of tea or coffee. ",
+            "Food items displayed such as coffee cake, a pastry and a beverage in a glass cup."
+        ],
+        "Question(GPT)": "What are the two plates with desserts and the coffee doing in a breezy park setting?"
+    },
+    {
+        "image_id": 96549,
+        "file": "/data/qinyu/data/coco/val2017/000000096549.jpg",
+        "caption": [
+            "An airplane on the runway either just landed or ready to take off.",
+            "An Egyptian airlines plane landing at an airport.",
+            "A commercial plane on the strip to take off.",
+            "A jumbo jet touching down on the runway.",
+            "Egyptair airplane standing on the tarmac at airport"
+        ],
+        "Question(GPT)": "What is the airplane doing flying through a stormy sky?"
+    },
+    {
+        "image_id": 398377,
+        "file": "/data/qinyu/data/coco/val2017/000000398377.jpg",
+        "caption": [
+            "Three women sitting on a train seat on cellphones.",
+            "There are women that are talking on the cell phone ",
+            "Commuters using their cell phones during a train ride",
+            "three females impatiently waiting. Two of them are on their cell phones",
+            "Group of women sitting down on a public train together. "
+        ],
+        "Question(GPT)": "What are the three women doing with their cell phones during a long car drive?"
+    },
+    {
+        "image_id": 476415,
+        "file": "/data/qinyu/data/coco/val2017/000000476415.jpg",
+        "caption": [
+            "A man wearing a white shirt and tie standing in  a room.",
+            "Person wearing a black Reel Big Fish tie.",
+            "A guy wearing a tie has his hands in his pockets. ",
+            "A person stands and shows his tie off.",
+            "A decorated neck tie saying \"Reel Big Fish\""
+        ],
+        "Question(GPT)": "What is the man wearing on his neck during a windy day at the beach?"
+    },
+    {
+        "image_id": 117374,
+        "file": "/data/qinyu/data/coco/val2017/000000117374.jpg",
+        "caption": [
+            "Two cats sitting in the dirt under a tree.",
+            "A couple of cats are by a tree",
+            "an image of two cats in a sand lot",
+            "Two cats by a tree in the dirt",
+            "Several cats sitting near a tree and a bird on a fence post."
+        ],
+        "Question(GPT)": "What are the two cats doing indoors?"
+    },
+    {
+        "image_id": 37689,
+        "file": "/data/qinyu/data/coco/val2017/000000037689.jpg",
+        "caption": [
+            "There are two snowboarders in the air completing stunts.",
+            "Some people on snow boards high up in the air.",
+            "Two snowboarders high in the air off of a jump",
+            "People doing tricks in the air on their snow boards. ",
+            "A guy is doing snow boarding tricks in the snow while people are watching him on the sidelines."
+        ],
+        "Question(GPT)": "What are the two snowboarders wearing for their beach volleyball game?"
+    },
+    {
+        "image_id": 334530,
+        "file": "/data/qinyu/data/coco/val2017/000000334530.jpg",
+        "caption": [
+            "A man riding a surfboard inside of a wave.",
+            "an image of a man riding the ocean waves on his surfboard",
+            "There is a surfer on a surfboard in a pipeline",
+            "A man surfing through a very large wave that is coming over his head.",
+            "A surfer rides his board inside an arching wave."
+        ],
+        "Question(GPT)": "What is the surfer doing on his board during a calm day with no waves?"
+    },
+    {
+        "image_id": 396580,
+        "file": "/data/qinyu/data/coco/val2017/000000396580.jpg",
+        "caption": [
+            "Very artistic photograph of a house, a lake and a wooden boat",
+            "a small boat floating down a river by a house",
+            "A canoe in the water near grass and a house.",
+            "A body of calm water with a wooden canoe docked on the side and a home across the water.",
+            "a house sits next to a swampy river "
+        ],
+        "Question(GPT)": "What does the house look like during a heavy snowfall with the lake frozen over?"
+    },
+    {
+        "image_id": 517687,
+        "file": "/data/qinyu/data/coco/val2017/000000517687.jpg",
+        "caption": [
+            "a close up of two cell phones near one another ",
+            "Two mobile devices are lying on a table.",
+            "Two cell phones of differing quality are set side by side on a table.",
+            "two cellphones are sitting side by side on the table.",
+            "Two cell phones are sitting next to each other on a table."
+        ],
+        "Question(GPT)": "What are the two cell phones doing in someone's pocket?"
+    },
+    {
+        "image_id": 183675,
+        "file": "/data/qinyu/data/coco/val2017/000000183675.jpg",
+        "caption": [
+            "A man is riding a horse in an open field.",
+            "Cowboy riding a horse in a huge pasture..\n",
+            "a man riding a horse in the middle of the mountain range.",
+            "an old man sitting on top of a horse next to the mountains",
+            "A man wearing cowboy gear is sitting on a horse."
+        ],
+        "Question(GPT)": "What is the man wearing to protect himself from the rain while riding the horse in the mountains?"
+    },
+    {
+        "image_id": 134322,
+        "file": "/data/qinyu/data/coco/val2017/000000134322.jpg",
+        "caption": [
+            "Kite flying between water area and building complex, probably Japan.",
+            "People congregated around a lake flying a large kite. ",
+            "Large kite flying above a well-attended waterfront event",
+            "A large kite is being flown above a town's skyline.",
+            "A kite flown above a body of water with many spectators"
+        ],
+        "Question(GPT)": "What are the people wearing at the kite-flying event on a snowy day?"
+    },
+    {
+        "image_id": 575205,
+        "file": "/data/qinyu/data/coco/val2017/000000575205.jpg",
+        "caption": [
+            "A small plane is preparing to land on the strip",
+            "A small airplane coming in for a landing.",
+            "A small airplane is in the air on a runway.",
+            "A Plane on runway taking off above ground.",
+            "a small plane taking off from a run way in mid air"
+        ],
+        "Question(GPT)": "What is the small plane doing during a heavy snowstorm on the runway?"
+    },
+    {
+        "image_id": 283520,
+        "file": "/data/qinyu/data/coco/val2017/000000283520.jpg",
+        "caption": [
+            "Two men play around on a nature trail.",
+            "Two men stand in the woods as one of them throws a Frisbee.",
+            "Two people standing in front of some trees.",
+            "A man throwing a frisbee on a course as another looks on.",
+            "Two guys in the woods playing with a disc."
+        ],
+        "Question(GPT)": "What are the two men wearing for a walk in the city on such a busy street?"
+    },
+    {
+        "image_id": 455872,
+        "file": "/data/qinyu/data/coco/val2017/000000455872.jpg",
+        "caption": [
+            "A black and white image of a shipyard with some boats. ",
+            "Several old boats sitting in an old ship yard.",
+            "A pier with various boats and ships parked. ",
+            "A black and white photo of a shipyard.",
+            "Black and white photo of an old dock with low water."
+        ],
+        "Question(GPT)": "What colors are the boats and ships at the shipyard on a bright and colorful day?"
+    },
+    {
+        "image_id": 414170,
+        "file": "/data/qinyu/data/coco/val2017/000000414170.jpg",
+        "caption": [
+            "Several skiers glide down a hilly landscape covered in snow. ",
+            "3 people separated by a short distance skiing on a ski slope",
+            "Three people on packed snow trail, two skiing, one walking.",
+            "People cross country skiing on a path between trees.",
+            "some snow skiers one in a blue jacket the other white"
+        ],
+        "Question(GPT)": "What are the skiers wearing to protect themselves from the pouring rain?"
+    },
+    {
+        "image_id": 344614,
+        "file": "/data/qinyu/data/coco/val2017/000000344614.jpg",
+        "caption": [
+            "A clock town sits in the middle of a city.",
+            "A very tall clock tower sitting next to other tall buildings.",
+            "A large old building with a two clocks at the top.",
+            "a large building that has a clock tower",
+            "A clock tower with multiple columns in a city."
+        ],
+        "Question(GPT)": "What is the clock tower doing in the middle of a snowy mountain landscape?"
+    },
+    {
+        "image_id": 145781,
+        "file": "/data/qinyu/data/coco/val2017/000000145781.jpg",
+        "caption": [
+            "A dog licking the top of a  beer bottle",
+            "A dog drinks from a bottle of Guiness.",
+            "A dog laying on the floor with it's mouth on a bottle of beer.",
+            "A black dog laying on the floor sitting alcohol from a bottle.",
+            "a dog laying on the carpet licking a bottle."
+        ],
+        "Question(GPT)": "What is the black dog doing with the beer bottle on the snowy ground outside?"
+    },
+    {
+        "image_id": 186042,
+        "file": "/data/qinyu/data/coco/val2017/000000186042.jpg",
+        "caption": [
+            "a person skiing through the snow near some trees toward a sunset",
+            "This is a painting of a cross country skier traveling up a slope at sunrise.",
+            "Cross country skier skiing along a well-worn trail.",
+            "A person in ski gear skiing on slope next to trees.",
+            "A person in the snow on some skis."
+        ],
+        "Question(GPT)": "What is the person doing skiing in the desert heat?"
+    },
+    {
+        "image_id": 22705,
+        "file": "/data/qinyu/data/coco/val2017/000000022705.jpg",
+        "caption": [
+            "The woman in the dress is holding her drink.",
+            "A woman is standing and smiling as she holds a wine glass in front of a refrigerator.",
+            "A woman in a short black dress is holding a champagne flute and standing in front of a refrigerator.",
+            "A women holding a drink in front of the refrigerator. ",
+            "A woman standing in front of a refrigerator freezer in a black dress."
+        ],
+        "Question(GPT)": "What is the woman doing with her drink at the beach?"
+    },
+    {
+        "image_id": 226147,
+        "file": "/data/qinyu/data/coco/val2017/000000226147.jpg",
+        "caption": [
+            "A woman is taking a picture of food with a mobile device.",
+            "A woman that is sitting down in front of a table.",
+            "A woman taking a photo of her food with a cell phone.",
+            "a woman in a white top at a table with food",
+            "A women who is taking a picture of her food."
+        ],
+        "Question(GPT)": "What is the woman doing with her food on a windy evening at the beach?"
+    },
+    {
+        "image_id": 364166,
+        "file": "/data/qinyu/data/coco/val2017/000000364166.jpg",
+        "caption": [
+            "2 Zebras standing next to each other in plaines",
+            "An adult and baby zebra looking onward on a field.",
+            "Two zebras standing side by side in a field",
+            "A young zebra with an adult zebra standing on a parched brown landscape.",
+            "An adult and a baby zebra are on the savannah."
+        ],
+        "Question(GPT)": "What are the two zebras doing to keep warm in the snowy landscape?"
+    },
+    {
+        "image_id": 377486,
+        "file": "/data/qinyu/data/coco/val2017/000000377486.jpg",
+        "caption": [
+            "A person riding a horse in the dirt near a wall.",
+            "a horse with a person riding on top of it ",
+            "A man on a horse looking towards a bull.",
+            "A large square concrete wall, which shows people over the rim, has inside of it a pinkish cloud of dust and a fallen bull as well as two horses, the closest of which is trotting forward with a man in western gear , who is looking back at the bull.",
+            "a person riding a horse on a dirt ground "
+        ],
+        "Question(GPT)": "What is the man wearing on his horse ride through the snow-covered fields?"
+    },
+    {
+        "image_id": 35279,
+        "file": "/data/qinyu/data/coco/val2017/000000035279.jpg",
+        "caption": [
+            "there is a tennis racket and a laptop on the floor",
+            "unable to see this image in this particular hit",
+            "A man laying his head down next to electronics, a butterfly, and a book. ",
+            "A man is laying by a racket, laptop, cell phone, and other objects. ",
+            "a man lies on the floor next to some gadgets"
+        ],
+        "Question(GPT)": "What activities might the man be doing in a busy office instead of laying on the floor next to the racket, laptop, cell phone, and other objects?"
+    },
+    {
+        "image_id": 270677,
+        "file": "/data/qinyu/data/coco/val2017/000000270677.jpg",
+        "caption": [
+            "A young man standing in front of a fence holding a skateboard.",
+            "A young man holding his skateboard, is posing for the camera. ",
+            "This is a picture of a boy with his skateboard.",
+            "Young man holding skateboard in front of fence.",
+            "A boy posing for a picture with his skateboard."
+        ],
+        "Question(GPT)": "What is the young man wearing for his skateboarding session on a snowy day?"
+    },
+    {
+        "image_id": 1503,
+        "file": "/data/qinyu/data/coco/val2017/000000001503.jpg",
+        "caption": [
+            "A computer on a desk next to a laptop.",
+            "A picture of an iMac desktop next to a Mac laptop on a desk. ",
+            "Two apple computers are on a white desk",
+            "A laptop and desktop computer on a white desk",
+            "A computer desk with several pieces of computer equipment."
+        ],
+        "Question(GPT)": "What items are on the computer desk outside in the rain?"
+    },
+    {
+        "image_id": 31620,
+        "file": "/data/qinyu/data/coco/val2017/000000031620.jpg",
+        "caption": [
+            "A bride and groom cutting their wedding cake.",
+            "A newlywed couple cutting a piece of wedding cake",
+            "a newly married couple cutting their wedding cake",
+            "A bride and groom about to cut into their cake",
+            "A woman in a white dress and a man in gray stand near a cake on a white table under a white canopy."
+        ],
+        "Question(GPT)": "What is the newlywed couple doing with their wedding cake on a windy day?"
+    },
+    {
+        "image_id": 80153,
+        "file": "/data/qinyu/data/coco/val2017/000000080153.jpg",
+        "caption": [
+            "A person riding skis on top of a snow covered slope near a dog.",
+            "A man on snow skis with his dog.",
+            "A person on some skis and a dog in the snow.",
+            "A man on skis with a dog next to him",
+            "A husky stands by as a skier stands there."
+        ],
+        "Question(GPT)": "What is the person wearing to stay cool while skiing with his dog on a hot summer day?"
+    },
+    {
+        "image_id": 161879,
+        "file": "/data/qinyu/data/coco/val2017/000000161879.jpg",
+        "caption": [
+            "A young man riding down a hand rail on a skateboard.",
+            "A skateboarder skates and balances on a railing.",
+            "there is a man riding a skateboard down a rail",
+            "A young man on a skateboard sliding up a handrail.",
+            "a skateboarder in a gray sweatshirt is doing a trick"
+        ],
+        "Question(GPT)": "What is the young man wearing on a gray sweatshirt doing during a blizzard?"
+    },
+    {
+        "image_id": 124277,
+        "file": "/data/qinyu/data/coco/val2017/000000124277.jpg",
+        "caption": [
+            "A train that is going through a city.",
+            "A train riding along a group of train tracks.",
+            "A train turns on the tracks in a different direction.",
+            "A train that is going over a bridge overlooking the city.",
+            "An elevated subway train in a major city on a sunny day."
+        ],
+        "Question(GPT)": "What do people on the train carry to protect themselves from the rain?"
+    },
+    {
+        "image_id": 54123,
+        "file": "/data/qinyu/data/coco/val2017/000000054123.jpg",
+        "caption": [
+            "The zebras are standing around and grazing in the pasture.",
+            "A herd of zebras is grazing on the plains in the sunshine.",
+            "A group of zebra grazing grass with a backdrop of bushes.",
+            "A bunch of zebras eating grass in a field.",
+            "A group of zebras grazing in the grass."
+        ],
+        "Question(GPT)": "What are the zebras doing to stay warm in a snowy field?"
+    },
+    {
+        "image_id": 218424,
+        "file": "/data/qinyu/data/coco/val2017/000000218424.jpg",
+        "caption": [
+            "A group of zebra standing next to each other.",
+            "A group of four zebras standing in different positions.",
+            "Four zebra are standing next to each other in a field.",
+            "Four zebras stand together in a grassy plain.",
+            "Four zebras on a dirt path looking in different directions."
+        ],
+        "Question(GPT)": "What are the four zebras doing on a snowy mountain trail?"
+    },
+    {
+        "image_id": 71938,
+        "file": "/data/qinyu/data/coco/val2017/000000071938.jpg",
+        "caption": [
+            "A man who fell asleep with phone on face",
+            "A man sleeping with a phone on his cheek",
+            "A man laying on top of a pillow with a phone on top of his head.",
+            "A boy asleep with a cell phone on his face.",
+            "A guy is sleeping with his phone attached to his ear."
+        ],
+        "Question(GPT)": "What is the man doing holding an umbrella with the phone on a rainy day?"
+    },
+    {
+        "image_id": 512330,
+        "file": "/data/qinyu/data/coco/val2017/000000512330.jpg",
+        "caption": [
+            "An open refrigerator filled with lots of food.",
+            "The refrigerator and the inside door are full of food.",
+            "There is a refrigerator that is filled with food.",
+            "Open fridge door displaying a wide selection of food inside.",
+            "n open refrigerator door exposing all the food inside"
+        ],
+        "Question(GPT)": "What is the reason for the refrigerator being empty during a power outage?"
+    },
+    {
+        "image_id": 180487,
+        "file": "/data/qinyu/data/coco/val2017/000000180487.jpg",
+        "caption": [
+            "GUY WITH UMBRELLA HAT SITTING A TABLE WITH ANOTHER PERSON",
+            "A guy sits at a table with an umbrella hat. ",
+            "A man sits outside in a umbrella hat.",
+            "A person they sitting down in a chair.",
+            "A man sits at a table outside wearing an umbrella hat."
+        ],
+        "Question(GPT)": "What are the two people at the table sipping on during the heatwave?"
+    },
+    {
+        "image_id": 66135,
+        "file": "/data/qinyu/data/coco/val2017/000000066135.jpg",
+        "caption": [
+            "An old yellow train is waiting at the station.",
+            "A train comes to a stop on the tracks next to the sidewalk.",
+            "a yellow train parked on the track next to a platform",
+            "A train at the station with no passengers around.",
+            "a long yellow train that is on a train track"
+        ],
+        "Question(GPT)": "What is the old yellow train doing in the heavy snowfall?"
+    },
+    {
+        "image_id": 549220,
+        "file": "/data/qinyu/data/coco/val2017/000000549220.jpg",
+        "caption": [
+            "A dog on a leash trying to ride a skateboard.",
+            "A small dog standing on top of a skateboard.",
+            "A very cute dog standing on a skate board.",
+            "a dog that is sitting on a skate board",
+            "a close up of a dog riding a skate board "
+        ],
+        "Question(GPT)": "What does the dog do with the skateboard on a snowy day?"
+    },
+    {
+        "image_id": 523033,
+        "file": "/data/qinyu/data/coco/val2017/000000523033.jpg",
+        "caption": [
+            "A group of people riding waves in the ocean.",
+            "A group of surfers in an ocean on their surfboards. ",
+            "A group of people that are inside of the water.",
+            "A few people are riding a wave on a surfboard.",
+            "A picture of a wave at the ocean."
+        ],
+        "Question(GPT)": "What are the group of people doing in the ocean during a snowstorm?"
+    },
+    {
+        "image_id": 525247,
+        "file": "/data/qinyu/data/coco/val2017/000000525247.jpg",
+        "caption": [
+            "Cat staring at the screen of an open laptop.",
+            "A cat staring at a laptop computer on desk.",
+            "A cat is looking at a laptop computer screen.",
+            "A cat is looking at a laptop screen.",
+            "A dark colored cat looking at a laptop screen."
+        ],
+        "Question(GPT)": "What is the cat doing with the laptop on a windy day in the garden?"
+    },
+    {
+        "image_id": 392818,
+        "file": "/data/qinyu/data/coco/val2017/000000392818.jpg",
+        "caption": [
+            "A dog in a leash harness posing for a photo.",
+            "A dog is wearing a harness that reads \"Outward Hound\".",
+            "a small dog wearing a flower print life vest",
+            "The puppy is wearing a black, white and pink apparatus.",
+            "a black brown and white dog wearing a pink and white jacket"
+        ],
+        "Question(GPT)": "What is the dog doing in the snow wearing its flower print life vest?"
+    },
+    {
+        "image_id": 496854,
+        "file": "/data/qinyu/data/coco/val2017/000000496854.jpg",
+        "caption": [
+            "A newly married couple walking down a street.",
+            "The woman holds an umbrella for the bride and groom.",
+            "A woman is holding an umbrella over a bride and groom.",
+            "A street scene with a bride and groom under an umbrella.",
+            "Bride and groom walking under an umbrella held by a woman."
+        ],
+        "Question(GPT)": "What might the newly married couple be doing under the hot sun without an umbrella?"
+    },
+    {
+        "image_id": 541773,
+        "file": "/data/qinyu/data/coco/val2017/000000541773.jpg",
+        "caption": [
+            "A young man pouring glasses of wine in a kitchen",
+            "A man standing in front of a wooden table covered in glasses of wine.",
+            "A person pouring some wine standing by a friend",
+            "The man is pouring a glass of wine, and there are several others on the table.",
+            "Dinner party guests enjoy a glass of fine wine."
+        ],
+        "Question(GPT)": "What is the young man doing with the glasses of wine at the beach party?"
+    },
+    {
+        "image_id": 373705,
+        "file": "/data/qinyu/data/coco/val2017/000000373705.jpg",
+        "caption": [
+            "A number of young people are enjoying themselves around a fountain, not far from a fire hydrant.",
+            "A red and yellow fire hydrant near the water fountain. ",
+            "a skinny red fire hydrogen  by some people",
+            "A red and yellow fire hydrant sitting on the side of a road.",
+            "A red fire hydrant is next to a public water fountain."
+        ],
+        "Question(GPT)": "What clothes are the young people wearing while they enjoy themselves around the fountain during a snowstorm?"
+    },
+    {
+        "image_id": 263679,
+        "file": "/data/qinyu/data/coco/val2017/000000263679.jpg",
+        "caption": [
+            "A man standing on top of a sandy beach near a colorful kite.",
+            "Two people on a beach flying  akite",
+            "two people standing on the sand of a beach in front of a large colorful kite",
+            "Two people on the sand of a beach area with a man holding the strings to a large parachute that is partially on the sand.",
+            "A man holds strings connected to a large parachute or kite on the beach."
+        ],
+        "Question(GPT)": "What are the two people wearing to keep warm on the snowy beach while handling the kite?"
+    },
+    {
+        "image_id": 231088,
+        "file": "/data/qinyu/data/coco/val2017/000000231088.jpg",
+        "caption": [
+            "6 open umbrellas of various colors hanging on a line",
+            "The sun shining through different colored umbrellas. ",
+            "Multi-colored umbrellas hung like a mobile on a wire",
+            "Six umbrellas floating in the air near a building.",
+            "Several umbrellas of different colors are hanging in the sun."
+        ],
+        "Question(GPT)": "What are the umbrellas doing on a windy and rainy day?"
+    },
+    {
+        "image_id": 513283,
+        "file": "/data/qinyu/data/coco/val2017/000000513283.jpg",
+        "caption": [
+            "A small toy sits on a plate with pizza and crusts.",
+            "A small bunny character is on a plate of pizza.",
+            "this is an image of a plate of pizza with a toy bunny.",
+            "A little funny rabbit figure is sitting in the middle of half eaten pizza.",
+            "A small toy is sitting on a plate of pizza."
+        ],
+        "Question(GPT)": "What is the small toy doing on a bed of flowers?"
+    },
+    {
+        "image_id": 210520,
+        "file": "/data/qinyu/data/coco/val2017/000000210520.jpg",
+        "caption": [
+            "A table with plates of food that include corn and fruit.",
+            "A meal sits on a table that has been well decorated.",
+            "A table has colorful flowers and food on it.",
+            "A food plate is shown with other dishes around it.",
+            "A bunch of food and flowers sits on a table."
+        ],
+        "Question(GPT)": "What is the table with the plates of food doing outside in the wind?"
+    },
+    {
+        "image_id": 270883,
+        "file": "/data/qinyu/data/coco/val2017/000000270883.jpg",
+        "caption": [
+            "A woman in lingerie is laying on a soft bed.",
+            "A woman in lingerie laying on a bed.",
+            "A woman in lingerie is bound to a bed.",
+            "Young woman erotically bound on top of bed.",
+            "A woman lays on a bed in her underwear."
+        ],
+        "Question(GPT)": "What is the woman doing laying in the snow?"
+    },
+    {
+        "image_id": 162035,
+        "file": "/data/qinyu/data/coco/val2017/000000162035.jpg",
+        "caption": [
+            "A sign with teddy bears on it is advertising a tea room.",
+            "A fold out sign sitting on a rainy sidewalk.",
+            "A sign on a sidewalk has a teddy bear on it.",
+            "a sign with teddy bears and some people walking on a wet street",
+            "A person walking down a street past a teddy bear sign."
+        ],
+        "Question(GPT)": "What are the teddy bears and the person walking on the street doing on a sunny day?"
+    },
+    {
+        "image_id": 517056,
+        "file": "/data/qinyu/data/coco/val2017/000000517056.jpg",
+        "caption": [
+            "Two women handing out cake on plates on a dining table. ",
+            "Two women stand close to a cake that is mostly gone.",
+            "Two woman are slicing and plating pieces of cake.\n",
+            "Two women stand over a table with a cake cut into pieces.",
+            "Two women are cutting and serving a large cake."
+        ],
+        "Question(GPT)": "What are the two women doing with the cake at a picnic?"
+    },
+    {
+        "image_id": 288862,
+        "file": "/data/qinyu/data/coco/val2017/000000288862.jpg",
+        "caption": [
+            "A man performing a trick on a ledge on a skateboard.",
+            "A skateboarder doing a flip at a skate park",
+            "A man is doing a trick on a skateboard.",
+            "A man doing a trick with a skateboard on a ledge.",
+            "a man standing on one hand holding onto a skateboard "
+        ],
+        "Question(GPT)": "What is the man wearing for a snowboarding trip?"
+    },
+    {
+        "image_id": 199771,
+        "file": "/data/qinyu/data/coco/val2017/000000199771.jpg",
+        "caption": [
+            "A group of people in chef outfits at a kitchen counter.",
+            "A group of people in chefs uniforms standing around a counter.",
+            "A woman teaches a class of aspiring chefs. ",
+            "People in a kitchen with cooking attire on",
+            "A group of people dressed in black preparing food."
+        ],
+        "Question(GPT)": "What are the group of people in chef outfits doing at a barbecue outside?"
+    },
+    {
+        "image_id": 476258,
+        "file": "/data/qinyu/data/coco/val2017/000000476258.jpg",
+        "caption": [
+            "A person in a helmet is riding a skateboard.",
+            "Man in yellow and black body suit on skateboard.",
+            "A man with a helmet on riding on an electrical skateboard. ",
+            "A skateboarder demonstrates on his skateboard that has a large wheel in the back.",
+            "A man on a long exposure picture riding an electric skateboard."
+        ],
+        "Question(GPT)": "What is the skateboarder doing to stay warm in the snowy weather?"
+    },
+    {
+        "image_id": 492992,
+        "file": "/data/qinyu/data/coco/val2017/000000492992.jpg",
+        "caption": [
+            "Bird sits atop cattle on snow covered field.",
+            "a bird is standing on the back of a cow",
+            "a brown bull and a white bird and a hill",
+            "There is a bird standing on the back of the cow.",
+            "a cow that has a small white bird on it"
+        ],
+        "Question(GPT)": "What is the brown bull doing in the heat of a summer field while the bird seeks shade?"
+    },
+    {
+        "image_id": 187144,
+        "file": "/data/qinyu/data/coco/val2017/000000187144.jpg",
+        "caption": [
+            " A white bus parked at a stop next to a crowd.",
+            "THERE IS A BUS PARKED ON THE SIDE OF THE STREET",
+            "A white bus is pulled up to a sidewalk.",
+            "Passengers standing outside a green and white tour bus.",
+            "A group of people stand on a path outside a parked bus. "
+        ],
+        "Question(GPT)": "What items are the passengers holding to shield themselves from the rain while waiting beside the bus?"
+    },
+    {
+        "image_id": 336628,
+        "file": "/data/qinyu/data/coco/val2017/000000336628.jpg",
+        "caption": [
+            "A man in dinosaur covered clown suit talking on a phone on a trolley",
+            "A Man dressed like clown getting off bus.",
+            "A clown dressed in a suit bedecked with dinosaurs steps off a cable car.",
+            "A man in a clown suit is stepping off a trolley.",
+            "A clown like individual walking off a tram."
+        ],
+        "Question(GPT)": "What is the man in the dinosaur-covered clown suit doing while waiting for the bus in the rain?"
+    },
+    {
+        "image_id": 299887,
+        "file": "/data/qinyu/data/coco/val2017/000000299887.jpg",
+        "caption": [
+            "A man and a woman are posing next to a red motorcycle.",
+            "A man and woman beside a red motorcycle.",
+            "a man and a woman are standing beside a red motorcycle",
+            "Man and woman sitting on the back of a motorcycle.",
+            "A man and a woman posing in front of a motorcycle.\n"
+        ],
+        "Question(GPT)": "What are the man and woman doing with the red motorcycle during a heavy snowstorm?"
+    },
+    {
+        "image_id": 125472,
+        "file": "/data/qinyu/data/coco/val2017/000000125472.jpg",
+        "caption": [
+            "A man flying through the air while riding a skateboard.",
+            "A man is doing tricks on a skateboard.",
+            "A skateboarder jumps while trying to perform a trick.",
+            "a man in the air standing above the skateboard",
+            "a person attempting a jump with a skateboard"
+        ],
+        "Question(GPT)": "What is the man doing with his skateboard during a heavy snowstorm?"
+    },
+    {
+        "image_id": 78959,
+        "file": "/data/qinyu/data/coco/val2017/000000078959.jpg",
+        "caption": [
+            "A strange plant hanging off a banana tree.",
+            "A green fruit tree yields fruit not yet ready for harvest.",
+            "A drooping pink and white flower with green leaves.",
+            "The green plant has a bloom hanging upside down. ",
+            "a bunch of bananas are hanging from the banana tree"
+        ],
+        "Question(GPT)": "What would the pink and white flower look like if it were covered in snow?"
+    },
+    {
+        "image_id": 135410,
+        "file": "/data/qinyu/data/coco/val2017/000000135410.jpg",
+        "caption": [
+            "A bike leaning up to a parking meter.",
+            "A coin meter that is next to a ladder with balls on it.",
+            "A parking meter is on the street in front of a building.",
+            "A stack of balls that is next to a parking meter.",
+            "A parking meter next to a ladder with bowling balls on each rung."
+        ],
+        "Question(GPT)": "What is the bike doing parked on a snowy day, where the parking meter and the ladder with balls might be covered in snow?"
+    },
+    {
+        "image_id": 468501,
+        "file": "/data/qinyu/data/coco/val2017/000000468501.jpg",
+        "caption": [
+            "A group of women playing video games together",
+            "Two people using an interactive gaming system while a person observes them from a couch.",
+            "Three good friends are having a good time playing a game.",
+            "Two players compete in a video game as another person watches. ",
+            "a woman watching two people play a wii game with wii motes"
+        ],
+        "Question(GPT)": "What are the two people wearing for their outdoor sporting event while the woman cheers them on?"
+    },
+    {
+        "image_id": 421060,
+        "file": "/data/qinyu/data/coco/val2017/000000421060.jpg",
+        "caption": [
+            "Competitive spirit during a competition in mid air",
+            "A skier races down the track at a competition.",
+            "A person is skiing on a slope covered in snow.",
+            "The skier is jumping into the air above a half pipe. ",
+            "Skier performing aerial jump during outdoor competition gathering."
+        ],
+        "Question(GPT)": "What is the skier doing to avoid getting sunburned on such a sunny beach day?"
+    },
+    {
+        "image_id": 270122,
+        "file": "/data/qinyu/data/coco/val2017/000000270122.jpg",
+        "caption": [
+            "Waves crashing on the shore with a surfer in the midst",
+            "A surfer is mostly obscured by wave foam.",
+            "A person on a surfboard in the water.",
+            "A man is riding a surfboard in the ocean.",
+            "A surfer in the middle of two waves that have crested"
+        ],
+        "Question(GPT)": "What is the surfer wearing to keep warm in the snowy weather?"
+    },
+    {
+        "image_id": 551215,
+        "file": "/data/qinyu/data/coco/val2017/000000551215.jpg",
+        "caption": [
+            "a tennis player running to get to the ball",
+            "The woman is playing a game of tennis on the court. ",
+            "A woman reaching with her tennis racquet on a court.",
+            "a woman running across a tennis court  so she can hit the pall ",
+            "a female holding a tennis racket and lunging for a tennis ball"
+        ],
+        "Question(GPT)": "What is the tennis player wearing to keep warm on such a snowy day?"
+    },
+    {
+        "image_id": 148957,
+        "file": "/data/qinyu/data/coco/val2017/000000148957.jpg",
+        "caption": [
+            "A box contains six donuts with varying types of glazes and toppings.",
+            "A box filled with six donuts covered on toppings.",
+            "A box with half a dozen glazed and frosted donuts.",
+            "A close up look into a box filled with pastries.",
+            "The box contains six donuts, but only two are chocolate covered."
+        ],
+        "Question(GPT)": "What flavors of donuts are included in the box on a picnic table?"
+    },
+    {
+        "image_id": 36936,
+        "file": "/data/qinyu/data/coco/val2017/000000036936.jpg",
+        "caption": [
+            "Two people play video games while sitting on a couch.",
+            "A man and woman playing a wii game.",
+            "A man and woman sitting on a sofa watching tv.",
+            "A man and woman sitting on a couch playing a video game.",
+            "A couple sits on a couch while playing wii."
+        ],
+        "Question(GPT)": "What are the man and woman doing on the hiking trail?"
+    },
+    {
+        "image_id": 24243,
+        "file": "/data/qinyu/data/coco/val2017/000000024243.jpg",
+        "caption": [
+            "The girl is sitting inside the broken fridge on the side of the road. ",
+            "Two ladies seated with cups of drinks, one smoking while the other seated inside a fridge",
+            "A person sitting in an old refrigerator on the sidewalk, drinking beer.",
+            "A woman with a beer sits inside a refrigerator on the footpath",
+            " a woman smoking a cigarette near a girl sitting inside of a refridgerator."
+        ],
+        "Question(GPT)": "What are the ladies sipping on their hot drinks doing during the snowfall outside?"
+    },
+    {
+        "image_id": 217285,
+        "file": "/data/qinyu/data/coco/val2017/000000217285.jpg",
+        "caption": [
+            "A baseball player with the Cardinals getting ready to hit a baseball.",
+            "The man is getting ready to hit the ball in the baseball game. ",
+            "some ball players are looking home plate and talking",
+            "A baseball player holding a baseball bat during a game.",
+            "A batter, catcher and umpire during a baseball game."
+        ],
+        "Question(GPT)": "What is the baseball player with the Cardinals doing during the heavy snowfall?"
+    },
+    {
+        "image_id": 312263,
+        "file": "/data/qinyu/data/coco/val2017/000000312263.jpg",
+        "caption": [
+            "A clock is at the bottom of a very tall building.",
+            "The clock tower is on the first floor of the tall building. ",
+            "Black and white, looking up the side of a building, with a clock and with rows of windows.",
+            "A very tall building with lots of windows and a clock mounted to it's side.",
+            "A large building that has a clock on it."
+        ],
+        "Question(GPT)": "What color are the flowers planted next to the clock tower on a snowy day?"
+    },
+    {
+        "image_id": 404568,
+        "file": "/data/qinyu/data/coco/val2017/000000404568.jpg",
+        "caption": [
+            "A seagull standing on the sand of a beach",
+            "A seagull stands on the beach in front of a wave.",
+            "A seagull standing on the sand near the water.",
+            "The big bird is standing on the beach by the water. ",
+            "A seagull standing near the ocean on the sand."
+        ],
+        "Question(GPT)": "What is the seagull doing on the snowy mountain top?"
+    },
+    {
+        "image_id": 535858,
+        "file": "/data/qinyu/data/coco/val2017/000000535858.jpg",
+        "caption": [
+            "A woman trying to catch a wave on her surfboard.",
+            "A woman rides on a surfboard in the ocean.",
+            "A girl is getting ready to surf on a wave.",
+            "Boogie boarder about to catch a wave about to break on the ocean.",
+            "A woman rides a wave lying down on a surfboard."
+        ],
+        "Question(GPT)": "What is the woman doing with her surfboard during a snowstorm?"
+    },
+    {
+        "image_id": 575187,
+        "file": "/data/qinyu/data/coco/val2017/000000575187.jpg",
+        "caption": [
+            "A giraffe sticks his nose and tongue out of a wire fence to accept something a man is offering him.",
+            "A giraffe eating out of the hands of a man through fence.",
+            "A man in black sweater feeding a giraffe through a fence.",
+            "A man feeding a giraffe through a metal fence",
+            "A man feeding a giraffe through a fence."
+        ],
+        "Question(GPT)": "What is the man wearing while feeding the giraffe on a snowy day?"
+    },
+    {
+        "image_id": 464872,
+        "file": "/data/qinyu/data/coco/val2017/000000464872.jpg",
+        "caption": [
+            "a couple of zebras that are running through some grass",
+            "A couple of zebra walking across a lush green field.",
+            "Pair of zebras walking in natural field of tall grasses.",
+            "zebras race along in a grassy field in front of some trees",
+            "Two zebra run through tall grass near a wooded area."
+        ],
+        "Question(GPT)": "What are the zebras doing to stay warm during a snowy blizzard?"
+    },
+    {
+        "image_id": 240767,
+        "file": "/data/qinyu/data/coco/val2017/000000240767.jpg",
+        "caption": [
+            "A red brick building with a street sign sitting outside of it.",
+            "a brick building with a blue sign on it in front of a metal pole",
+            "A large pretty brick building with a small blue sign on it.",
+            "Street signs sitting beside a large red brick building. ",
+            "This blurry picture shows the side of a brick building."
+        ],
+        "Question(GPT)": "What does the street sign indicate during a heavy snowfall?"
+    },
+    {
+        "image_id": 56344,
+        "file": "/data/qinyu/data/coco/val2017/000000056344.jpg",
+        "caption": [
+            "Two computer monitors on a desk with a keyboard and mouse",
+            "Looking down at a desktop with two monitors, a key board, mouse and cell phones on it.",
+            "A view of a work desk complete with computers and camera.",
+            "a couple of monitors are on a desk",
+            "a desk with a keyboard, mouse and two monitors on it "
+        ],
+        "Question(GPT)": "What is the person at the desk using to take pictures on a rainy day?"
+    },
+    {
+        "image_id": 494188,
+        "file": "/data/qinyu/data/coco/val2017/000000494188.jpg",
+        "caption": [
+            "A black bird sitting next to a couple of people in chairs.",
+            "a black bird standing on the floor in the street",
+            "A black bird standing behind a group of occupied chairs along a sidewalk.",
+            "A crow walking along the floor next to seated people.",
+            "A bird on the ground next to a person at a table."
+        ],
+        "Question(GPT)": "What is the black bird doing flying amidst the snowflakes next to people who are bundled up in warm coats?"
+    },
+    {
+        "image_id": 356612,
+        "file": "/data/qinyu/data/coco/val2017/000000356612.jpg",
+        "caption": [
+            "Several black bulls are walking down the street.",
+            "The bulls are walking down the street in front of cars. ",
+            "A herd of cows walking down a city street.",
+            "A group of cows walking in front of several cars.",
+            "A group of bulls riding on the street along with cars and buses and a man on a bike giving an girl a ride."
+        ],
+        "Question(GPT)": "What are the bulls and cows doing during a heavy snowstorm on the street?"
+    },
+    {
+        "image_id": 547502,
+        "file": "/data/qinyu/data/coco/val2017/000000547502.jpg",
+        "caption": [
+            "Four dogs playing with a Frisbee on a lawn.",
+            "Four dogs in a yard are playing with a Frisbee.",
+            "A group of dogs that are standing in the grass.",
+            "There were four dogs in the yard playing with a Frisbee.",
+            "Four dogs playing together with a Frisbee in a large field."
+        ],
+        "Question(GPT)": "What are the four dogs doing with a Frisbee during a snowstorm?"
+    },
+    {
+        "image_id": 29984,
+        "file": "/data/qinyu/data/coco/val2017/000000029984.jpg",
+        "caption": [
+            "A group of people wading around a large body of water.",
+            "Couple of empty chairs on the beach under an umbrella while people in the ocean",
+            "four people swimming at the beach on a sunny day",
+            "Several people are swimming in the ocean with two empty chairs and an umbrella on the beach.",
+            "Four people are swimming in the sea with chairs on the beach."
+        ],
+        "Question(GPT)": "What are the group of people doing during a stormy afternoon with the chairs on the beach?"
+    },
+    {
+        "image_id": 218249,
+        "file": "/data/qinyu/data/coco/val2017/000000218249.jpg",
+        "caption": [
+            "a burger and some fries on a tray",
+            "An order of food sits on a table.",
+            "A tray topped with a chicken sandwich next to a cup of fries.",
+            "A hamburger and fries that are on a tray.",
+            "A food tray with french fries and a sandwich."
+        ],
+        "Question(GPT)": "What is the person eating the burger and fries doing in a snowstorm?"
+    },
+    {
+        "image_id": 80273,
+        "file": "/data/qinyu/data/coco/val2017/000000080273.jpg",
+        "caption": [
+            "a man snow boarding with snow gear on ",
+            "A person is riding down a hill on a snowboard.",
+            "A man snowboards down a snowy hill. ",
+            "A man looking behind while skating on the snow ",
+            "A person wearing a helmet and goggles riding a snowboard down the slopes."
+        ],
+        "Question(GPT)": "What is the man doing on the beach with his snowboard?"
+    },
+    {
+        "image_id": 572517,
+        "file": "/data/qinyu/data/coco/val2017/000000572517.jpg",
+        "caption": [
+            "a polar bear following a big winged bird",
+            "a large bear landing a large polar bear is in the background preparing to drink from the water ",
+            "A polar bear and a bird near a small pond.",
+            "A bird sitting in front of the water with a bear on the other side.",
+            "A Polar Bear walks toward water, while a large bird lands on the opposite bank."
+        ],
+        "Question(GPT)": "What is the polar bear doing on a hot, sandy beach while the bird tries to find shade?"
+    },
+    {
+        "image_id": 47819,
+        "file": "/data/qinyu/data/coco/val2017/000000047819.jpg",
+        "caption": [
+            "A man standing behind a brown horse carrying lots of luggage.",
+            "A trail guide stands next to the loaded pack horse.",
+            "A man standing next to a donkey loaded with luggage ",
+            "a man standing next to a horse in the woods",
+            "A man standing next to a donkey with a lot of baggage on it."
+        ],
+        "Question(GPT)": "What is the man doing next to a donkey on a busy city street?"
+    },
+    {
+        "image_id": 485237,
+        "file": "/data/qinyu/data/coco/val2017/000000485237.jpg",
+        "caption": [
+            "Two large jets sitting on top of an airport runway.",
+            "Two commercial jets on a runway at an airport.",
+            "Two planes are on a runway beside trucks.",
+            "Two jumbo jet air planes on a runway facing each other.",
+            "Two large jets facing each other at an airport."
+        ],
+        "Question(GPT)": "What are the two large jets doing in the hangar on a stormy day?"
+    },
+    {
+        "image_id": 405970,
+        "file": "/data/qinyu/data/coco/val2017/000000405970.jpg",
+        "caption": [
+            "A large living room with a wall painted green",
+            "A den with a large coffee table, couch and a television.",
+            "THERE IS AN IMAGE OF A LIVING ROOM WITH A WINDOW VIEW",
+            "A very nice looking room with some nice windows.",
+            "The green room has large windows over looking the city."
+        ],
+        "Question(GPT)": "What is the view from the large windows in the green room like on a stormy evening?"
+    },
+    {
+        "image_id": 455352,
+        "file": "/data/qinyu/data/coco/val2017/000000455352.jpg",
+        "caption": [
+            "a bell tower with a clock built inside of it ",
+            "a white clock is on top of a tower",
+            "A big building with a clock on the top and one in the middle.",
+            "A clock is mounted to the side of a tower.",
+            "A clock tower with a compass sitting on top of it."
+        ],
+        "Question(GPT)": "What time does the clock show on a foggy night when the compass cannot be seen?"
+    },
+    {
+        "image_id": 170545,
+        "file": "/data/qinyu/data/coco/val2017/000000170545.jpg",
+        "caption": [
+            "A pay phone sitting on the side of a street.",
+            "There is a pay phone on the dark street corner.",
+            "Dark street with a pizza hut on the opposite corner.",
+            "It is night and there are street lights on.",
+            "A pay phone is sitting at the corner of an empty street."
+        ],
+        "Question(GPT)": "What is the visibility like around the pay phone on a foggy morning?"
+    },
+    {
+        "image_id": 191471,
+        "file": "/data/qinyu/data/coco/val2017/000000191471.jpg",
+        "caption": [
+            "The stop sign is visible for everyone to see.",
+            "A close up view of a stop sign in a neighborhood.",
+            "A Stop sign with rain drops on it near some buildings.",
+            "A red stop sign sitting on top of a metal pole.",
+            "there is a very close-up view of a stop sign"
+        ],
+        "Question(GPT)": "What do the raindrops on the stop sign turn into as snow starts to fall?"
+    },
+    {
+        "image_id": 54931,
+        "file": "/data/qinyu/data/coco/val2017/000000054931.jpg",
+        "caption": [
+            "a woman with a rope leading a horse",
+            "A woman walking a horse on some property with trees.",
+            "A woman in high heels is leading a white horse with a rope.",
+            "A woman leading a horse through an exercise yard.",
+            "An attractive young woman leads a grey horse through a paddock."
+        ],
+        "Question(GPT)": "What is the woman wearing on her feet while leading the horse through a snowy field?"
+    },
+    {
+        "image_id": 315187,
+        "file": "/data/qinyu/data/coco/val2017/000000315187.jpg",
+        "caption": [
+            "an old passenger bus parked next to a walgreens ",
+            "On the road  a bus and a car are going.",
+            "a busy street witha a van and a car driving ",
+            "A bus parked in front of a building.",
+            "Traffic in front of Walgreens on a town street."
+        ],
+        "Question(GPT)": "What items might a person need to carry while walking on a snowy day near the parked bus and Walgreens?"
+    },
+    {
+        "image_id": 340697,
+        "file": "/data/qinyu/data/coco/val2017/000000340697.jpg",
+        "caption": [
+            "a close up of many drinks in a fridge ",
+            "A display in a store filled with lots of bottles of soda.",
+            "Several rows of Crush soda in bottles in a refrigerator",
+            "A cooler with many different kinds of beverages in it.",
+            "Several bottles are displayed in a commercial refrigerator."
+        ],
+        "Question(GPT)": "What drinks are the people choosing from the warm shelves at the market?"
+    },
+    {
+        "image_id": 401250,
+        "file": "/data/qinyu/data/coco/val2017/000000401250.jpg",
+        "caption": [
+            "A person that is doing a trick in the air.",
+            "A skier dressed in white performing an aerial maneuver.",
+            "A skier performing a backflip with the sky as background",
+            "The skier is upside down in the air.",
+            "The snow skier is performing a flip in the air."
+        ],
+        "Question(GPT)": "What is the skier doing to keep warm during a heavy snowstorm?"
+    },
+    {
+        "image_id": 198928,
+        "file": "/data/qinyu/data/coco/val2017/000000198928.jpg",
+        "caption": [
+            "A woman standing next to a light pole by a street.",
+            "A woman stands next to a traffic light.",
+            "The woman is standing by the stop light.",
+            "A woman stands next to a lamp post with a street light on it.",
+            "A woman at a crosswalk that has a green light."
+        ],
+        "Question(GPT)": "What is the woman doing next to the light pole during a nighttime blackout?"
+    },
+    {
+        "image_id": 211825,
+        "file": "/data/qinyu/data/coco/val2017/000000211825.jpg",
+        "caption": [
+            "A man blowing out candles on a cake.",
+            "A man blowing out a birthday cake with many candles.",
+            "A man blowing out candles on a cake.",
+            "A man blowing out candles on a cake",
+            "Man blowing out white candles on top of a brown cake. "
+        ],
+        "Question(GPT)": "What is the man doing with the cake during a power outage?"
+    },
+    {
+        "image_id": 306733,
+        "file": "/data/qinyu/data/coco/val2017/000000306733.jpg",
+        "caption": [
+            "Bathroom with sink, shower, towels, curtain, and more with window",
+            "A picture of a bathroom with a fern plant near the sink and a photo of a city above the toilet. ",
+            "the mirror, sink and bathtub area of a white bathroom",
+            "Well decorated bathroom in a small yellow tinted area.",
+            "A bathroom with a sink, towel rack and shower stall."
+        ],
+        "Question(GPT)": "What is the fern plant doing outside in the garden?"
+    },
+    {
+        "image_id": 540932,
+        "file": "/data/qinyu/data/coco/val2017/000000540932.jpg",
+        "caption": [
+            "Two people standing on a beach next to the ocean.",
+            "People enjoying the beach on a nice day.",
+            "Beach scene with walkers on beach, boaters and swimmers.",
+            "A person rowing a kayak onto the shore of a beach",
+            "People enjoying a sunny day at a beach."
+        ],
+        "Question(GPT)": "What are the two people doing to stay warm during their snowball fight on the beach?"
+    },
+    {
+        "image_id": 256407,
+        "file": "/data/qinyu/data/coco/val2017/000000256407.jpg",
+        "caption": [
+            "A white tray topped with lots of different coffee cups.",
+            "Ornate cup and saucer clock displayed against red background.",
+            "A clock that has replaced numbers with teacups",
+            "A clock hanging on a wall with the numbers being replaced by cups and saucers.  ",
+            "This seems to be several glasses on an object. "
+        ],
+        "Question(GPT)": "How do the coffee cups and saucers look on the tray under the clear blue sky?"
+    },
+    {
+        "image_id": 242934,
+        "file": "/data/qinyu/data/coco/val2017/000000242934.jpg",
+        "caption": [
+            "A large living room is seen in this image.",
+            "A large living room with a black sectional and a recliner.",
+            "a living room with a big black couch in the middle of it",
+            "Furniture is arranged around a house's living room.",
+            "A black leather sofa in a large living room."
+        ],
+        "Question(GPT)": "What is the color of the furniture someone might get wet in the garden on such a rainy day?"
+    },
+    {
+        "image_id": 150649,
+        "file": "/data/qinyu/data/coco/val2017/000000150649.jpg",
+        "caption": [
+            "Different views of a man who is skateboarding.",
+            "A person with duplicate images of himself skateboarding.",
+            "Boys in a school uniform skateboarding on a concrete ramp.",
+            "Many young men ride their skateboards on a ramp. ",
+            "A man riding a skateboard up the side of a ramp."
+        ],
+        "Question(GPT)": "What are the boys wearing while skateboarding through the snow-covered ramp?"
+    },
+    {
+        "image_id": 357501,
+        "file": "/data/qinyu/data/coco/val2017/000000357501.jpg",
+        "caption": [
+            "A gold colored pair of scissors cutting into a piece of bejeweled fabric with other bejeweled items in the background.",
+            "A pair of gold scissors laying on a bag of decorations.",
+            "A pair of golden scissors are being used for crafts",
+            "A pair of golden scissors next to multiple buttons.",
+            "Fancy curved cutting gold colored scissors with decorative flowers."
+        ],
+        "Question(GPT)": "What are the gold scissors doing on a windy day outside, away from all the bejeweled fabric and decorations?"
+    },
+    {
+        "image_id": 354547,
+        "file": "/data/qinyu/data/coco/val2017/000000354547.jpg",
+        "caption": [
+            "a man in a white suit standing in front of some bushes ",
+            "A man with a beard wearing a white suit standing near a garden,",
+            "A man wearing a suit and standing on a field of grass.",
+            "a man standing in the grass with his hands in his pockets",
+            "a man that is in a suit that is outside"
+        ],
+        "Question(GPT)": "What is the man doing inside on such a snowy day?"
+    },
+    {
+        "image_id": 364126,
+        "file": "/data/qinyu/data/coco/val2017/000000364126.jpg",
+        "caption": [
+            "A man in shorts surfing in the ocean",
+            "A man is riding a surfboard on a wave.",
+            "The man is riding the surfboard on the water. ",
+            "A person on a surfboard in the water.",
+            "A surfer is in the middle of an ocean wave."
+        ],
+        "Question(GPT)": "What is the man in shorts doing on a snow-covered mountain with his surfboard?"
+    },
+    {
+        "image_id": 464089,
+        "file": "/data/qinyu/data/coco/val2017/000000464089.jpg",
+        "caption": [
+            "A baseball game showing a batter waiting for a pitch.",
+            "A baseball game in progress with the batter in the middle of a swing.",
+            "a baseball player with a bat on a field ",
+            "A little league baseball player is getting ready hit the ball with his bat. ",
+            "A catcher is ready to catch the ball after it crosses the plate."
+        ],
+        "Question(GPT)": "What is the batter doing with his bat during a snowstorm?"
+    },
+    {
+        "image_id": 33221,
+        "file": "/data/qinyu/data/coco/val2017/000000033221.jpg",
+        "caption": [
+            "A woman holding a tennis racquet in the air",
+            "Two women at a beach with tennis rackets in their hands and one girl looking very excited with her tennis racket in the air. ",
+            "A woman holding a baseball bat over her head on the sand.",
+            "A few friends going to the beach playing badminton.",
+            "A group of people standing on top of a beach."
+        ],
+        "Question(GPT)": "What are the women wearing to stay warm while playing tennis on a snowy day?"
+    },
+    {
+        "image_id": 183709,
+        "file": "/data/qinyu/data/coco/val2017/000000183709.jpg",
+        "caption": [
+            "Four people wait to cross the street at an intersection.",
+            "People looking at a stop light on the other side of the road. ",
+            "A group of people standing next to a crosswalk.",
+            "A group of people wait to cross an intersection.",
+            "a group of men walking across the street"
+        ],
+        "Question(GPT)": "What are the four people wearing for the snowstorm as they prepare to cross the street?"
+    },
+    {
+        "image_id": 388927,
+        "file": "/data/qinyu/data/coco/val2017/000000388927.jpg",
+        "caption": [
+            "A person holding a smart phone in the palm of their hand.",
+            "a hand holding a gray and blue clock and some peoples legs",
+            "Hand holding an electronic component with a clock on it.",
+            "An old cellphone that doesn't flip or have a touch screen. ",
+            "The dial clock of a cellphone displayed in hand"
+        ],
+        "Question(GPT)": "What is the person doing with the smartphone and the clock on a windy day at the beach?"
+    },
+    {
+        "image_id": 223747,
+        "file": "/data/qinyu/data/coco/val2017/000000223747.jpg",
+        "caption": [
+            "a man sleeping with his cat next to him",
+            "A young man and his cute cat enjoy a nap together.",
+            "A man is sleeping with his head on a pillow.",
+            "Man sleeping in his bedroom next to a cat.",
+            "Man sleeping next to a cat on a bed. "
+        ],
+        "Question(GPT)": "What is the man doing with his cat on such a busy street?"
+    },
+    {
+        "image_id": 63740,
+        "file": "/data/qinyu/data/coco/val2017/000000063740.jpg",
+        "caption": [
+            "Two computers sitting on top of a desk.",
+            "A laptop computer and a desktop computer on a white desk",
+            "A desktop with two computers and fruit on it.",
+            "A lap top computer next to a computer monitor sitting on top of a desk.",
+            "a laptop computer a keyboard and two monitors"
+        ],
+        "Question(GPT)": "What activities are the two computers being used for outside on a windy day?"
+    },
+    {
+        "image_id": 394510,
+        "file": "/data/qinyu/data/coco/val2017/000000394510.jpg",
+        "caption": [
+            "A small child on a skateboard photoshopped over a street image.",
+            "A young boy with a gold shirt is on a purple skateboard.",
+            "A little kid that is on a skateboard.",
+            "A young boy riding a skateboard on a sidewalk",
+            "A young skateboarder isn't much bigger than his board."
+        ],
+        "Question(GPT)": "What is the young skateboarder doing during a snowstorm?"
+    },
+    {
+        "image_id": 331817,
+        "file": "/data/qinyu/data/coco/val2017/000000331817.jpg",
+        "caption": [
+            "A persons arm reaching over a table filled with food.",
+            "A table with several dishes on it with a television.",
+            "A close up of a table with food, bowls and cups.",
+            "A woman getting food off of a table, with a purple sweater on.",
+            "A person is eating food at the table."
+        ],
+        "Question(GPT)": "What is the woman wearing to stay dry while she collects food outside in the rain?"
+    },
+    {
+        "image_id": 42276,
+        "file": "/data/qinyu/data/coco/val2017/000000042276.jpg",
+        "caption": [
+            "A toilet sitting in a room surrounded by personal items.",
+            "A bathroom with ski equipment laid out on the floor.",
+            "A bathroom with a toilet, a plant, a stand and several footwear on the floor. ",
+            "The bathroom is a mess with sports gear. ",
+            "a bathroom with a toilet and a lot of ski boots"
+        ],
+        "Question(GPT)": "What items would someone find on a tidy and empty beach that contrast with the cluttered bathroom described?"
+    },
+    {
+        "image_id": 43816,
+        "file": "/data/qinyu/data/coco/val2017/000000043816.jpg",
+        "caption": [
+            "A batter getting ready to hit his pitch.",
+            "a man swings a baseball bat at a ball",
+            "A baseball player at the plate hitting a baseball.",
+            "A baseball player holding a bat as a ball approaches.",
+            "Batter takes a swing at the incoming ball during the baseball game"
+        ],
+        "Question(GPT)": "What is the batter doing with his bat during a snowstorm?"
+    },
+    {
+        "image_id": 178028,
+        "file": "/data/qinyu/data/coco/val2017/000000178028.jpg",
+        "caption": [
+            "A bathroom vanity sink with a large mirror and hairdryer on the wall.",
+            "a bath room sink with  large mirror",
+            "A bathroom sink with a towel rack, hair dryer and a mirror.",
+            "A single basin bathroom sink with a granite vanity.",
+            "a very clean sink in a bathroom and  a towel"
+        ],
+        "Question(GPT)": "What items might someone need to dry off with the towel after using the sink on a beach day?"
+    },
+    {
+        "image_id": 290248,
+        "file": "/data/qinyu/data/coco/val2017/000000290248.jpg",
+        "caption": [
+            "A crowd of people standing in the middle of a street.",
+            "A crowd of people are walking through a covered sidewalk.",
+            "People walk down a crowded street at a festival",
+            "A large crowd is walking in the street for a festival",
+            "Several people are grouped together in a public area."
+        ],
+        "Question(GPT)": "What activities are the crowd engaged in inside a quiet library?"
+    },
+    {
+        "image_id": 127955,
+        "file": "/data/qinyu/data/coco/val2017/000000127955.jpg",
+        "caption": [
+            "there are two brown bears that are playing together in the water",
+            "Two bears that are standing in the water.",
+            "The two brown bears are playing in water.",
+            "Two large bears fighting or playing in water.",
+            "The two big bears are fighting in the water with one another."
+        ],
+        "Question(GPT)": "What do the two brown bears find in the forest while they are searching for food?"
+    },
+    {
+        "image_id": 15335,
+        "file": "/data/qinyu/data/coco/val2017/000000015335.jpg",
+        "caption": [
+            "A group of people sitting at a table with food.",
+            "A man, woman, and boy are sitting at a table.",
+            "A man, woman and child eating together at a restaurant.",
+            "A boy sitting between a man and a woman.",
+            "a young child, lady , and man sitting in a booth at a table"
+        ],
+        "Question(GPT)": "What is the boy doing while the group is having a picnic outside?"
+    },
+    {
+        "image_id": 570756,
+        "file": "/data/qinyu/data/coco/val2017/000000570756.jpg",
+        "caption": [
+            "A group of people flying kites at the beach",
+            "People on a beach prepare to use their glides",
+            "Several people are flying kites on the beach.",
+            "Three people on a beach with kites in the sky.",
+            "an image of a group of people that are walking on beach"
+        ],
+        "Question(GPT)": "What are the group of people doing with their kites during a snowstorm?"
+    },
+    {
+        "image_id": 148739,
+        "file": "/data/qinyu/data/coco/val2017/000000148739.jpg",
+        "caption": [
+            "A person in a wet suit on a surfboard",
+            "A person in a wetsuit riding a wave on a surfboard.",
+            "Woman in black body suit surfing on a small wave.",
+            "The person in the bodysuit is surfing a wave.",
+            "a person riding a surf board on a wave"
+        ],
+        "Question(GPT)": "What is the person in the wetsuit doing on their surfboard during a snowstorm?"
+    },
+    {
+        "image_id": 93965,
+        "file": "/data/qinyu/data/coco/val2017/000000093965.jpg",
+        "caption": [
+            "Two zebras made of Lego stand in a field.",
+            "Two zebras, one grazing and one staring straight ahead in a grassy field",
+            "Two zebra standing on top of a grass covered field.",
+            "Two zebras are in a field and one is eating the grass. ",
+            "Two fake zebras are composed of materials and placed on grass. "
+        ],
+        "Question(GPT)": "What are the two Lego zebras doing during a heavy snowfall?"
+    },
+    {
+        "image_id": 276921,
+        "file": "/data/qinyu/data/coco/val2017/000000276921.jpg",
+        "caption": [
+            "Two teddy ears are hanging in a window.",
+            "a couple of stuffed animals hang from a car mirror ",
+            "Two teddy bears hang from the inside of a car.",
+            "A close up of two teddy bears hanging from two strings on a hook.",
+            "Two stuffed teddy bears hanging from a rear view mirror."
+        ],
+        "Question(GPT)": "What do the two teddy bears see while hanging from the rearview mirror during a snowstorm?"
+    },
+    {
+        "image_id": 22479,
+        "file": "/data/qinyu/data/coco/val2017/000000022479.jpg",
+        "caption": [
+            "The skateboarder wears headphones while jumping to grab his board.",
+            "A man on a skateboard performs a trick on a ramp",
+            "A man performs a jump on a skateboard at a skate park.",
+            "A person doing a trick on a skateboard",
+            "Skateboarder holding the bottom of his board in the air. "
+        ],
+        "Question(GPT)": "What is the skateboarder wearing to keep warm while skating on a snowy day?"
+    },
+    {
+        "image_id": 96001,
+        "file": "/data/qinyu/data/coco/val2017/000000096001.jpg",
+        "caption": [
+            "A table topped with a book, umbrella and other items.",
+            "Several antique trinkets are arranged on a table. ",
+            "A counter with porcelain figurines, an umbrella and a bowl. ",
+            "A table with an umbrella and other things",
+            "a display of figurines and books as an art piece"
+        ],
+        "Question(GPT)": "What does the umbrella protect the table from on a windy and rainy day outside?"
+    },
+    {
+        "image_id": 217219,
+        "file": "/data/qinyu/data/coco/val2017/000000217219.jpg",
+        "caption": [
+            "A made up bed with a pile of newspapers on it.",
+            "a white pillow white sheets and an orange and tan bedspread",
+            "A bed with a yellow blanket and a white pillow.",
+            "A newspaper spread out on a made bed with a quilt and pillow.",
+            "A number of newspapers lay on an empty bed."
+        ],
+        "Question(GPT)": "What's the person doing with the newspapers on a stormy evening outside?"
+    },
+    {
+        "image_id": 341719,
+        "file": "/data/qinyu/data/coco/val2017/000000341719.jpg",
+        "caption": [
+            "A group of people riding skis across a snow covered slope.",
+            "Several people standing in the snow near trees.",
+            "Several people can be seen at the crest of the mountain.",
+            "A group of people with skis and snowboards stand on a mountain.",
+            "Skiers and snowboarders mill about on a mountain."
+        ],
+        "Question(GPT)": "What are the group of people with skis and snowboards doing on the beach?"
+    }
+]
