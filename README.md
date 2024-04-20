@@ -6,7 +6,7 @@ This repository contains the source code for the paper.
 
 *Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould*
 
-
+![Figure 1](./asset/figure1.jpg)
 
 ## Abstract
 Large vision-language models (LVLMs), designed to interpret and respond to human instructions, occasionally generate hallucinated or harmful content due to inappropriate instructions. This study uses linear probing to shed light on the hidden knowledge at the output layer of LVLMs. **We demonstrate that the logit distributions of the first tokens contain sufficient information to determine whether to respond to the instructions, including recognizing unanswerable visual questions, defending against multi-modal jailbreaking attack, and identifying deceptive questions.** Such hidden knowledge is gradually lost in logits of subsequent tokens during response generation. Then, we illustrate a simple decoding strategy at the generation of the first token, effectively improving the generated content. In experiments, we find a few interesting insights: First, the CLIP model already contains a strong signal for solving these tasks, indicating potential bias in the existing datasets. Second, we observe performance improvement by utilizing the first logit distributions on three additional tasks, including indicting uncertainty in math solving, mitigating hallucination, and image classification. Last, with the same training data, simply finetuning LVLMs improve models' performance but is still inferior to linear probing on these tasks.
@@ -67,7 +67,11 @@ Please refer to those eval.ipynb files.
 
 ### Use our finetuned model checkpoints
 
-I'm learning how to upload models to HuggingFace. Will update soon!!!
+Finetuned with training data used in the 6 tasks: [model](https://huggingface.co/QinyuZhao1116/LVLM-LP-Finetuned-LLaVA/blob/main/README.md). We finetune a pretrained LLaVA v1.5 7B model for 15 epochs and save checkpoint after each epoch.
+
+Retrained with original instruction-tuning data and our training data: [model](https://huggingface.co/QinyuZhao1116/LVLM-LP-Retrained-LLaVA/blob/main/README.md). We train the model for one epoch as the authors did.
+
+After you download the model checkpoints, please modify `model_path` in [finetune_all.sh](https://github.com/Qinyu-Allen-Zhao/LVLM-LP/blob/main/scripts/finetune_all.sh) and [retrain_all.sh](https://github.com/Qinyu-Allen-Zhao/LVLM-LP/blob/main/scripts/retrain_all.sh), to run the two models.
 
 ## TODO
 
@@ -75,9 +79,20 @@ I'm learning how to upload models to HuggingFace. Will update soon!!!
 
 - [x] Write a step-by-step instruction in the README file
 
-- [] Upload the checkpoints of finetuned LLaVA
+- [x] Upload the checkpoints of finetuned LLaVA
 
 - [x] Upload evaluation codes for all six tasks
 
 
+## Citation
 
+If you use our codebase or our results in your research, please cite our work:
+
+```bibtex
+@article{zhao2024first,
+  title={The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?},
+  author={Zhao, Qinyu and Xu, Ming and Gupta, Kartik and Asthana, Akshay and Zheng, Liang and Gould, Stephen},
+  journal={arXiv preprint arXiv:2403.09037},
+  year={2024}
+}
+```
