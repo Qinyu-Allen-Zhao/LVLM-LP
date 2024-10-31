@@ -1,6 +1,6 @@
 dataset_roots = {
     "VizWiz": "/data/VizWiz/",
-    "MMSafety": "/data/MM-SafetyBench/",
+    "MMSafety": "/data/qinyu/data/MM-SafetyBench/",
     "MAD": "/data/coco/",   # MADBench uses COCO images
     "MathVista": "/data/MathVista/",
     "POPE": "/data/coco/",  # POPE uses COCO images

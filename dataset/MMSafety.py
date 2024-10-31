@@ -23,10 +23,12 @@ class MMSafetyBench(BaseDataset):
         #     }
         #     for ins in llava_coco_train
         # ]
+        data = []
         
         # The original MMSafetyBench data
         # All data are unsafe queries.
         val_phrases = []
+
         for sc in ['01-Illegal_Activitiy', '02-HateSpeech', '03-Malware_Generation', '04-Physical_Harm',
                      '05-EconomicHarm', '06-Fraud', '07-Sex', '08-Political_Lobbying',
                      '09-Privacy_Violence', '10-Legal_Opinion', '11-Financial_Advice',

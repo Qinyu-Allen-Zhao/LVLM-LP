@@ -1,10 +1,6 @@
 import sys
 import os
 import json
-###################################################
-####### Set the path to the repository here #######
-sys.path.append("../LLaVA/")
-###################################################
 
 import torch
 from torch import nn
@@ -64,6 +60,7 @@ class LLaVA(LargeMultimodalModel):
         self.conv.append_message(self.conv.roles[1], None)
 
         conv_prompt = self.conv.get_prompt()
+        print(conv_prompt)
 
         input_ids = tokenizer_image_token(conv_prompt, self.tokenizer, 
                                           IMAGE_TOKEN_INDEX, 
