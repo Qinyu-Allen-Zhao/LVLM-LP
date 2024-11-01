@@ -60,7 +60,6 @@ class LLaVA(LargeMultimodalModel):
         self.conv.append_message(self.conv.roles[1], None)
 
         conv_prompt = self.conv.get_prompt()
-        print(conv_prompt)
 
         input_ids = tokenizer_image_token(conv_prompt, self.tokenizer, 
                                           IMAGE_TOKEN_INDEX, 
@@ -80,7 +79,7 @@ class LLaVA(LargeMultimodalModel):
                 top_p=self.top_p,
                 num_beams=self.num_beams,
                 
-                max_new_tokens=1000,
+                max_new_tokens=100,
                 streamer=streamer,
                 use_cache=True,
                 
@@ -91,15 +90,10 @@ class LLaVA(LargeMultimodalModel):
                 output_hidden_states=return_dict,
                 output_scores=return_dict)
             
-        return outputs
-    
-    def forward(self, image, prompt):
-        outputs = self._basic_forward(image, prompt)
-        response = self.tokenizer.decode(outputs[0, input_ids.shape[1]:]).strip()
-        return response[:-4]
+        return input_ids, outputs
     
     def forward_with_probs(self, image, prompt):
-        outputs = self._basic_forward(image, prompt, return_dict=True)
+        input_ids, outputs = self._basic_forward(image, prompt, return_dict=True)
         
         if isinstance(outputs, BeamSearchDecoderOnlyOutput):
             beam_indices = outputs['beam_indices'][0].cpu()
@@ -111,7 +105,7 @@ class LLaVA(LargeMultimodalModel):
             logits = torch.cat(outputs['scores'], dim=0).cpu().numpy()
             probs = [nn.functional.softmax(next_token_scores, dim=-1) for next_token_scores in outputs['scores']]
             probs = torch.cat(probs).cpu().numpy()
-            output_ids = outputs["sequences"][0][-len(probs):]
+            output_ids = outputs["sequences"][0][len(input_ids):]
             
         response = self.tokenizer.decode(output_ids).strip()[:-4]
 
