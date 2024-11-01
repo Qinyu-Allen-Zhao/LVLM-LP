@@ -75,7 +75,7 @@ After you download the model checkpoints, please modify `model_path` in [finetun
 
 ## Our Decoding Strategy
 
-We modifed the codes in the `transformers` Python package to apply our decoding method. Here’s how it works: when an LVLM (like LLaVA-7B) responds to a potentially risky question, we use a trained linear probing model to check the logit vector of the first token generated. If the model predicts that the whole response would be harmful, we replace the initial token with a template message: "Sorry, answering this question will generate harmful content because " and let the model to complete the template.
+We modifed the codes in the `transformers` Python package to apply our decoding method. Here’s how it works: when an LVLM (like LLaVA-7B) responds to a potentially risky question, we use a trained linear probing model to check the logit vector of the first token generated. If the model predicts that the whole response would be harmful, we replace the initial token with a template message: "Sorry, answering this question will generate harmful content because " and let the model to complete the template. (The message is task-specific. Feel free to change it.)
 
 We didn't upload the modified code, as the `transformers` package is large and managed by others. However, since the changes are minor, we provide a step-by-step guide to make these adjustments, taking defending jailbreaking attacks as an example.
 
@@ -88,7 +88,6 @@ For example, at the end of `Task2_Jailbreak_eval.ipynb`, please add the followin
 ```python
 import torch
 
-next_token_logits = torch.tensor(X_test)
 weights = torch.tensor(model.coef_).float()
 bias = torch.tensor(model.intercept_).float()
 
@@ -100,7 +99,7 @@ This code saves the weights and bias of the trained linear probing model as a .p
 #### 2. Modify the `transformers` package
 Find the file `transformers/generation/utils.py` in your installation of the transformers package (we use version 4.37.2, as required by LLaVA).
 
-In `utils.py`, go to approximately line 2378. Here, you should see the code for generating text using Greedy Search.
+In `utils.py`, go to approximately line 2378. Here, you should see the code for generating text using Greedy Search. (We didn't try other decoding methods of LLM.)
 
 ```python
 ### Previous codes ###
@@ -109,7 +108,7 @@ In `utils.py`, go to approximately line 2378. Here, you should see the code for 
 next_tokens = torch.argmax(next_tokens_scores, dim=-1)
 
 replaced_next_tokens = None
-if first_token_flag:
+if first_token_flag:  # Please add the token flag before the while loop (Line 2326)
     # This is the first generated token
     first_token_flag = False
 
